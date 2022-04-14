@@ -1,0 +1,25 @@
+# Thank you!
+
+In the first place, thank you for your interest! Contributions are welcome. Please follow these guidelines:
+
+## Transcription
+
+The Transcription is intended to be as close as possible to the original text, without copying the layout exactly.
+
+1. Attempt to preserve the original spelling, case, and punctuation wherever possible.
+  - The long s (`ſ`) should be preserved in the transcript
+2. Crop and preserve original illustrations alongside the transcription, embedding them with Markdown syntax.
+3. Approximate layout with reasonable Markdown: given a single header with varying font size, e.g., prefer to represent it as a single header instead of trying to capture the font size variations.
+
+## Modern Version
+
+The Modern Version is intended to make reading easier, by updating spelling, punctuation, and formatting; and to respect the author's writing, by preserving intact as much of the original words and sentence structure as possible.
+
+1. Use the Transcription draft as the starting point.
+2. Update spelling, where appropriate, to King James English.
+  - Convert ſ to s, normalize u and v, etc.
+  - Permit archaic constructions such as "perisheth"
+  - Update spellings such as "humilitie" -> "humility"
+3. Normalize headings to Title Case or Sentence case where appropriate
+4. Adjust punctuation and formatting, if needed, to make the intention clearer.
+5. Do not replace words, paraphrase, etc. unless absolutely necessary.

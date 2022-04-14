@@ -1,0 +1,23 @@
+{
+  "name": "works-of-william-perkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:transcripts": "cp -r ../markdown/** ./src/",
+    "build:eleventy": "eleventy",
+    "build:sass": "sass --style=compressed src/scss/styles.scss src/_assets/css/styles.css",
+    "watch:eleventy": "eleventy --serve",
+    "watch:sass": "npm run build:sass -- --watch",
+    "start": "npm-run-all build:sass --parallel watch:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.50.0"
+  }
+}
