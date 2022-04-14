@@ -8,4 +8,4 @@ Our goal is to make his public-domain works freely and easily accessible for the
 
 ## Note
 
-This repo includes images of the original work's pages under `sources`, and so clocks in at close to 2GB (counting the .git folder). Cloning may take some time!
+This repo includes rasterized PDFs of the original work's pages under `sources`, and so clocks in at close to 1GB (counting the .git folder). Cloning may take some time!
