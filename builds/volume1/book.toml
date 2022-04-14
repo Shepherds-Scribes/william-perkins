@@ -1,0 +1,6 @@
+[book]
+title = "The Works of William Perkins, Volume 1"
+authors = ["William Perkins"]
+language = "en"
+multilingual = false
+src = "../../markdown/volume-1"
