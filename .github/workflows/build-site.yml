@@ -35,6 +35,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    - name: Cache mdbook
+      uses: actions/cache@v3
+      env:
+        cache-name: cache-cargo
+      with:
+        # cargo cache files are stored in `~/.cargo` on Linux/macOS
+        path: ~/.cargo
+        key: ${{ runner.os }}-build-${{ env.cache-name }}
     - name: Dependencies
       run: cargo install mdbook
     - name: Build volume 1
