@@ -9,10 +9,12 @@ on:
   pull_request:
     branches: [ master ]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+env:
+  CARGO_TERM_COLOR: always
 
+jobs:
+  site:
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-node@v3
@@ -24,3 +26,37 @@ jobs:
       working-directory: ./site
     - run: npm run build
       working-directory: ./site
+    - name: Publish site
+      uses: actions/upload-artifact@v3
+      with:
+        name: site
+        path: |
+          dist
+  mdbooks:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Dependencies
+      run: cargo install mdbook
+    - name: Build volume 1
+      run: mdbook build
+      working-directory: ./builds/volume1
+    - name: Publish books
+      uses: actions/upload-artifact@v3
+      with:
+        name: mdbooks
+        path: |
+          dist
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/download-artifact@v3
+    - name: Collate
+      run: |
+        cp -r -T mdbooks/ ./dist
+        cp -r -T site/ ./dist
+    - name: Publish
+      uses: JamesIves/github-pages-deploy-action@v4.3.0
+      with:
+        branch: gh-pages # The branch the action should deploy to.
+        folder: dist # The folder the action should deploy.
