@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build:prebuild": "npm-run-all build:stats build:sass",
+    "build:stats": "node utils/calc-stats.js",
     "build:eleventy": "eleventy",
     "build:sass": "sass --style=compressed src/scss/styles.scss src/_assets/css/styles.css",
-    "build": "npm-run-all build:sass build:eleventy",
+    "build": "npm-run-all build:prebuild build:eleventy",
     "watch:eleventy": "eleventy --serve",
     "watch:sass": "npm run build:sass -- --watch",
-    "start": "npm-run-all build:sass --parallel watch:*"
+    "start": "npm-run-all build:prebuild --parallel watch:*"
   },
   "keywords": [],
   "author": "",
