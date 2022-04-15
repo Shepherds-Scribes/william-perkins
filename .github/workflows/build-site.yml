@@ -48,7 +48,7 @@ jobs:
         key: ${{ runner.os }}-build-${{ env.cache-name }}
     - name: Dependencies
       run: cargo install mdbook
-    - name: Build volume 1
+    - name: Build ${{ matrix.book }}
       run: mdbook build
       working-directory: ./builds/${{ matrix.book }}
     - name: Publish books
@@ -64,6 +64,7 @@ jobs:
     - uses: actions/download-artifact@v3
     - name: Collate
       run: |
+        find . -name "mdbooks-*" | xargs -I{} echo "cp -r -T {} ./dist"
         find . -name "mdbooks-*" | xargs -I{} cp -r -T {} ./dist
         cp -r -T site/ ./dist
         touch ./dist/.nojekyll
