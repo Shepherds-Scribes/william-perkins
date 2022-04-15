@@ -9,6 +9,7 @@ module.exports = function (eleventyConfig) {
         dir: {
             input: 'src',
             output: '../dist'
-        }
+        },
+        pathPrefix: '/william-perkins/'
     }
 };
