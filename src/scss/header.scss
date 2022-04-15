@@ -1,0 +1,22 @@
+.stage>header {
+    height: 75px;
+
+    nav {
+        height: 100%;
+    }
+
+    ul {
+        height: 100%;
+        list-style-type: none;
+        display: grid;
+        grid-template-columns: min-content min-content;
+        justify-content: end;
+        align-items: center;
+        gap: 1em;
+    }
+
+    i {
+        color: #fff;
+        font-size: 2em;
+    }
+}

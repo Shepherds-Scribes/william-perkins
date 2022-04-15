@@ -1,0 +1,217 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Works of William Perkins, Volume 1</title>
+        <meta name="robots" content="noindex" />
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="1-title/title.html">Title</a></li><li class="chapter-item expanded affix "><a href="2-printer-to-reader/the-printer-to-the-reader.html">Printer's Preface</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Works of William Perkins, Volume 1</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-workes-of-that-famovs-and-worthy-minister-of-christ-in-the-vniuerſitie-of-cambridge-mr-william-perkins"><a class="header" href="#the-workes-of-that-famovs-and-worthy-minister-of-christ-in-the-vniuerſitie-of-cambridge-mr-william-perkins">THE WORKES OF THAT FAMOVS AND WORTHY MINISTER OF CHRIST in the Vniuerſitie of CAMBRIDGE, MR. WILLIAM PERKINS.</a></h1>
+<h2 id="the-first-volvme-newly-corrected-according-to-his-owne-copies"><a class="header" href="#the-first-volvme-newly-corrected-according-to-his-owne-copies">THE FIRST VOLVME: NEWLY CORRECTED ACCORDING TO HIS OWNE COPIES.</a></h2>
+<p>WITH DISTINCT CHAPTERS, AND CONTENTS of euery Booke, and two Tables of the whole: one, of the matter and queſtions, the other of choice places of Scripture.</p>
+<blockquote>
+<p>ISA. 57. verse 1.<br />
+The righteous periſheth, and no man conſidereth it in heart: mercifull men are taken away, and no man underſtandeth that the righteous is taken away from the euill to come.</p>
+</blockquote>
+<blockquote>
+<p>2. PET. 1. verse 15.<br />
+Neuertheleſſe, I will endeauour alwaies, that ye alſo may bee able to haue remembrance of theſe things after my departing.</p>
+</blockquote>
+<p><img src="1-title/title-illustration.png" alt="HINC LVCEM ET POCVLA SACRA" /></p>
+<p>London,<br />
+Printed by <strong>Iohn Legatt.</strong><br />
+1626.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-printer-to-the-reader"><a class="header" href="#the-printer-to-the-reader">The Printer to the Reader.</a></h1>
+<p>I SVPPOSE it altogether needleſſe (Chriſtian Reader) by commending Mr. WILLIAM PERKINS, the Author of this Booke, to wooe your holy affection, which either himſelfe in his life time by his Chriſtian conuerſation hath woone in you, or ſithence his death, the neuer-dying memorie of his excellent knowledge, his great humilitie, his ſound religion, his feruent zeale, his painefull labours, in the Church of God, doe moſt iuſtly challenge at your hands. Onely in one word I dare be bold to ſay of him, as in times paſt <em>Nazianzen</em> ſpake of <em>Athanaſius. His life was a good definition of a true Miniſter and preacher of the Goſpel.</em> And needleſſe alſo is it (if not iniurious) by praiſing of his learned and godly writings, to thinke to incline your better iudgement which in ſo holy a ſubiect (as is the body of Diuinitie, and principles of Religion) I dare not ſuſpect to be unſetled; and in ſo eaſie a methode and familiar a ſtyle, which he uſeth in them both, I am ſure can hardly miſcarrie. Such is his loue to all, that, as for the matter of his doctrine, hee contenteth and ſatisfieth the moſt learned; ſo for the manner of his deliuering the ſame, he condeſcendeth to the capacitie of the meaneſt of Gods children. I here once more preſent unto you the workes of this worthy man. Reade them diligently, and iudge of them freely. I doubt not but in your exacteſt cenſure, you will conſpire with thoſe learned Men, who for the profitable inſtruction they containe in all, or the moſt points of Chriſtianitie, for the more common good of the Church of God, haue deemed them worthy their godly labours, by tranſlating them into diuers languages, as into Latine, Dutch, Spaniſh, &amp;c. A thing not ordinarily obſerued in other writings of theſe our times.</p>
+<p>Concerning this new Edition, if you aske, why I haue not added theſe other Treatiſes of his, which haue beene publiſhed ſince the former Impreſſion? I anſwer, it is not done without the aduice of graue and learned men in two reſpects: Firſt, to ſet a difference (as indeede there is great oddes) betwixt thoſe bookes which the Author himſelfe yet liuing, by his owne care not onely in the penning, but likewiſe in the correcting of the ſame, did ſet forth: and thoſe other which are <em>Poſthumi,</em> that is, borne after his death, gathered and collected by others: Such as are theſe following:</p>
+<ol>
+<li>Vpon three chapters of the Reuelation.</li>
+<li>Sathans Sophiſtrie.</li>
+<li>Vpon the Epiſtle of Saint Iude.</li>
+<li>The dignitie of the Miniſterie.</li>
+<li>Vpon the eleuenth chapter to the Hebrewes.</li>
+<li>Vpon three chapters of Saint Matthewes Goſpel, &amp;c.</li>
+</ol>
+<p>Secondly, becauſe I haue remaining by me, ſo many other Treatiſes in diuers prints and formes of the ſame Authors owne collection, which I purpoſe (by Gods permiſſion) to ſet forth, as will amount to a ſecond Volume equall to this, if not bigger.</p>
+<p>In the meane time, what heretofore I haue wiſhed concerning ſuch as haue the intereſt in thoſe Afterbirths, <em>viz.</em> that they would agree likewiſe, to draw them all into one Volume, that ſo they that take delight in <em>Mr. Perkins</em> his writings, might with leſſe labour of their owne, attaine to the compleate body of his ſtudies: it being alſo more conuenient for their uſe, to haue them rather compacted in one Volume, then ſcattered into diuers parcels of diuers formes: I now underſtand, is effected, and nothing henceforth to be added. Thus with promiſe to make all poſſible expedition in ſetting forth the ſecond Volume of his workes: I commend this to your diligent reading, my endeauours to your charitable conſtruction, and us all to the bleſſing and holy protection of Almightie God. <em>From London this 15. of December. 1612.</em></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </body>
+</html>

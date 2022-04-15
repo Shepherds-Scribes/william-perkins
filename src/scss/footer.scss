@@ -1,0 +1,15 @@
+.stage>footer {
+  height: 75px;
+  display: grid;
+  justify-items: end;
+  align-items: center;
+
+  .credits {
+    color: #fff;
+    text-align: right;
+
+    a {
+      color: #fff;
+    }
+  }
+}

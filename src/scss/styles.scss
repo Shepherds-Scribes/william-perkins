@@ -1,0 +1,27 @@
+@import './reset.scss';
+@import './pages/home.scss';
+@import './typography.scss';
+@import './header.scss';
+@import './footer.scss';
+@import './widgets.scss';
+
+body {
+    background-color: #222;
+    color: #fff;
+    margin: 0;
+    height: 100vh;
+    background-image: url('/_assets/christs-college.jpg');
+    background-size: cover;
+    background-position: top center;
+}
+
+.stage {
+    max-width: 1200px;
+    background-color: #222222ee;
+    min-height: 90%;
+    margin: 0 auto;
+    padding: 0 20px;
+
+    display: grid;
+    grid-template-rows: min-content 1fr min-content;
+}

@@ -1,0 +1,30 @@
+---
+layout: layouts/default
+mainClass: home
+transcriptions:
+  - name: Volume 1
+    link: /volume-1
+    status: Transcription Started
+    progress: 33
+  - name: Volume 2
+    link: /volume-1
+    status: Not Started
+    progress: 0
+  - name: Volume 3
+    link: /volume-1
+    status: Not Started
+    progress: 0
+---
+
+{% from "widgets/transcription-progress.njk" import transcriptionProgress %}
+
+<h1>The Works</h1>
+<h2>of William Perkins</h2>
+
+<p class="text-center">Transcribed by volunteers and freely distributed in the public domain.</p>
+
+<div class="transcriptions">
+  {% for transcription in transcriptions %}
+    {{ transcriptionProgress(transcription.name, transcription.link, transcription.status, transcription.progress) }}
+  {% endfor %}
+</div>

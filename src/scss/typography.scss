@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Uncial+Antiqua&display=swap');
+
+h1,
+h2,
+h3 {
+    font-family: 'Uncial Antiqua', cursive;
+    text-align: center;
+    font-weight: normal;
+}
+
+body {
+    font-family: 'Playfair Display', serif
+}
+
+p {
+    margin: 2em;
+    font-size: 1.5em;
+}
+
+.text-center {
+    text-align: center;
+}

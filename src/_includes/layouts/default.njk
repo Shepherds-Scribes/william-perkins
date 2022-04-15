@@ -1,0 +1,23 @@
+---
+title: The Works of William Perkins
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link href="/_assets/css/fontawesome.css" rel="stylesheet">
+    <link href="/_assets/css/styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="stage">
+      {% include "header.njk" %}
+      <main class="{{mainClass}}">
+        {{ content | safe }}
+      </main>
+      {% include "footer.njk" %}
+    </div>
+  </body>
+</html>
