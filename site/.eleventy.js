@@ -8,7 +8,7 @@ module.exports = function (eleventyConfig) {
         markdownTemplateEngine: 'njk',
         dir: {
             input: 'src',
-            output: 'dist'
+            output: '../dist'
         }
     }
 };

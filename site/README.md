@@ -1,3 +1,3 @@
 # Website Build
 
-The website is built with [Eleventy](https://www.11ty.dev/).
+The front page of the website is built with [Eleventy](https://www.11ty.dev/).

@@ -4,3 +4,6 @@ authors = ["William Perkins"]
 language = "en"
 multilingual = false
 src = "../../markdown/volume-1"
+
+[build]
+build-dir = "../../dist/volume-1"

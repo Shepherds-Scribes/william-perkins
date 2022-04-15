@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:transcripts": "cp -r ../markdown/** ./src/",
     "build:eleventy": "eleventy",
     "build:sass": "sass --style=compressed src/scss/styles.scss src/_assets/css/styles.css",
+    "build": "npm-run-all build:sass build:eleventy",
     "watch:eleventy": "eleventy --serve",
     "watch:sass": "npm run build:sass -- --watch",
     "start": "npm-run-all build:sass --parallel watch:*"
