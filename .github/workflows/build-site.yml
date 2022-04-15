@@ -49,6 +49,7 @@ jobs:
           dist
   publish:
     runs-on: ubuntu-latest
+    needs: [site, mdbooks]
     steps:
     - uses: actions/download-artifact@v3
     - name: Collate
