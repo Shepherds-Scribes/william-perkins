@@ -5,12 +5,12 @@ I suppose it altogether needless (Christian Reader) by commending Mr. William Pe
 Concerning this new Edition, if you ask, why I have not added these other Treatises of his, which have been published since the former Impression? I answer, it is not done without the advice of grave and learned men in two respects: First, to set a difference (as indeed there is great odds) betwixt those books which the Author himself yet living, by his own care not only in the penning, but likewise in the correcting of the same, did set forth: and those other which are *Posthumi,* that is, born after his death, gathered and collected by others: Such as are these following:
 
 1. Upon three chapters of the Revelation.
-2. Sathans Sophistrie.
+2. Satan's Sophistry.
 3. Upon the Epistle of Saint Jude.
 4. The dignity of the Ministry.
 5. Upon the eleventh chapter to the Hebrews.
 6. Upon three chapters of Saint Matthew's Gospel, &c.
 
-Secondly, because I have remaining by me, so many other Treatises in divers prints and forms of the same Author's own collection, which I purpose (by Gods permission) to set forth, as will amount to a second Volume equal to this, if not bigger.
+Secondly, because I have remaining by me so many other Treatises in divers prints and forms of the same Author's own collection, which I purpose (by God's permission) to set forth, as will amount to a second Volume equal to this, if not bigger.
 
-In the mean time, what heretofore I haue wished concerning such as have the interest in those Afterbirths, *viz.* that they would agree likewise, to draw them all into one Volume, that so they that take delight in Mr. Perkins' writings, might with less labour of their own, attain to the complete body of his studies: it being also more convenient for their use, to have them rather compacted in one Volume, than scattered into divers parcels of divers forms: I now understand, is effected, and nothing henceforth to be added. Thus with promise to make all possible expedition in setting forth the second Volume of his works: I commend this to your diligent reading, my endeavours to your charitable construction, and us all to the blessing and holy protection of Almighty God. *From London this 15th of December, 1612.*
+In the mean time, what heretofore I have wished concerning such as have the interest in those Afterbirths, *viz.* that they would agree likewise, to draw them all into one Volume, that so they that take delight in Mr. Perkins' writings, might with less labour of their own, attain to the complete body of his studies: it being also more convenient for their use, to have them rather compacted in one Volume, than scattered into divers parcels of divers forms: I now understand, is effected, and nothing henceforth to be added. Thus with promise to make all possible expedition in setting forth the second Volume of his works: I commend this to your diligent reading, my endeavours to your charitable construction, and us all to the blessing and holy protection of Almighty God. *From London this 15th of December, 1612.*
