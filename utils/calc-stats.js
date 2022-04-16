@@ -25,4 +25,10 @@ for (const book of books) {
   }
 }
 
+stats.sort((a, b) => {
+  const result = a.name.localeCompare(b.name);
+  console.log(a.name, b.name, result);
+  return result;
+})
+
 fs.writeFileSync('src/_data/transcriptions.json', JSON.stringify(stats));
