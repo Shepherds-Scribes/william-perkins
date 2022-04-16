@@ -1,0 +1,16 @@
+[book]
+title = "The Works of William Perkins, Volume 2, Updated"
+authors = ["William Perkins"]
+language = "en"
+multilingual = false
+src = "../../markdown/modern/volume-2"
+
+[build]
+build-dir = "../../dist/modern/volume-2"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/glitchassassin/william-perkins"
+edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
+site-url = "/william-perkins/modern/volume-2"

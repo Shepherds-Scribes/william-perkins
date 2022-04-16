@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        book: ['volume1', 'volume2', 'volume3']
+        book: ['transcribed-volume1', 'transcribed-volume2', 'transcribed-volume3', 'modern-volume1', 'modern-volume2', 'modern-volume3']
     steps:
     - uses: actions/checkout@v3
     - name: Cache mdbook

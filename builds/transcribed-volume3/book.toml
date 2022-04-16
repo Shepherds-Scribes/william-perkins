@@ -3,14 +3,14 @@ title = "The Works of William Perkins, Volume 3"
 authors = ["William Perkins"]
 language = "en"
 multilingual = false
-src = "../../markdown/volume-3"
+src = "../../markdown/transcribed/volume-3"
 
 [build]
-build-dir = "../../dist/volume-3"
+build-dir = "../../dist/transcribed/volume-3"
 
 [output.html]
 default-theme = "rust"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/glitchassassin/william-perkins"
 edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
-site-url = "/william-perkins/volume-3"
+site-url = "/william-perkins/transcribed/volume-3"
