@@ -1,0 +1,12 @@
+# THE FOVNDATION OF CHRISTIAN RELIGION, GATHERED INTO SIXE PRINCIPLES
+
+## AND IT IS TO BE LEARNED OF IGNORANT PEOPLE, THAT THEY MAY BE FIT TO HEARE SERMONS WITH PROFIT, AND TO RECEIVE THE LORDS SVPPER WITH COMFORT.
+
+> PSAL. 119. verſ. 130.  
+> The *entrance* into they words ſheweth light, and giueth vnderſtanding to the *ſimple*.
+
+![HINC LVCEM ET POCVLA SACRA](title-illustration.png)
+
+LONDON,  
+Printed by **IOHN LEGATT,**  
+1626.  
