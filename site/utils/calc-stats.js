@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const books = fs.readdirSync('../markdown/');
+const books = fs.readdirSync('../markdown/').flatMap(subdir => fs.readdirSync(`../markdown/${subdir}`).map(book => `${subdir}/${book}`));
 
 const stats = [];
 
