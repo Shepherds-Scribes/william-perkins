@@ -1,7 +1,7 @@
 # The third Principle.
 
 *Q.* What meanes is there for thee to eſcape this damnable eſtate?
-*A.* Ieſus Chriſt, the eternall Sonne of God, being made man, by his death vpo the Croſſe, and by his righteouſnes, hath perfectly alone by himſelfe accompliſhed all things that are needfull for the ſaluation of mankinde.
+*A.* Ieſus Chriſt, the eternall Sonne of God, being made man, by his death vpó the Croſſe, and by his righteouſnes, hath perfectly alone by himſelfe accompliſhed all things that are needfull for the ſaluation of mankinde.
 
 1. Chriſt Ieſus the eternall Sonne of God.
   > Ioh. 1. 14. And the Word was made fleſh, and dwelt among vs, and we ſaw the glory thereof, as the glory of the onely begotten (Sonne) of the Father, full of grace and truth.
