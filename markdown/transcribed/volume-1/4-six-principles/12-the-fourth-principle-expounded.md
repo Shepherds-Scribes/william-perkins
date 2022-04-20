@@ -104,3 +104,38 @@
 
 *Q.* How is the *corruption* of ſinne purged?
 *A.* By the [^ao] *merits* and *power* of Chriſts death, which being by faith applyed is as a *coraſiue* to abate, conſume, and weaken the power of all ſinne.
+
+*Q.* How is a man indued with inherent righteouſneſſe?
+*A.* Through the [^ap] vertue of Chriſts reſurrection: which being applyed by faith, is as a *reſtoratiue* to reuiue a man that is dead in ſinne, to newneſſe of life.
+
+*Q.* In what part of man is ſanctification wrought?
+*A.* In [^aq] euery part of body and ſoule.
+
+*Q.* In what time is it wrought?
+*A.* It is [^ar] begun in this life, in which the faithfull receiue onely the *firſt fruits* of the Spirit, and it is not finiſhed before the end of this life.
+
+*Q.* What graces of the Spirit doe vſually ſhew themſelues in the heart of a man ſanctified?
+*A.* The *hatred* [^as] of sinne, and the loue of righteouſneſſe.
+
+*Q.* What proceedes of them?
+*A.* *Repentance,* which is [^at] a ſetled purpoſe in the heart, with a careful endeauour to leaue all his ſinnes, and to liue a Chriſtian life, according to all Gods commandements.
+
+*Q.* What goeth with repentance?
+*A.* A continuall fighting and ſtrugling againſt the aſſaults of a mans owne fleſh, againſt the motions of the diuell, and the inticements of the world.
+
+*Q.* What followeth after a man hath gotten the victory in any temptation or affliction?
+*A.* [^au] Experience of Gods loue in Chriſt, and ſo increaſe of peace of conſcience, and ioy in the holy Ghoſt.
+
+*Q.* What followeth if in any temptation he be ouercome and through infirmity fall?
+*A.* After a while [^ax] there will ariſe a *godly sorrow,* which is, when a man is grieued for no other cauſe in the world, but for this onely, that by his ſin he hath diſpleaſed God, who hath been vnto him a moſt mercifull and louing Father.
+
+*Q.* What ſigne is there of this ſorrow?
+*A.* The true ſigne [^ay] of it is this, when a man can bee grieued for the very *diſobedience of God* in his euill word or deede, though he ſhould neuer be puniſhed, and though there were neither heauen nor hell.
+
+*Q.* What followes after this ſorrow?
+*A.* Repentance [^az] *renewed afreſh.*
+
+*Q.* By what ſignes will this repentance appeare?
+*A.* By [^ba] ſeuen. 1. A care to leaue the ſinne into which hee is fallen. 2. An vtter condemning of himſelfe for it, with a crauing of pardon. 3. A great anger againſt himſelfe for his careleſneſſe. 4. A feare leſt he ſhould fall into the ſame ſinne againe. 5. A deſire euer after to pleaſe God. 6. A zeale of the ſame. 7. Reuenge vpon himſelfe for his former offence.
+
+[^a]: Ioh. 2. 2. (?) 1 Ioh. 1. 12. and 6. 35 [transcriber's note: likely intended to be John rather than 1 John] Gal 3. 7. Col. 2. 12.
