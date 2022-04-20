@@ -1,0 +1,32 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+e s",
+    "command": "insert-unicode.insertTextExact",
+    "args": "latin small letter long s"
+  },
+  {
+    "key": "ctrl+e o",
+    "command": "insert-unicode.insertTextExact",
+    "args": "latin small letter o with acute"
+  },
+  {
+    "key": "ctrl+e e",
+    "command": "insert-unicode.insertTextExact",
+    "args": "latin small letter e with acute"
+  },
+  {
+    "key": "ctrl+e q",
+    "command": "editor.action.insertSnippet",
+    "args": {
+      "snippet": "*Q.* "
+    }
+  },
+  {
+    "key": "ctrl+e a",
+    "command": "editor.action.insertSnippet",
+    "args": {
+      "snippet": "*A.* "
+    }
+  }
+]
