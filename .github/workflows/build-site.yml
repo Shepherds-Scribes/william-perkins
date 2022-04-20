@@ -33,9 +33,6 @@ jobs:
         path: dist
   mdbooks:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        book: ['transcribed-volume1', 'transcribed-volume2', 'transcribed-volume3', 'modern-volume1', 'modern-volume2', 'modern-volume3']
     steps:
     - uses: actions/checkout@v3
     - name: Cache mdbook
@@ -48,23 +45,23 @@ jobs:
         key: ${{ runner.os }}-build-${{ env.cache-name }}
     - name: Dependencies
       run: cargo install mdbook
-    - name: Build ${{ matrix.book }}
-      run: mdbook build
-      working-directory: ./builds/${{ matrix.book }}
+    - name: Build books
+      run: build.sh
+      working-directory: ./books/
     - name: Publish books
       uses: actions/upload-artifact@v3
       with:
-        name: mdbooks-${{ matrix.book }}
+        name: books
         path: dist
   publish:
     runs-on: ubuntu-latest
-    needs: [site, mdbooks]
+    needs: [site, books]
     steps:
     - uses: actions/checkout@v3
     - uses: actions/download-artifact@v3
     - name: Collate
       run: |
-        find . -name "mdbooks-*" | xargs -I{} cp -r -T {} ./dist
+        cp -r -T books/ ./dist
         cp -r -T site/ ./dist
         touch ./dist/.nojekyll
     - name: Publish

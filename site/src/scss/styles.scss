@@ -13,12 +13,14 @@ body {
     background-image: url('../christs-college.jpg');
     background-size: cover;
     background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .stage {
     max-width: 1200px;
     background-color: #222222ee;
-    min-height: 90%;
+    min-height: 100%;
     margin: 0 auto;
     padding: 0 20px;
 

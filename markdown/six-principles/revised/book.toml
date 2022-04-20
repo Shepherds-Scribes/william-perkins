@@ -1,0 +1,17 @@
+[book]
+title = "Six Principles"
+authors = ["William Perkins"]
+language = "en"
+multilingual = false
+src = "./"
+
+[build]
+build-dir = "../../../dist/six-principles"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/glitchassassin/william-perkins"
+edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
+site-url = "/william-perkins/six-principles"
+additional-css = ["themes/themes.css"]

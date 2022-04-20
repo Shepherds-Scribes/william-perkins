@@ -38,3 +38,29 @@
     }
   }
 }
+
+.volumes-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1em 1em;
+  justify-items: center;
+  list-style: none;
+
+  a {
+    &:hover {
+      background-color: #ffffff22;
+    }
+
+    background-color: #ffffff11;
+    width: 100%;
+
+    color: inherit;
+    text-decoration: none;
+
+    display: inline-block;
+
+    >h3 {
+      padding: 1em;
+    }
+  }
+}
