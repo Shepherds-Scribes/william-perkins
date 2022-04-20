@@ -6,6 +6,7 @@ const stats = [];
 
 for (const book of books) {
   try {
+    const [folder, version] = book.split('/');
     const summary = fs.readFileSync(`../markdown/${book}/SUMMARY.md`).toString();
     const name = summary.match(/# (.+)\n/)[1] ?? book;
     const allChapters = summary.match(/\(/g)?.length ?? 0;
@@ -14,7 +15,7 @@ for (const book of books) {
     const progress = (doneChapters === 1) ? 0 : Math.round((doneChapters / allChapters) * 100) // Don't count the title page if it's the only one
     stats.push({
       name,
-      link: book,
+      link: `${version === 'revised' ? '' : (version[0] + '/')}${folder}`,
       progress,
       status: progress === 0 ? 'Not Started' :
         progress === 100 ? 'Done' :
