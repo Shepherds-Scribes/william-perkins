@@ -9,7 +9,7 @@
         height: 100%;
         list-style-type: none;
         display: grid;
-        grid-template-columns: min-content min-content;
+        grid-template-columns: 1fr min-content;
         justify-content: end;
         align-items: center;
         gap: 1em;
@@ -18,5 +18,15 @@
     i {
         color: #fff;
         font-size: 2em;
+    }
+
+    .logo-font {
+        font-family: 'Uncial Antiqua';
+        justify-self: start;
+        font-size: 1.5em;
+
+        a {
+            text-decoration: none;
+        }
     }
 }

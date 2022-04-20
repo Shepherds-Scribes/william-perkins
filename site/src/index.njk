@@ -1,6 +1,6 @@
 ---
 layout: layouts/default
-mainClass: home
+tags: home
 ---
 
 {% from "widgets/transcription-progress.njk" import transcriptionProgress %}
@@ -9,6 +9,14 @@ mainClass: home
 <h2>of William Perkins</h2>
 
 <p class="text-center">Transcribed by volunteers and freely distributed in the public domain.</p>
+
+<ul class="volumes-list">
+{%- for volume in collections.volumes -%}
+  <li><a href="{{volume.url | url}}"><h3>{{ volume.data.title }}</h3></a></li>
+{%- endfor -%}
+</ul>
+
+<p class="text-center">Books in Progress</p>
 
 <div class="transcriptions">
   {% for transcription in transcriptions %}
