@@ -1,0 +1,317 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js rust">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The third Principle expounded. - Six Principles (Transcribed)</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="themes/themes.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "coal" : "rust";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html"><strong aria-hidden="true">1.</strong> Title</a></li><li class="chapter-item expanded "><a href="2-to-all-ignorant-people.html"><strong aria-hidden="true">2.</strong> TO ALL IGNORANT PEOPLE that deſire to be inſtructed.</a></li><li class="chapter-item expanded affix "><li class="part-title">The foundation of Chriſtian Religion gathered into ſixe Principles</li><li class="chapter-item expanded "><a href="3-the-first-principle.html"><strong aria-hidden="true">3.</strong> The firſt Principle.</a></li><li class="chapter-item expanded "><a href="4-the-second-principle.html"><strong aria-hidden="true">4.</strong> The ſecond Principle.</a></li><li class="chapter-item expanded "><a href="5-the-third-principle.html"><strong aria-hidden="true">5.</strong> The third Principle.</a></li><li class="chapter-item expanded "><a href="6-the-fourth-principle.html"><strong aria-hidden="true">6.</strong> The fourth Principle.</a></li><li class="chapter-item expanded "><a href="7-the-fifth-principle.html"><strong aria-hidden="true">7.</strong> The fifth Principle.</a></li><li class="chapter-item expanded "><a href="8-the-sixth-principle.html"><strong aria-hidden="true">8.</strong> The ſixth Principle.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Expoſition of the Principles</li><li class="chapter-item expanded "><a href="9-the-first-principle-expounded.html"><strong aria-hidden="true">9.</strong> The firſt Principle expounded.</a></li><li class="chapter-item expanded "><a href="10-the-second-principle-expounded.html"><strong aria-hidden="true">10.</strong> The ſecond Principle expounded.</a></li><li class="chapter-item expanded "><a href="11-the-third-principle-expounded.html" class="active"><strong aria-hidden="true">11.</strong> The third Principle expounded.</a></li><li class="chapter-item expanded "><a href="12-the-fourth-principle-expounded.html"><strong aria-hidden="true">12.</strong> The fourth Principle expounded.</a></li><li class="chapter-item expanded "><a href="13-the-fifth-principle-expounded.html"><strong aria-hidden="true">13.</strong> The fifth Principle expounded.</a></li><li class="chapter-item expanded "><a href="14-the-sixth-principle-expounded.html"><strong aria-hidden="true">14.</strong> The ſixth Principle expounded.</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Six Principles (Transcribed)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins/edit/master/.//11-the-third-principle-expounded.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-third-principle-expounded"><a class="header" href="#the-third-principle-expounded">The third principle expounded.</a></h1>
+<p><em>Q.</em> If damnation bee the reward of ſinne: then is a man of all creatures moſt miſerable: a dogge or a toade when they die, al their miſerie is ended; but when a man dyeth, there is the beginning of his woe.<br />
+<em>A.</em> It were ſo indeed, if there were no means of deliuerance, but GOD hath ſhewed his mercy, in giuing a <em>Sauiour</em> to mankind.</p>
+<p><em>Q.</em> How is this Sauiour called?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#a">1</a></sup> Ieſus Chriſt.</p>
+<p><em>Q.</em> What is Ieſus Chriſt?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#b">2</a></sup> The eternall Sonne of God made man in all things, euen <sup class="footnote-reference"><a href="#c">3</a></sup> in his <em>infirmities</em> like other men, ſaue onely in ſinne.</p>
+<p><em>Q.</em> How was he made man void of ſinne?<br />
+<em>A.</em> He was <sup class="footnote-reference"><a href="#d">4</a></sup> conceiued in the wombe of a Virgin, and <em>ſanctified</em> by the holy Ghoſt at his conception.</p>
+<p><em>Q.</em> Why muſt our Sauiour bee both God and man?<br />
+<em>A.</em> He <sup class="footnote-reference"><a href="#e">5</a></sup> muſt bee a man, becauſe man had ſinned, and therefore a man muſt die for ſinne, to appeaſe Gods wrath: he muſt be God, to ſuſtaine &amp; vphold the manhood, to ouercome and vanquiſh death.</p>
+<p><em>Q.</em> What be the offices of Chriſt to make him an al-ſufficient Sauiour?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#f">6</a></sup> He is a Prieſt, a Prophet, a King.</p>
+<p><em>Q.</em> Why is he a Prieſt?<br />
+<em>A.</em> To <em>worke</em> the meanes of ſaluation in the behalfe of mankinde.</p>
+<p><em>Q.</em> How doth hee worke the meanes of ſaluation?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#g">7</a></sup> Firſt, by making <em>ſatisfaction</em> to his Father for the ſinne of man: ſecondly by making <em>interceſſion.</em></p>
+<p><em>Q.</em> How doth he make ſatisfaction?<br />
+<em>A.</em> By two meanes: and the firſt is by offering a <em>ſacrifice.</em></p>
+<p><em>Q.</em> What is the ſacrifice?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#h">8</a></sup> Chriſt himſelfe, as hee is a man conſiſting of body and ſoule.</p>
+<p><em>Q.</em> What is the <sup class="footnote-reference"><a href="#i">9</a></sup> Altar.<br />
+<em>A.</em> Chriſt as hee is God, is the <em>Altar</em> on which he ſacrificed himſelfe.</p>
+<p><em>Q.</em> Who was the Prieſt?<br />
+<em>A.</em> None but <sup class="footnote-reference"><a href="#k">10</a></sup> Chriſt, and that as he is both God and man.</p>
+<p><em>Q.</em> How oft did he ſacrifice himſelfe?<br />
+<em>A.</em> Neuer but <sup class="footnote-reference"><a href="#l">11</a></sup> once.</p>
+<p><em>Q.</em> What death did he ſuffer when he ſacrificed himſelfe?<br />
+<em>A.</em> A death vpon the croſſe, peculiar to himſelf alone: for <sup class="footnote-reference"><a href="#m">12</a></sup> beſides the ſeparation of body and ſoule, he felt alſo the <em>pangs of hell,</em> in that the whole wrath of God due to the ſinne of man, was powred forth vpon him.</p>
+<p><em>Q.</em> What profite commeth by his Sacrifice?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#n">13</a></sup> Gods wrath is appeaſed by it.</p>
+<p><em>Q.</em> Could the ſufferings of Chriſt, which was but for a ſhort time, counteruaile euerlaſting damnation, and ſo appeaſe Gods wrath?<br />
+<em>A.</em> Yea; for ſeeing Chriſt ſuffered, <sup class="footnote-reference"><a href="#o">14</a></sup> God ſuffered, though not in his Godhead: and that is more then if all men in the world had ſuffered for euer and euer.</p>
+<p><em>Q.</em> Now tell me the other meanes of <em>ſatisfaction.</em><br />
+<em>A.</em> It is the perfect fulfilling of <em>the law.</em></p>
+<p><em>Q.</em> How did he fulfill the law?<br />
+<em>A.</em> By <sup class="footnote-reference"><a href="#p">15</a></sup> his <em>perfect righteouſnes:</em> which conſiſteth of two parts; the firſt, the <em>integritie and purenes</em> of his humane nature: the other, <sup class="footnote-reference"><a href="#q">16</a></sup> his <em>obedience</em> in performing all that the law required.</p>
+<p><em>Q.</em> You haue ſhewed how Chriſt doth make <em>ſatisfaction,</em> tell me likewiſe how he doth make <em>interceſſion?</em><br />
+<em>A.</em> He alone doth continually <sup class="footnote-reference"><a href="#r">17</a></sup> appeare before his father in heauen, making the faithfull, and all their praiers acceptable vnto him, by applying of the merits of his owne perfect <em>ſatisfaction</em> to them.</p>
+<p><em>Q.</em> Why is Chriſt a Prophet?<br />
+<em>A.</em> To <sup class="footnote-reference"><a href="#s">18</a></sup> <em>reueale</em> vnto his Church the way and meanes of ſaluation, and this he doth outwardly by the miniſterie of his word, and inwardly by the teaching of his ſpirit.</p>
+<p><em>Q.</em> Why is he alſo a <em>King?</em><br />
+<em>A.</em> That <sup class="footnote-reference"><a href="#t">19</a></sup> he might <em>bountifully beſtow</em> vp on vs, &amp; <em>conuey</em> vnto vs al the aforeſaid meanes of ſaluation.</p>
+<p><em>Q.</em> How doth he ſhew himſelfe to be King?<br />
+<em>A.</em> In <sup class="footnote-reference"><a href="#u">20</a></sup> that beeing <em>dead</em> and <em>buried,</em> hee <em>roſe from the graue,</em> quickened his dead bodie, <em>aſcended</em> into heauen, and now <em>ſitteth at the right hand</em> of his Father, with full power and glorie in heauen.</p>
+<p><em>Q.</em> How elſe?<br />
+<em>A.</em> In <sup class="footnote-reference"><a href="#v">21</a></sup> that hee doth continually inſpire and direct his ſeruants, by the diuine power of his holy ſpirit, according to his holy word.</p>
+<p><em>Q.</em> But to whom will this bleſſed King communicate all theſe meanes of ſaluation?<br />
+<em>A.</em> He <sup class="footnote-reference"><a href="#w">22</a></sup> offereth them to many, and they are <em>ſufficient</em> to ſaue all mankinde; but all ſhall not bee ſaued thereby, becauſe by faith they will not receiue them.</p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Mar. 8. 29. (?)</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>Heb. 2. 16. Ioh. 1. 14.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Heb. 5. 7. Mar. 13. 32.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>Mat. 1. 18.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>1 Tim. 2. 5, 6.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>Pſ. 45. 7. Luk. 4. 8. Deut. 18. 15, 18. Luk. 1. 33. Pſ. 110. 2.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>Mat. 20. 8. Heb. 7. 15, 16.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>Eſa. 53. 10.</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>Apo. 8. 3.</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>Heb. 5. 5, 6.</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>Heb. 9. 28.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>Eſa. 53. 5. Ioh. 12. 27. Reu. 19. 15. Luk. 22. 44.</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>Heb. 9. 26. </p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>Act. 20. 28. 2 Cor 5. 15.</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>1 Cor. 1. 30. Ro. 3. 25. 2 Cor. 5. 21.</p>
+</div>
+<div class="footnote-definition" id="q"><sup class="footnote-definition-label">16</sup>
+<p>Ro. 5. 19. Rom. 4. 8.</p>
+</div>
+<div class="footnote-definition" id="r"><sup class="footnote-definition-label">17</sup>
+<p>Rom. 8. 38. 1 Pet. 2. 5.</p>
+</div>
+<div class="footnote-definition" id="ſ"><sup class="footnote-definition-label">23</sup>
+<p>Ioh. 6. 45. Math. 5. 17.</p>
+</div>
+<div class="footnote-definition" id="t"><sup class="footnote-definition-label">19</sup>
+<p>Eſai. 9. 7.</p>
+</div>
+<div class="footnote-definition" id="u"><sup class="footnote-definition-label">20</sup>
+<p>Act. 10. 40. Eph. 4. 8. Act. 1. 9. </p>
+</div>
+<div class="footnote-definition" id="v"><sup class="footnote-definition-label">21</sup>
+<p>Eſai. 9. 7. and 30. 21.</p>
+</div>
+<div class="footnote-definition" id="w"><sup class="footnote-definition-label">22</sup>
+<p>Mat. 20. 16. Ioh. 1. 11.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="10-the-second-principle-expounded.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="12-the-fourth-principle-expounded.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="10-the-second-principle-expounded.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="12-the-fourth-principle-expounded.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

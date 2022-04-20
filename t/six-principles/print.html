@@ -1,0 +1,1188 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js rust">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Six Principles (Transcribed)</title>
+        <meta name="robots" content="noindex" />
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="themes/themes.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "coal" : "rust";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html"><strong aria-hidden="true">1.</strong> Title</a></li><li class="chapter-item expanded "><a href="2-to-all-ignorant-people.html"><strong aria-hidden="true">2.</strong> TO ALL IGNORANT PEOPLE that deſire to be inſtructed.</a></li><li class="chapter-item expanded affix "><li class="part-title">The foundation of Chriſtian Religion gathered into ſixe Principles</li><li class="chapter-item expanded "><a href="3-the-first-principle.html"><strong aria-hidden="true">3.</strong> The firſt Principle.</a></li><li class="chapter-item expanded "><a href="4-the-second-principle.html"><strong aria-hidden="true">4.</strong> The ſecond Principle.</a></li><li class="chapter-item expanded "><a href="5-the-third-principle.html"><strong aria-hidden="true">5.</strong> The third Principle.</a></li><li class="chapter-item expanded "><a href="6-the-fourth-principle.html"><strong aria-hidden="true">6.</strong> The fourth Principle.</a></li><li class="chapter-item expanded "><a href="7-the-fifth-principle.html"><strong aria-hidden="true">7.</strong> The fifth Principle.</a></li><li class="chapter-item expanded "><a href="8-the-sixth-principle.html"><strong aria-hidden="true">8.</strong> The ſixth Principle.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Expoſition of the Principles</li><li class="chapter-item expanded "><a href="9-the-first-principle-expounded.html"><strong aria-hidden="true">9.</strong> The firſt Principle expounded.</a></li><li class="chapter-item expanded "><a href="10-the-second-principle-expounded.html"><strong aria-hidden="true">10.</strong> The ſecond Principle expounded.</a></li><li class="chapter-item expanded "><a href="11-the-third-principle-expounded.html"><strong aria-hidden="true">11.</strong> The third Principle expounded.</a></li><li class="chapter-item expanded "><a href="12-the-fourth-principle-expounded.html"><strong aria-hidden="true">12.</strong> The fourth Principle expounded.</a></li><li class="chapter-item expanded "><a href="13-the-fifth-principle-expounded.html"><strong aria-hidden="true">13.</strong> The fifth Principle expounded.</a></li><li class="chapter-item expanded "><a href="14-the-sixth-principle-expounded.html"><strong aria-hidden="true">14.</strong> The ſixth Principle expounded.</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Six Principles (Transcribed)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-fovndation-of-christian-religion-gathered-into-sixe-principles"><a class="header" href="#the-fovndation-of-christian-religion-gathered-into-sixe-principles">THE FOVNDATION OF CHRISTIAN RELIGION, GATHERED INTO SIXE PRINCIPLES</a></h1>
+<h2 id="and-it-is-to-be-learned-of-ignorant-people-that-they-may-be-fit-to-heare-sermons-with-profit-and-to-receive-the-lords-svpper-with-comfort"><a class="header" href="#and-it-is-to-be-learned-of-ignorant-people-that-they-may-be-fit-to-heare-sermons-with-profit-and-to-receive-the-lords-svpper-with-comfort">AND IT IS TO BE LEARNED OF IGNORANT PEOPLE, THAT THEY MAY BE FIT TO HEARE SERMONS WITH PROFIT, AND TO RECEIVE THE LORDS SVPPER WITH COMFORT.</a></h2>
+<blockquote>
+<p>PSAL. 119. verſ. 130.<br />
+The <em>entrance</em> into they words ſheweth light, and giueth vnderſtanding to the <em>ſimple</em>.</p>
+</blockquote>
+<p>LONDON,<br />
+Printed by <strong>IOHN LEGATT,</strong><br />
+1626.  </p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="to-all-ignorant-people-that-deſire-to-be-inſtructed"><a class="header" href="#to-all-ignorant-people-that-deſire-to-be-inſtructed">TO ALL IGNORANT PEOPLE that deſire to be inſtructed.</a></h1>
+<p>POORE people, your manner is to ſooth vp your ſelues, as though ye were in a moſt happie eſtate: but if the matter come to a iuſt triall, it will fall out farre otherwiſe. For you leade your liues in great ignorance, as may appeare by theſe your common opinions which follow;</p>
+<ol>
+<li>That faith is a mans good meaning, and his good ſeruing of God.</li>
+<li>That God is ſerued by the rehearſing of the ten commandements, the Lords Prayer, and the Creede.</li>
+<li>That ye haue beleeued in Chriſt euer ſince you could remember.</li>
+<li>That it is pitie that he ſhould liue which doth any whit doubt of his ſaluation.</li>
+<li>That none can tell whether he ſhall be ſaued or no certenly: but that all men muſt be of a good beliefe.</li>
+<li>That howſoeuer a man liue, yet if he call vpon God on his death-bed, and ſay, <em>Lord haue mercy vpon me,</em> and ſo goe away like a lambe, he is certainely ſaued.</li>
+<li>That if any be ſtrangely viſited, he is either taken with a planet, or bewitched.</li>
+<li>That a man may lawfully ſweare, when he ſpeakes nothing but the truth, and ſweares by nothing but that which is good, as by his faith, or troth.</li>
+<li>That a preacher is a good man no longer then he is in the pulpit. <em>They thinke all like themſelues.</em></li>
+<li>That a man may repent when he will, becauſe the Scripture ſaith; <em>At what time ſoeuer a ſinner doth repent him of his ſinnes, &amp;c.</em></li>
+<li>That it is an eaſier thing to pleaſe God, then to pleaſe our neighbour.</li>
+<li>That ye can keepe the commandements, as well as God will giue you leaue.</li>
+<li>That it is the ſafeſt to doe in Religion as moſt doe.</li>
+<li>That merry ballads and bookes, as <em>Scoggin,</em> <em>Beuis of Southhampton,</em> <em>&amp;c.</em> are good to driue away the time, and to remooue heart-qualmes.</li>
+<li>That ye can ſerue God with all your hearts, and that ye would be ſorrie elſe.</li>
+<li>That a man neede not heare ſo many Sermons, except he could follow them better.</li>
+<li>That a man which commeth at no Sermons, may as well beleeue, as hee which heares all the Sermons in the world.</li>
+<li>That ye know all the Preacher can tell you. For hee can ſay nothing, but that euery man is a ſinner, that we muſt loue our neighbours as our ſelues, that euery man muſt bee ſaued by Chriſt: and all this ye can tell as well as he.</li>
+<li>That it was a good world, then the old Religion was, becauſe all things were cheape.</li>
+<li>That drinking and bezeling in the ale-houſe or tauerne, is good fellowſhip, and ſhewes a good kinde nature, and maintaines neighbourhood.</li>
+<li>That a man may ſweare by the Maſſe, becauſe it is nothing now, and byr Lady, becauſe ſhee is gone out of the Countrey.</li>
+<li>That euery man muſt be for himſelfe, and God for vs all.</li>
+<li>That a man may make of his owne whatſoeuer he can.</li>
+<li>That if a man remember to ſay his prayers euery morning (though hee neuer vnderſtand them) he hath bleſſed himſelfe for all the day following.</li>
+<li>That a man prayeth when he ſaith the ten commandements.</li>
+<li>That a man eates his Maker in the Sacrament.</li>
+<li>That if a man be no adulterer, no thiefe, no murtherer, and doe no man harme, hee is a right honeſt man.</li>
+<li>That a man neede not haue any knowledge of religion, becauſe he is not booke-learned.</li>
+<li>That one may haue a good meaning, when he ſaith and doth that which is euill.</li>
+<li>That a man may goe to wizzards, called wiſe men, for counſell: becauſe God hath prouided a ſalue for euery ſore.</li>
+<li>That ye are to be excuſed in all your doings, becauſe the beſt men are ſinners.</li>
+<li>That ye haue ſo ſtrong a faith in Chriſt, that no euill company can hurt you.</li>
+</ol>
+<p>Thoſe and ſuch like ſayings, what argue they but your groſſe ignorance? Now where ignorance raigneth, there raignes ſinne: and where ſinne raignes, there the diuell rules: and where he rules, men are in a damnable caſe.</p>
+<p>Ye will reply unto mee thus: that ye are not ſo bad as I would make you. If need be you can ſay the Creede, the Lords prayer, and the ten Commandements: and therefore ye will be of Gods reliefe, ſay all men what they will, and you defie the diuell from your hearts.</p>
+<p>I anſwer againe, that it is not ſufficient to ſay all theſe without booke, vnleſſe ye can underſtand the meaning of the words, and be able to make a right vſe of the Commandements, of the Creed, of the Lords prayer by applying them inwardly to your hearts and conſciences, and outwardly to your liues and conuerſations. This is the very point in which ye faile.</p>
+<p>And for an helpe in this your ignorance, to bring you to true knowledge, vnfained faith, and ſound repentance: here I haue ſet downe the principall points of Chriſtian religion in ſixe plaine and eaſie rules: euen ſuch as the ſimpleſt may eaſily learne: and hereunto is adioyned and expoſition of them word by word. If ye doe want other good directions, then vſe this my labour for your inſtruction. In reading of it, firſt learne the ſixe Principles: and when you haue them without booke, and the meaning of them withall, then learne the expoſition alſo: which being well conceiued, and in ſome meaſure felt in the heart, ye ſhall be able to profit by Sermons, whereas now ye cannot, and the ordinary parts of the Catechiſme, namely the ten Commandements, the Creede, the Lords prayer, and the inſtitution of the two Sacraments, ſhall more eaſily be vnderſtood.</p>
+<p>Thine in Chriſt Ieſus,</p>
+<p>WILLIAM PERKINS.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-firſt-principle"><a class="header" href="#the-firſt-principle">The firſt Principle.</a></h1>
+<p>Queſtion.</p>
+<p>What doeſt thou beleeue concerning God?</p>
+<p><em>A.</em> There is one God, Creator and Gouernour of all things, diſtinguiſhed into the Father, the Son, and the holy Ghoſt.</p>
+<p><em>Proofes out of the word of God.</em></p>
+<ol>
+<li>There is a God.</li>
+</ol>
+<blockquote>
+<p>Rom. 1. 20. For the inuiſible things of him, that is, his eternall power &amp; Godhead, are ſeene by the creation of the world, being conſidered in his workes, to the intent, that they ſhould be without excuſe.<br />
+Acts. 14. 17. Neuertheleſſe, he left not himſelfe without witnes, in that he did good, and gaue vs raine from heauen, and fruitfull ſeaſons, filling our hearts with food &amp; gladnes.</p>
+</blockquote>
+<ol start="2">
+<li>This God is one.</li>
+</ol>
+<blockquote>
+<p>1 Cor. 8. 4. Concerning therefore meate ſacrificed to Idols, wee know that an Idol is nothing in the world: and that there is none other God but one.</p>
+</blockquote>
+<ol start="3">
+<li>He is Creator of all things.</li>
+</ol>
+<blockquote>
+<p>Gen. 1. 1. In the beginning God created the heauen and the earth.<br />
+Heb. 11. 3. Through faith wee vnderſtand, that the world was ordained by the word of God: ſo that the things which we ſee, are not made of things which did appeare.</p>
+</blockquote>
+<ol start="4">
+<li>He is gouernour of all things.</li>
+</ol>
+<blockquote>
+<p>Prou. 15. 3. The eyes of the Lord in euery place behold the euill and the good.<br />
+Matth. 10. 30. Yea, &amp; all the haires of your heads are numbred.</p>
+</blockquote>
+<ol start="5">
+<li>Diſtinguiſhed into the Father, the Sonne, and the holy Ghoſt.</li>
+</ol>
+<blockquote>
+<p>Matth. 3. 16. And Ieſus when he was baptized came ſtraight out of the water: and loe, the heauens were opened vnto him, &amp; Iohn ſaw the ſpirit of God deſcending like a Doue and lighting vpon him.<br />
+Verſe 17. And loe a voice came from heauen, ſaying, This is my beloued Sonne, in whom I am well pleaſed.<br />
+1 Ioh. 5. 7. For there are three which beare record in heauen, the Father, the Word, and the holy Ghoſt: and theſe three are one.</p>
+</blockquote>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-ſecond-principle"><a class="header" href="#the-ſecond-principle">The ſecond Principle.</a></h1>
+<p><em>Q.</em> What doeſt thou beleeue concerning man, and concerning thine owne ſelfe?
+<em>A.</em> All men are wholly corrupted with ſin through <em>Adams</em> fall, and ſo are become ſlaues of <em>Satan,</em> and guiltie of eternall damnation.</p>
+<ol>
+<li>All men are corrupted with ſinne.</li>
+</ol>
+<blockquote>
+<p>Rom. 3. 10. As it is written, There is none rightous, no not one.</p>
+</blockquote>
+<ol start="2">
+<li>They are wholly corrupted.</li>
+</ol>
+<blockquote>
+<p>1 Theſſ. 5. 23. Now the very God of peace ſanctifie you throughout, &amp; I pray God that your whole ſpirit, and ſoule, and body, may be kept blameleſſe vnto the comming of our Lord Ieſus Chriſt.<br />
+Eph. 4. 17. This I ſay therefore and teſtifie in the Lord, that ye henceforth walke not as other Gentiles walke, in vanitie of their minde.<br />
+Verſe 18. Hauing their cogitation darkened, &amp; being ſtrangers from the life of God, through ignorance that is in them, becauſe of the hardneſſe of their heart.<br />
+Gen. 6. 5. When the Lord ſaw that the wickedneſſe of man was great in the earth, and all the imaginations of the thoughts of his heart, were euil onely cótinually.</p>
+</blockquote>
+<ol start="3">
+<li>Through <em>Adams</em> fall.</li>
+</ol>
+<blockquote>
+<p>Rom. 5. 12. Wherefore, as by one man ſinne entred into the world, and death by ſinne, and ſo death went ouer all men, for ſo much as all men haue ſinned.</p>
+</blockquote>
+<ol start="4">
+<li>And ſo are become ſlaues of Sathan.</li>
+</ol>
+<blockquote>
+<p>Eph. 2. 2. Wherein in times paſt ye walked according to the courſe of the world, and after the Prince that ruleth in the ayre, euen the ſpirit that now worketh in the children of diſobedience.<br />
+Heb. 2. 14. For as much then, as the children were partakers of fleſh and blood, hee alſo himſelfe likewiſe tooke part with them, that hee might deſtroy through death, him that had the power of death; that is, the diuell.<br />
+2 Cor. 4. 4. In whom the God of this world hath blinded the minds, that is, of Infidels, that the light of the glorious Goſpel of Chriſt, which is the image of God, ſhould not ſhine vnto them.</p>
+</blockquote>
+<ol start="5">
+<li>And guiltie of eternall damnation.</li>
+</ol>
+<blockquote>
+<p>Gal. 3. 10. For as many as are of the workes of the law, are vnder the curſe: for it is written, Curſed is euery man that continueth not in all things, which are written in the books of the law, to doe them.<br />
+Rom. 5. 18. Likewiſe then, as by the offence of one, the fault came on all men to condemnation: ſo by the iuſtifying of one, the benefit abounded reward all men, to the iuſtification of life.</p>
+</blockquote>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-third-principle"><a class="header" href="#the-third-principle">The third Principle.</a></h1>
+<p><em>Q.</em> What meanes is there for thee to eſcape this damnable eſtate?
+<em>A.</em> Ieſus Chriſt, the eternall Sonne of God, being made man, by his death vpó the Croſſe, and by his righteouſnes, hath perfectly alone by himſelfe accompliſhed all things that are needfull for the ſaluation of mankinde.</p>
+<ol>
+<li>Chriſt Ieſus the eternall Sonne of God.</li>
+</ol>
+<blockquote>
+<p>Ioh. 1. 14. And the Word was made fleſh, and dwelt among vs, and we ſaw the glory thereof, as the glory of the onely begotten (Sonne) of the Father, full of grace and truth.</p>
+</blockquote>
+<ol start="2">
+<li>Being made man.</li>
+</ol>
+<blockquote>
+<p>Heb. 2. 16. For he in no ſort tooke the Angels, but he tooke the ſeede of Abraham.</p>
+</blockquote>
+<ol start="3">
+<li>By his death vpon the Croſſe.</li>
+</ol>
+<blockquote>
+<p>Eſa. 53. 5. But he was wounded for our tranſgreſſions, hee was broken for our iniquities, the chaſtiſement of our peace was vpon him, and with his ſtripes we are healed.</p>
+</blockquote>
+<ol start="4">
+<li>And by his righteouſneſſe.</li>
+</ol>
+<blockquote>
+<p>Rom. 5. 19. For as by one mans diſobedience, many were made ſinners: ſo by the obedience of one, ſhall many alſo be made righteous.<br />
+2 Cor. 5. 21. For he hath made him to be ſinne for vs, which knew no ſinne, that we ſhould be made the righteouſneſſe of God in him.</p>
+</blockquote>
+<ol start="5">
+<li>Hath perfectly.</li>
+</ol>
+<blockquote>
+<p>Heb. 7. 25. Wherefore he is able alſo perfectly to ſaue them that come vnto God by him, ſeeing he euer liueth to make interceſſion for them.</p>
+</blockquote>
+<ol start="6">
+<li>Alone by himſelfe.</li>
+</ol>
+<blockquote>
+<p>Acts 4.12. Neither is their ſaluation in any other: for among men there is giuen none other name vnder heauen, whereby we muſt be ſaued.</p>
+</blockquote>
+<ol start="7">
+<li>Accompliſhed all things needfull for the ſaluation of mankinde.</li>
+</ol>
+<blockquote>
+<p>1 John. 2. 2. And he is the reconciliation for our ſins: and not for ours onely, but alſo for the ſins of the whole world.</p>
+</blockquote>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-fourth-principle"><a class="header" href="#the-fourth-principle">The fourth Principle.</a></h1>
+<p><em>Q.</em> But how maiſt thou be made partaker of Chriſt and his benefits.
+<em>Answ.</em> A man of a contrite and humble ſpirit, by faith alone apprehending and applying Chriſt with all his merits vnto himſelfe, is iuſtified before God and ſanctified.</p>
+<ol>
+<li>A man of a contrite and humble ſpirit.</li>
+</ol>
+<blockquote>
+<p>Eſa. 57. 15. For thus ſaith hee that is high and excellent; Hee that inhabiteth the eternitie, whoſe name is the Holy one, I dwell in the high and holy place, with him alſo that is of a contrite and humble ſpirit; to reuiue the ſpirit of the humble, and to giue life to them that are of a contrite heart.<br />
+Pſal. 51. 17. The ſacrifices of God, are a contrite ſpirit, a contrite and a broken heart, O God, thou wilt not deſpiſe.</p>
+</blockquote>
+<ol start="2">
+<li>By faith alone.</li>
+</ol>
+<blockquote>
+<p>Mark. 5. 36. As ſoone as Ieſus heard that word ſpoken, hee ſaid vnto the ruler of the Synagogue, Bee not afraid, onely beleeue.<br />
+Num. 21. 19. <sup class="footnote-reference"><a href="#1">1</a></sup> So Moſes made a ſerpent of braſſe, and ſet it vp for a ſigne, and when a ſerpent had bitten a man, then he looked to the Serpent of braſſe, and liued.<br />
+Ioh. 3. 14. And as Moſes lift vp the Serpent in the wilderneſſe, ſo muſt the Sonne of man bee lifted vp.<br />
+Verſe 5. <sup class="footnote-reference"><a href="#2">2</a></sup> That whoſoeuer beleeueth in him, ſhould not periſh, but haue eternall life.</p>
+</blockquote>
+<ol start="3">
+<li>Apprehending and applying Chriſt with all his merits vnto himſelfe.</li>
+</ol>
+<blockquote>
+<p>Ioh. 1. 12. But as many as receiued him, to them he gaue power to be the ſonnes of God, to them that beleeue in his name.<br />
+Ioh. 6. 35. And Ieſus ſaid vnto them; I am the bread of life, hee that commeth to me, ſhall not hunger, and hee that beleeueth in mee, ſhall neuer thirſt.</p>
+</blockquote>
+<ol start="4">
+<li>Is iuſtified before God.</li>
+</ol>
+<blockquote>
+<p>Rom. 4. 3 For what ſaith the Scripture; Abraham beleeued God, and it was counted to him for righteouſneſſe.<br />
+Verſ. 6. Euen as Dauid declareth the bleſſedneſſe of the man, vnto whom God imputeth rightouſneſſe, without workes: ſaying,<br />
+Verſ. 7. Bleſſed are they whoſe iniquities are forgiuen, and whoſe ſinnes are couered.</p>
+</blockquote>
+<ol start="5">
+<li>And ſanctified.</li>
+</ol>
+<blockquote>
+<p>Acts. 15. 19. <sup class="footnote-reference"><a href="#3">3</a></sup> And hee put no difference betweene vs and them, after that by faith hee had purified their hearts.<br />
+1 Cor. 1. 30. But yee are of him in Chriſt Ieſus, who of God is made vnto vs wiſedome, and righteouſneſſe, and ſanctification, and redemption.</p>
+</blockquote>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>Transcriber's note - the verse quoted is Num. 21:9.</p>
+</div>
+<div class="footnote-definition" id="2"><sup class="footnote-definition-label">2</sup>
+<p>Transcriber's note - the verse quoted is Joh. 3:15.</p>
+</div>
+<div class="footnote-definition" id="3"><sup class="footnote-definition-label">3</sup>
+<p>Transcriber's note - the verse quoted is Acts 15:9.</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-fifth-principle"><a class="header" href="#the-fifth-principle">The fifth Principle.</a></h1>
+<p><em>Q.</em> What are the ordinary or vſuall meanes for obtaining of faith?
+<em>A.</em> Faith commeth onely by the preaching of the word, and increaſeth daily by it: as alſo by the adminiſtration of Sacraments and prayer.</p>
+<ol>
+<li>Faith commeth onely by the preaching of the word, and increaſeth daily by it.</li>
+</ol>
+<blockquote>
+<p>Rom. 10. 14. But how ſhall they call on him, in whom they haue not beleeued: how ſhall they beleeue in him, of whom they haue not heard? And how ſhall they heare without a Preacher?<br />
+Prou. 29. 18. Where there is no viſion, the people decay; but he that keepeth the law is bleſſed.<br />
+Hoſ. 4. 8. <sup class="footnote-reference"><a href="#1">1</a></sup> My people are deſtroyed for lacke of knowledge: becauſe thou haſt refuſed knowledge, I will alſo refuſe thee, that thou ſhalt be no Prieſt to mee: and ſeeing thou haſt forgotten the law of thy God, I will alſo forget thy children.</p>
+</blockquote>
+<ol start="2">
+<li>As alſo by the adminiſtration of the Sacraments.</li>
+</ol>
+<blockquote>
+<p>Rom. 4. 11. After hee receiued the ſigne of circumciſion, as the ſeale of the righteouſneſſe of faith, which hee had when hee was vncircumciſed, that hee ſhould be the father of all them that beleeue, not being circumciſed, that righteouſneſſe might be imputed to them alſo.<br />
+1 Cor. 10. 1. Moreouer, brethren, I would not that yee ſhould bee ignorant, that all our fathers were vnder the cloud, and all paſſed through the ſea, &amp;c.</p>
+</blockquote>
+<ol start="3">
+<li>And Prayer.</li>
+</ol>
+<blockquote>
+<p>Rom. 10. 13. For whoſoeuer ſhall call vpon the name of the Lord ſhall be ſaued.</p>
+</blockquote>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>Transcriber's note - the verse quoted is Hos. 4:6</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-ſixth-principle"><a class="header" href="#the-ſixth-principle">The ſixth Principle.</a></h1>
+<p><em>Q.</em> What is the eſtate of all men after death?
+<em>A.</em> All men ſhall riſe againe with their owne bodies, to the laſt iudgement, which beeing ended, the godly ſhall poſſeſſe the kingdome of heauen: but vnbeleeuers and rebrobates ſhall bee in hell, tormented with the diuell and his angels for euer.</p>
+<ol>
+<li>All men ſhall riſe againe with their owne bodies.</li>
+</ol>
+<blockquote>
+<p>Ioh 5. 28. Maruell not at this, for the houre ſhall come, in the which all that are in the graues ſhall heare his voice.<br />
+Verſe. 29. And they ſhall come forth that haue done good, vnto the reſurrection of life: but they that haue done euill, vnto the reſurrection of condemnation.</p>
+</blockquote>
+<ol start="2">
+<li>To the laſt iudgement.</li>
+</ol>
+<blockquote>
+<p>Eccl. 12. 14. For God will bring euery worke vnto iudgement, with euery ſecret thing, whether it bee good or euill.<br />
+Mat. 12. 36. But I ſay vnto you, that of euery idle word that men ſhall ſpeake, they ſhall giue an account thereof, at the day of iudgement.</p>
+</blockquote>
+<ol start="3">
+<li>Which beeing ended the godly.</li>
+</ol>
+<blockquote>
+<p>2 Pet. 2. 7. And deliuered iuſt Lot, vexed with the vncleane conuerſation of the wicked.<br />
+Ezech. 9. 4. And the Lord ſaid vnto him: goe through the middeſt of the Citie, euen through the middeſt of Ieruſalem, &amp; ſet a marke vpon the forehead of them that mourne, and crie for all the abbominations that bee done in the middeſt thereof.</p>
+</blockquote>
+<ol start="4">
+<li>Shall poſſeſſe the kingdome of God.</li>
+</ol>
+<blockquote>
+<p>Mat. 25. 34. Then ſhall the king ſay to them on his right hand, Come yee bleſſed of my Father, inherit yee the kingdome prepared for you from the beginning of the world.</p>
+</blockquote>
+<ol start="5">
+<li>But vnbeleeuers and rebrobates ſhall bee in hell, tormented with the diuell and his angels.</li>
+</ol>
+<blockquote>
+<p>Verſe. 41. Then ſhall hee ſay vnto them on the left hand, Depart from mee yee cursed into euerlaſting fire, which is prepared for the diuell &amp; his angels.</p>
+</blockquote>
+<p>The Scriptures for proofe were onely quoted by the Author, to mooue thee to ſearch them: the words themſelues I haue expreſſed at the earneſt requeſt of many, that thou maieſt more eaſily learne them: if yet thou wilt bee ignorant, thy malice is euident; if thou gaineſt knowledg, giue God the glorie in doing of his will. <em>Thine</em> T.S.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-first-principle-expounded"><a class="header" href="#the-first-principle-expounded">The first Principle expounded.</a></h1>
+<p><em>Q.</em> What is God?<br />
+<em>A.</em> God is <sup class="footnote-reference"><a href="#a">1</a></sup> a <em>spirit,</em> or a ſpirituall ſubſtance, moſt wiſe, moſt holy, eternall, infinite.</p>
+<p><em>Q.</em> How doe you perſwade your ſelfe that there is a God?<br />
+<em>A.</em> Beſide the teſtimonie of the Scriptures, plaine reaſon will ſhew it.</p>
+<p><em>Q.</em> What is one reaſon?<br />
+<em>A.</em> When I conſider <sup class="footnote-reference"><a href="#b">2</a></sup> the wonderfull frame of the world, me thinkes the ſilly creatures that bee in it could neuer make it: neither could it make it ſelfe, and therefore beſides all theſe, the maker of it muſt needes be God. Euen as when a man comes into a ſtrange country, &amp; ſees faire and ſumptuous buildings, and yet findes no liuing creatures there, beſides birds and beaſts, he will not imagine, that either birds or beaſts reared thoſe buildings, but hee preſently conceiues, that ſome men either were or haue been there.</p>
+<p><em>Q.</em> What other reaſon haue you?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#c">3</a></sup> A man that commits any ſinne, as murther, fornication, adulterie, blaſphemie, &amp;c. albeit hee doth ſo conceale the matter, that no man liuing know of it, yet oftentimes he hath a griping in his conſcience, and feeles the very flaſhing of hellfire; which is a ſtrong reaſon to ſhew, that there is a God, before whoſe iudgement ſeat he muſt anſwer for his fact.</p>
+<p><em>Q.</em> How many Gods are there?<br />
+<em>A.</em> No <sup class="footnote-reference"><a href="#d">4</a></sup> more but one.</p>
+<p><em>Q.</em> How doe you conceiue this one God in your minde?<br />
+<em>A.</em> Not <sup class="footnote-reference"><a href="#e">5</a></sup> by framing an image of him in my mind (as ignorant folkes doe, that thinke him to bee an old man ſitting in heauen) but I conceiue him by his properties and workes.</p>
+<p><em>Q.</em> What bee his cheife properties?<br />
+<em>A.</em> Firſt, hee is <sup class="footnote-reference"><a href="#f">6</a></sup> <em>moſt wiſe,</em> vnderſtanding all things aright, and knowing the reaſon of them. Secondly, he is <sup class="footnote-reference"><a href="#g">7</a></sup> moſt <em>holy,</em> which appeareth, in that he is <em>moſt iuſt</em> and <em>mercifull</em> vnto his creatures. Thirdly, hee is <sup class="footnote-reference"><a href="#h">8</a></sup> <em>eternall,</em> without either beginning, or end of daies. Laſtly, he is <sup class="footnote-reference"><a href="#i">9</a></sup> <em>infinite,</em> both becauſe he is preſent in all places, and becauſe hee is of power ſufficient to doe whatſoeuer he <sup class="footnote-reference"><a href="#k">10</a></sup> <em>will.</em></p>
+<p><em>Q.</em> What be the workes of God?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#l">11</a></sup> The creation of the world, and euery thing therein, and the preſeruation of them, being created by <em>his ſpeciall prouidence.</em></p>
+<p><em>Q.</em> How know you that God gouerneth euery particular thing in the world by his <em>ſpeciall prouidence?</em><br />
+<em>A.</em> To omit the <sup class="footnote-reference"><a href="#m">12</a></sup> Scriptures, I ſee it by experience: <sup class="footnote-reference"><a href="#n">13</a></sup> Meate, Drinke and Clothing being voide of heat &amp; life, could not preſerue the life of man, vnleſſe there were a <em>ſpeciall prouidence</em> of God to giue vertue vnto them.</p>
+<p><em>Q.</em> How is this one God diſtinguiſhed?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#o">14</a></sup> Into the <em>Father</em>, which begetteth the Sonne; into the <em>Sonne</em>, who is begotten of the Father; into the <em>holy Ghoſt,</em> <sup class="footnote-reference"><a href="#p">15</a></sup> who proceedeth from the Father and the Sonne.</p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Ioh 4. 24.</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>Rom. 1. 20. Act. 14. 17.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Rom. 2. 15. Gen. 3. 8, 10, and 42. 21.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>1 Cor. 8. 9.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>Deu. 4. 16. Amos 4. 13.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>Iob. 12. 13.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>Eſa. 6. 3. Exod. 20. 5.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>Eſa. 41. 4.</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>Pſ. 139</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>Iob. 9. 4 Deu. 10. 17.</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>Ier. 10. 12. Pſa. 33. 6.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>Mat. 10. 30. Pro. 16. 53</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>Leuit. 26. 26. Matt. 4. 4</p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>1 Ioh. 5. 7. Mat. 3. 16, 17.</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>Ioh. 15. 26.</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-ſecond-principle-expounded"><a class="header" href="#the-ſecond-principle-expounded">The ſecond Principle expounded.</a></h1>
+<p><em>Q.</em> Let vs now come to our ſelues, and firſt tell me what is the naturall eſtate of man?<br />
+<em>A.</em> Euery man is by nature <sup class="footnote-reference"><a href="#a">1</a></sup> <em>dead</em> in ſin as a loathſome carrió, or as a dead corps lieth rotting and ſtinking in the graue, hauing in him the ſeed of all ſinnes.</p>
+<p><em>Q.</em> What is ſinne?<br />
+<em>A.</em> Any <sup class="footnote-reference"><a href="#b">2</a></sup> breach of the of [sic] law of God, if it bee no more but the leaſt want of that which the law requireth.</p>
+<p><em>Q.</em> How many ſorts of ſinne are there?<br />
+<em>A.</em> Sinne is either the <sup class="footnote-reference"><a href="#c">3</a></sup> corruption of nature, or any euill actions that proceed of it, as fruits thereof.</p>
+<p><em>Q.</em> In whom is the corruption of nature?<br />
+<em>A.</em> In all men <sup class="footnote-reference"><a href="#d">4</a></sup> none excepted.</p>
+<p><em>Q.</em> In what part of man is it?<br />
+<em>A.</em> In euery <sup class="footnote-reference"><a href="#e">5</a></sup> part both of body and ſoule, like as a leproſie that runneth from the crowne of the head to the ſoale of the foote.</p>
+<p><em>Q.</em> Shew me how euery part of man is corrupted with ſinne?<br />
+<em>A.</em> Firſt, in the <sup class="footnote-reference"><a href="#f">6</a></sup> minde there is nothing but ignorance and blindnes concerning heauenly matters. Secondly, <sup class="footnote-reference"><a href="#g">7</a></sup> the conſcience is defiled, being alwaies either benumbed with ſinne, or elſe turmoyled with inward accuſations and terrors. Thirdly, <sup class="footnote-reference"><a href="#h">8</a></sup> the will of man onely willeth and luſteth after euill. Fourthly, the <sup class="footnote-reference"><a href="#i">9</a></sup> affections of the heart, as loue, ioy, hope, deſire, &amp;c. are mooued and ſtirred to that which is euill to embrace it, and they are neuer ſtirred vnto that which is good, vnleſſe it bee to eſchew it. Laſtly, the <sup class="footnote-reference"><a href="#k">10</a></sup> members of the body are the inſtruments &amp; tooles of the minde for the execution of ſinne.</p>
+<p><em>Q.</em> what bee thoſe euill actions that are the fruits of this corruption?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#l">11</a></sup> Euill thoughts in the minde, which come either by a mans owne conceiuing, or by the ſuggeſtion of the diuell: <sup class="footnote-reference"><a href="#m">12</a></sup> euill motions and luſts ſtirring in the heart, and from theſe ariſe euill words and deeds, when any occaſion is giuen.</p>
+<p><em>Q.</em> How commeth it to paſſe that all men are thus defiled with ſinne?<br />
+<em>A.</em> By <sup class="footnote-reference"><a href="#n">13</a></sup> <em>Adam</em> infidelity and diſobedience, in eating the forbidden fruit: euen as we ſee great perſonages by treaſon do not onely hurt themſelues, but alſo ſtaine their blood, and diſgrace their poſterity.</p>
+<p><em>Q.</em> What hurt comes to man by his ſin?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#o">14</a></sup> He is continually ſubiect to the curſe of God in his life time, in the end of his life, and after this life.</p>
+<p><em>Q.</em> What is the curſe of God in this life?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#p">15</a></sup> In the bodie diſeaſes, aches, paines: in the ſoule, blindnes, hardnes of heart, horror of conſcience, in goods, hinderances, and loſſes: in name ignominie and reproch: laſtly, in the whole man, <em>bondage</em> vnder Sathan the prince of darkeneſſe.</p>
+<p><em>Q.</em> What manner of <em>bondage is this?</em><br />
+<em>A.</em> This <em>bondage</em> <sup class="footnote-reference"><a href="#q">16</a></sup> is when a man is the ſlaue of the diuell, and hath him to raigne in his heart as his God.</p>
+<p><em>Q.</em> How may a man know whether Sathan be his God or not?<br />
+<em>A.</em> Hee may know it by this, if hee giue obedience to him in heart, and expreſſe it in his conuerſation.</p>
+<p><em>Q.</em> And how ſhall a man perceiue this obedience?<br />
+<em>A.</em> If he <sup class="footnote-reference"><a href="#r">17</a></sup> take delight in the euill motions that Satan puts into his heart, and doe fulfill the luſts of the diuell.</p>
+<p><em>Q.</em> What is the curſe due to man in the end of this life:<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#ſ">18</a></sup> Death, which is the ſeparation of bodie and ſoule.</p>
+<p><em>Q.</em> What is the curſe after this life?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#t">19</a></sup> Eternall damnation in hell fire, wherof euery man is guilty, and is in as great danger of it, as the traytor apprehended is in danger of hanging, drawing and quartering.</p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Eph. 2. 1. 1 Tim. 5. 6.</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>1 Ioh. 3. 4. Rom. 7. 7. Gal. 3. 10.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Col. 3. 9. Pſ. 51. 5.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>Rom. 3. 10.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>Gen. 6. 5. 1 Theſſ. 5. 23.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>1 Cor. 2. 14. Rom. 8. 5.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>Tit. 1. 15. Eph. 4. 18, 19. Eſa. 57. 20.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>Phil. 2. 13. Iob. 15. 16. </p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>Gal. 5. 24.</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>Rom. 6. 19.</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>Gen. 6. 5.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>Ioh. 13. 2. Act. 5. 3. 1 Chr. 21. 1.</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>Rom. 5. 17, 18, 19. Gen. 3.</p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>Gal. 3. 10.</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>Deut. 28. 21, 22, 27, 65, 66, 67.</p>
+</div>
+<div class="footnote-definition" id="q"><sup class="footnote-definition-label">16</sup>
+<p>Heb. 2. 14. Eph. 2. 2. 2 Cor 4. 4. Luk. 11. 14.</p>
+</div>
+<div class="footnote-definition" id="r"><sup class="footnote-definition-label">17</sup>
+<p>Ioh. 8. 44. 1 Ioh. 3. 8.</p>
+</div>
+<div class="footnote-definition" id="ſ"><sup class="footnote-definition-label">18</sup>
+<p>Rom. 5. 12.</p>
+</div>
+<div class="footnote-definition" id="t"><sup class="footnote-definition-label">19</sup>
+<p>Gal. 3. 10. Ro. 3. 19.</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-third-principle-expounded"><a class="header" href="#the-third-principle-expounded">The third principle expounded.</a></h1>
+<p><em>Q.</em> If damnation bee the reward of ſinne: then is a man of all creatures moſt miſerable: a dogge or a toade when they die, al their miſerie is ended; but when a man dyeth, there is the beginning of his woe.<br />
+<em>A.</em> It were ſo indeed, if there were no means of deliuerance, but GOD hath ſhewed his mercy, in giuing a <em>Sauiour</em> to mankind.</p>
+<p><em>Q.</em> How is this Sauiour called?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#a">1</a></sup> Ieſus Chriſt.</p>
+<p><em>Q.</em> What is Ieſus Chriſt?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#b">2</a></sup> The eternall Sonne of God made man in all things, euen <sup class="footnote-reference"><a href="#c">3</a></sup> in his <em>infirmities</em> like other men, ſaue onely in ſinne.</p>
+<p><em>Q.</em> How was he made man void of ſinne?<br />
+<em>A.</em> He was <sup class="footnote-reference"><a href="#d">4</a></sup> conceiued in the wombe of a Virgin, and <em>ſanctified</em> by the holy Ghoſt at his conception.</p>
+<p><em>Q.</em> Why muſt our Sauiour bee both God and man?<br />
+<em>A.</em> He <sup class="footnote-reference"><a href="#e">5</a></sup> muſt bee a man, becauſe man had ſinned, and therefore a man muſt die for ſinne, to appeaſe Gods wrath: he muſt be God, to ſuſtaine &amp; vphold the manhood, to ouercome and vanquiſh death.</p>
+<p><em>Q.</em> What be the offices of Chriſt to make him an al-ſufficient Sauiour?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#f">6</a></sup> He is a Prieſt, a Prophet, a King.</p>
+<p><em>Q.</em> Why is he a Prieſt?<br />
+<em>A.</em> To <em>worke</em> the meanes of ſaluation in the behalfe of mankinde.</p>
+<p><em>Q.</em> How doth hee worke the meanes of ſaluation?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#g">7</a></sup> Firſt, by making <em>ſatisfaction</em> to his Father for the ſinne of man: ſecondly by making <em>interceſſion.</em></p>
+<p><em>Q.</em> How doth he make ſatisfaction?<br />
+<em>A.</em> By two meanes: and the firſt is by offering a <em>ſacrifice.</em></p>
+<p><em>Q.</em> What is the ſacrifice?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#h">8</a></sup> Chriſt himſelfe, as hee is a man conſiſting of body and ſoule.</p>
+<p><em>Q.</em> What is the <sup class="footnote-reference"><a href="#i">9</a></sup> Altar.<br />
+<em>A.</em> Chriſt as hee is God, is the <em>Altar</em> on which he ſacrificed himſelfe.</p>
+<p><em>Q.</em> Who was the Prieſt?<br />
+<em>A.</em> None but <sup class="footnote-reference"><a href="#k">10</a></sup> Chriſt, and that as he is both God and man.</p>
+<p><em>Q.</em> How oft did he ſacrifice himſelfe?<br />
+<em>A.</em> Neuer but <sup class="footnote-reference"><a href="#l">11</a></sup> once.</p>
+<p><em>Q.</em> What death did he ſuffer when he ſacrificed himſelfe?<br />
+<em>A.</em> A death vpon the croſſe, peculiar to himſelf alone: for <sup class="footnote-reference"><a href="#m">12</a></sup> beſides the ſeparation of body and ſoule, he felt alſo the <em>pangs of hell,</em> in that the whole wrath of God due to the ſinne of man, was powred forth vpon him.</p>
+<p><em>Q.</em> What profite commeth by his Sacrifice?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#n">13</a></sup> Gods wrath is appeaſed by it.</p>
+<p><em>Q.</em> Could the ſufferings of Chriſt, which was but for a ſhort time, counteruaile euerlaſting damnation, and ſo appeaſe Gods wrath?<br />
+<em>A.</em> Yea; for ſeeing Chriſt ſuffered, <sup class="footnote-reference"><a href="#o">14</a></sup> God ſuffered, though not in his Godhead: and that is more then if all men in the world had ſuffered for euer and euer.</p>
+<p><em>Q.</em> Now tell me the other meanes of <em>ſatisfaction.</em><br />
+<em>A.</em> It is the perfect fulfilling of <em>the law.</em></p>
+<p><em>Q.</em> How did he fulfill the law?<br />
+<em>A.</em> By <sup class="footnote-reference"><a href="#p">15</a></sup> his <em>perfect righteouſnes:</em> which conſiſteth of two parts; the firſt, the <em>integritie and purenes</em> of his humane nature: the other, <sup class="footnote-reference"><a href="#q">16</a></sup> his <em>obedience</em> in performing all that the law required.</p>
+<p><em>Q.</em> You haue ſhewed how Chriſt doth make <em>ſatisfaction,</em> tell me likewiſe how he doth make <em>interceſſion?</em><br />
+<em>A.</em> He alone doth continually <sup class="footnote-reference"><a href="#r">17</a></sup> appeare before his father in heauen, making the faithfull, and all their praiers acceptable vnto him, by applying of the merits of his owne perfect <em>ſatisfaction</em> to them.</p>
+<p><em>Q.</em> Why is Chriſt a Prophet?<br />
+<em>A.</em> To <sup class="footnote-reference"><a href="#s">18</a></sup> <em>reueale</em> vnto his Church the way and meanes of ſaluation, and this he doth outwardly by the miniſterie of his word, and inwardly by the teaching of his ſpirit.</p>
+<p><em>Q.</em> Why is he alſo a <em>King?</em><br />
+<em>A.</em> That <sup class="footnote-reference"><a href="#t">19</a></sup> he might <em>bountifully beſtow</em> vp on vs, &amp; <em>conuey</em> vnto vs al the aforeſaid meanes of ſaluation.</p>
+<p><em>Q.</em> How doth he ſhew himſelfe to be King?<br />
+<em>A.</em> In <sup class="footnote-reference"><a href="#u">20</a></sup> that beeing <em>dead</em> and <em>buried,</em> hee <em>roſe from the graue,</em> quickened his dead bodie, <em>aſcended</em> into heauen, and now <em>ſitteth at the right hand</em> of his Father, with full power and glorie in heauen.</p>
+<p><em>Q.</em> How elſe?<br />
+<em>A.</em> In <sup class="footnote-reference"><a href="#v">21</a></sup> that hee doth continually inſpire and direct his ſeruants, by the diuine power of his holy ſpirit, according to his holy word.</p>
+<p><em>Q.</em> But to whom will this bleſſed King communicate all theſe meanes of ſaluation?<br />
+<em>A.</em> He <sup class="footnote-reference"><a href="#w">22</a></sup> offereth them to many, and they are <em>ſufficient</em> to ſaue all mankinde; but all ſhall not bee ſaued thereby, becauſe by faith they will not receiue them.</p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Mar. 8. 29. (?)</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>Heb. 2. 16. Ioh. 1. 14.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Heb. 5. 7. Mar. 13. 32.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>Mat. 1. 18.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>1 Tim. 2. 5, 6.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>Pſ. 45. 7. Luk. 4. 8. Deut. 18. 15, 18. Luk. 1. 33. Pſ. 110. 2.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>Mat. 20. 8. Heb. 7. 15, 16.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>Eſa. 53. 10.</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>Apo. 8. 3.</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>Heb. 5. 5, 6.</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>Heb. 9. 28.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>Eſa. 53. 5. Ioh. 12. 27. Reu. 19. 15. Luk. 22. 44.</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>Heb. 9. 26. </p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>Act. 20. 28. 2 Cor 5. 15.</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>1 Cor. 1. 30. Ro. 3. 25. 2 Cor. 5. 21.</p>
+</div>
+<div class="footnote-definition" id="q"><sup class="footnote-definition-label">16</sup>
+<p>Ro. 5. 19. Rom. 4. 8.</p>
+</div>
+<div class="footnote-definition" id="r"><sup class="footnote-definition-label">17</sup>
+<p>Rom. 8. 38. 1 Pet. 2. 5.</p>
+</div>
+<div class="footnote-definition" id="ſ"><sup class="footnote-definition-label">23</sup>
+<p>Ioh. 6. 45. Math. 5. 17.</p>
+</div>
+<div class="footnote-definition" id="t"><sup class="footnote-definition-label">19</sup>
+<p>Eſai. 9. 7.</p>
+</div>
+<div class="footnote-definition" id="u"><sup class="footnote-definition-label">20</sup>
+<p>Act. 10. 40. Eph. 4. 8. Act. 1. 9. </p>
+</div>
+<div class="footnote-definition" id="v"><sup class="footnote-definition-label">21</sup>
+<p>Eſai. 9. 7. and 30. 21.</p>
+</div>
+<div class="footnote-definition" id="w"><sup class="footnote-definition-label">22</sup>
+<p>Mat. 20. 16. Ioh. 1. 11.</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-fourth-principle-expounded"><a class="header" href="#the-fourth-principle-expounded">The fourth principle expounded.</a></h1>
+<p><em>Q.</em> What is faith?<br />
+<em>A.</em> Faith is a <sup class="footnote-reference"><a href="#a">1</a></sup> wonderfull grace of God, by which a man doth apprehend and applie Chriſt, and all his benefits vnto himſelfe.</p>
+<p><em>Q.</em> How doth a man apply Chriſt vnto himſelfe, ſeeing wee are on earth, and Chriſt in heauen?<br />
+<em>A.</em> This <sup class="footnote-reference"><a href="#b">2</a></sup> applying is done by <em>aſſurance,</em> when a man is verily perſwaded by the holy ſpirit, of Gods fauour towards himſelfe <em>particularly,</em> &amp; of the forgiuenes of his <em>owne</em> ſinnes.</p>
+<p><em>Q.</em> How doth God bring men truly to beleeue in Chriſt?<br />
+<em>A.</em> Firſt, hee prepareth their hearts, that they might be capable of faith: and then hee worketh faith in them.</p>
+<p><em>Q.</em> How doth God prepare mens hearts?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#c">3</a></sup> By bruiſing them, as if one would breake an hard ſtone to powder: and this is done by <em>humbling</em> them.</p>
+<p><em>Q.</em> How doth God humble a man?<br />
+<em>A.</em> By working in him a ſight of his ſins, and a ſorrow for them.</p>
+<p><em>Q.</em> How is this ſight of ſinne wrought?<br />
+<em>A.</em> By the <sup class="footnote-reference"><a href="#d">4</a></sup> morall law: the ſumme whereof is the ten commandements.</p>
+<p><em>Q.</em> What ſinnes may I finde in my ſelfe by them?<br />
+<em>A.</em> Tenne.</p>
+<p><em>Q.</em> What is the firſt?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#e">5</a></sup> To make ſomething thy God, which is not God, by fearing it, louing it, and ſo truſting in it more then in the true God.</p>
+<p><em>Q.</em> What is the ſecond?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#f">6</a></sup> To worſhip falſe gods, or the true God in a falſe manner.</p>
+<p><em>Q.</em> What is the third?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#g">7</a></sup> To diſhonour God in abuſing his titles, words, and workes.</p>
+<p><em>Q.</em> What is the fourth?<br />
+<em>A.</em> To <sup class="footnote-reference"><a href="#h">8</a></sup> breake the Sabbath, in doing the works of their calling, &amp; of the fleſh; and in leauing vndone the workes of the ſpirit.</p>
+<p><em>Q.</em> What be the ſixe latter?<br />
+<em>A.</em> To doe any thing that may hinder thy neighbours <sup class="footnote-reference"><a href="#i">9</a></sup> dignity, <sup class="footnote-reference"><a href="#k">10</a></sup> life, <sup class="footnote-reference"><a href="#l">11</a></sup> chaſtity, <sup class="footnote-reference"><a href="#m">12</a></sup> wealth, <sup class="footnote-reference"><a href="#n">13</a></sup> good name, <sup class="footnote-reference"><a href="#o">14</a></sup> though it be but in the ſecret thoughts and motions of the heart vnto which thou giueſt no liking nor conſent.</p>
+<p><em>Q.</em> What is ſorrow for ſinne?<br />
+<em>A.</em> It is <sup class="footnote-reference"><a href="#p">15</a></sup> when a mans conſcience is touched with a liuely feeling of Gods diſpleaſure for any of theſe ſinnes: <sup class="footnote-reference"><a href="#q">16</a></sup> in ſuch wiſe, that hee vtterly deſpaires of ſaluation, in regard of an ything in himſelfe, acknowledging that he hath deſerued ſhame and confuſion eternally.</p>
+<p><em>Q.</em> How doth God worke this ſorrow?<br />
+<em>A.</em> By the terrible curſe of the law.</p>
+<p><em>Q.</em> What is that?<br />
+<em>A.</em> Hee <sup class="footnote-reference"><a href="#r">17</a></sup> which breakes but one of the commandements of God, though it be but once in all his lifetime, and that onely in one thought, is ſubiect to, and in danger of eternall damnation thereby.</p>
+<p><em>Q.</em> When mens hearts are thus prepared, how doth God ingraft faith in them?<br />
+<em>A.</em> By working certaine inward motions in the heart, which are the ſeedes of faith, out of which it breedeth.</p>
+<p><em>Q.</em> What is the firſt of them?<br />
+<em>A.</em> When a man humbled vnder the burden of his ſinnes, doth <sup class="footnote-reference"><a href="#ſ">18</a></sup> acknowledge and feele that he ſtands in great neede of Chriſt.</p>
+<p><em>Q.</em> What is the ſecond?<br />
+<em>A.</em> An <sup class="footnote-reference"><a href="#t">19</a></sup> hungring deſire &amp; a longing to be made partaker of Chriſt &amp; all his merits.</p>
+<p><em>Q.</em> What is the third?<br />
+<em>A.</em> A <sup class="footnote-reference"><a href="#u">20</a></sup> flying to the throne of grace, from the ſentence of the law pricking the conſcience.</p>
+<p><em>Q.</em> How is it done?<br />
+<em>A.</em> By <sup class="footnote-reference"><a href="#x">21</a></sup> praying, with ſending vp loud cries for Gods fauour in Chriſt, in the pardoning of ſinne; and with feruent perſeuerance herein, till the deſire of the heart be granted.</p>
+<p><em>Q.</em> What followeth after this?<br />
+<em>A.</em> God then <sup class="footnote-reference"><a href="#y">22</a></sup> according to his mercifull promiſe, lets the poore ſinner feele the aſſurrance of his loue wherewith he loueth him in Chriſt, which aſſurance is a liuely faith.</p>
+<p><em>Q.</em> Are there diuers degrees and meaſures of true faith?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#z">23</a></sup> Yea.</p>
+<p><em>Q.</em> What is the leaſt meaſure of true faith that any man can haue?<br />
+<em>A.</em> When a man of an humble ſpirit, by reaſon of the <sup class="footnote-reference"><a href="#aa">24</a></sup> littleneſſe of his faith, doth not yet <em>feele</em> the aſſurance of the forgiueneſſe of his ſinnes, and yet he is perſwaded that they are pardonable; and therefore deſireth that they ſhould be pardoned, and with his heart praieth to God to pardon them.</p>
+<p><em>Q.</em> How doe you know that ſuch a man hath faith?<br />
+<em>A.</em> Theſe <sup class="footnote-reference"><a href="#ab">25</a></sup> <em>deſires</em> and <em>praiers</em> are teſtimonies of the Spirit, whoſe propertie it is to ſtirre vp a <em>longing</em> and a <em>luſting</em> after heauenly things with <em>ſighes</em> and <em>groanes</em> for Gods fauour and mercie in Chriſt. <sup class="footnote-reference"><a href="#ac">26</a></sup> Now where the Spirit of Chriſt is, there is Chriſt dwelling; and where Chriſt dwelleth, there is true faith, how weake ſoeuer it be.</p>
+<p><em>Q.</em> What is the greateſt meaſure of faith?<br />
+<em>A.</em> When a man daily increaſing in faith comes to be <sup class="footnote-reference"><a href="#ad">27</a></sup> <em>fully perſwaded</em> of Gods loue in Chriſt towards himſelfe <em>particularly</em>, and of the foriueneſſe of his owne ſinnes.</p>
+<p><em>Q.</em> When ſhall a Chriſtian heart come to this full aſſurance?<br />
+<em>A.</em> Not <sup class="footnote-reference"><a href="#ae">28</a></sup> at the firſt, but in ſome continuance of time, when he hath beene well practiſed <em>in repentance;</em> and hath had diuers <em>experiences</em> of Gods loue vnto him in Chriſt: then after them will appeare in his heart the fulnes of perſwaſion: which is the <em>ripeneſſe</em> <sup class="footnote-reference"><a href="#af">29</a></sup> and ſtrength of faith.</p>
+<p><em>Q.</em> What benefits doth a man receiue by faith in Chriſt?<br />
+<em>A.</em> Hereby <sup class="footnote-reference"><a href="#ag">30</a></sup> hee is <em>iuſtified</em> before God, and ſanctified.</p>
+<p><em>Q.</em> What is this, to be <em>iuſtified</em> before God?<br />
+<em>A.</em> It <sup class="footnote-reference"><a href="#ah">31</a></sup> comprehendeth two things: the firſt, to be cleared from the <em>guiltineſſe and puniſhment</em> of ſinne; the ſecond, to be accepted as perfectly righteous before God.</p>
+<p><em>Q.</em> How is a man cleared from the guiltineſſe and puniſhment of his ſinnes?<br />
+<em>A.</em> By Chriſts <sup class="footnote-reference"><a href="#ai">32</a></sup> ſufferings and death vpon the croſſe.</p>
+<p><em>Q.</em> How is he accepted for righteous before God?<br />
+<em>A.</em> By the <sup class="footnote-reference"><a href="#ak">33</a></sup> righteouſneſſe of Chriſt <em>imputed</em> to him.</p>
+<p><em>Q.</em> What profit cóes by being thus iuſtified?<br />
+<em>A.</em> Hereby <sup class="footnote-reference"><a href="#al">34</a></sup> and by no other meanes in the world, the beleeuer ſhall bee <em>accepted</em> before Gods iudgement ſeate, as <em>worthy</em> of eternall life by the <em>merits</em> of the ſame righteouſneſſe of Chriſt.</p>
+<p><em>Q.</em> Doe not good workes then make vs <em>worthy</em> of eternall life?<br />
+<em>A.</em> No: For God, who is perfect righteouſnes it ſelfe, will find in the beſt workes we doe, more matter of damnation then of ſaluation: and therefore <sup class="footnote-reference"><a href="#am">35</a></sup> we muſt rather condemne our ſelues for our good workes, then looke to be iuſtified before God thereby.</p>
+<p><em>Q.</em> How may a man know that he is iuſtified before God?<br />
+<em>A.</em> Hee neede not aſcend into heauen to ſearch the ſecret councell of God: <sup class="footnote-reference"><a href="#an">36</a></sup> but rather deſcend into his owne heart to ſearch whether <em>he be ſanctified</em> or not.</p>
+<p><em>Q.</em> What is it to be ſanctified?<br />
+<em>A.</em> It comprehendeth two things: the firſt, to be purged from the corruption of his own nature, the ſecond, to be indued with inward righteouſneſſe.</p>
+<p><em>Q.</em> How is the <em>corruption</em> of ſinne purged?<br />
+<em>A.</em> By the <sup class="footnote-reference"><a href="#ao">37</a></sup> <em>merits</em> and <em>power</em> of Chriſts death, which being by faith applyed is as a <em>coraſiue</em> to abate, conſume, and weaken the power of all ſinne.</p>
+<p><em>Q.</em> How is a man indued with inherent righteouſneſſe?<br />
+<em>A.</em> Through the <sup class="footnote-reference"><a href="#ap">38</a></sup> vertue of Chriſts reſurrection: which being applyed by faith, is as a <em>reſtoratiue</em> to reuiue a man that is dead in ſinne, to newneſſe of life.</p>
+<p><em>Q.</em> In what part of man is ſanctification wrought?<br />
+<em>A.</em> In <sup class="footnote-reference"><a href="#aq">39</a></sup> euery part of body and ſoule.</p>
+<p><em>Q.</em> In what time is it wrought?<br />
+<em>A.</em> It is <sup class="footnote-reference"><a href="#ar">40</a></sup> begun in this life, in which the faithfull receiue onely the <em>firſt fruits</em> of the Spirit, and it is not finiſhed before the end of this life.</p>
+<p><em>Q.</em> What graces of the Spirit doe vſually ſhew themſelues in the heart of a man ſanctified?<br />
+<em>A.</em> The <em>hatred</em> <sup class="footnote-reference"><a href="#as">41</a></sup> of sinne, and the loue of righteouſneſſe.</p>
+<p><em>Q.</em> What proceedes of them?<br />
+<em>A.</em> <em>Repentance,</em> which is <sup class="footnote-reference"><a href="#at">42</a></sup> a ſetled purpoſe in the heart, with a careful endeauour to leaue all his ſinnes, and to liue a Chriſtian life, according to all Gods commandements.</p>
+<p><em>Q.</em> What goeth with repentance?<br />
+<em>A.</em> A continuall fighting and ſtrugling againſt the aſſaults of a mans owne fleſh, againſt the motions of the diuell, and the inticements of the world.</p>
+<p><em>Q.</em> What followeth after a man hath gotten the victory in any temptation or affliction?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#au">43</a></sup> Experience of Gods loue in Chriſt, and ſo increaſe of peace of conſcience, and ioy in the holy Ghoſt.</p>
+<p><em>Q.</em> What followeth if in any temptation he be ouercome and through infirmity fall?<br />
+<em>A.</em> After a while <sup class="footnote-reference"><a href="#ax">44</a></sup> there will ariſe a <em>godly sorrow,</em> which is, when a man is grieued for no other cauſe in the world, but for this onely, that by his ſin he hath diſpleaſed God, who hath been vnto him a moſt mercifull and louing Father.</p>
+<p><em>Q.</em> What ſigne is there of this ſorrow?<br />
+<em>A.</em> The true ſigne <sup class="footnote-reference"><a href="#ay">45</a></sup> of it is this, when a man can bee grieued for the very <em>diſobedience of God</em> in his euill word or deede, though he ſhould neuer be puniſhed, and though there were neither heauen nor hell.</p>
+<p><em>Q.</em> What followes after this ſorrow?<br />
+<em>A.</em> Repentance <sup class="footnote-reference"><a href="#az">46</a></sup> <em>renewed afreſh.</em></p>
+<p><em>Q.</em> By what ſignes will this repentance appeare?<br />
+<em>A.</em> By <sup class="footnote-reference"><a href="#ba">47</a></sup> ſeuen. 1. A care to leaue the ſinne into which hee is fallen. 2. An vtter condemning of himſelfe for it, with a crauing of pardon. 3. A great anger againſt himſelfe for his careleſneſſe. 4. A feare leſt he ſhould fall into the ſame ſinne againe. 5. A deſire euer after to pleaſe God. 6. A zeale of the ſame. 7. Reuenge vpon himſelfe for his former offence.</p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Ioh. 2. 2. (?) 1 Ioh. 1. 12. and 6. 35 [transcriber's note: likely intended John rather than 1 John] Gal 3. 7. Col. 2. 12.</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>2 Cor. 1. 21, 22. Rom. 8. 16.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Eze. 11. 19. Hoſ. 6. 1, 2.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>Ro. 3. 20. &amp; 7. 7, 8.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>Com. I.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>II.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>III.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>IIII.</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>V.</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>VI.</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>VII.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>VIIII.</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>X.</p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>X.</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>Act. 2. 37, 28.</p>
+</div>
+<div class="footnote-definition" id="q"><sup class="footnote-definition-label">16</sup>
+<p>1 Tim. 1. 15. Luk. 15. 21. Ezra. 9. 6, 7.</p>
+</div>
+<div class="footnote-definition" id="r"><sup class="footnote-definition-label">17</sup>
+<p>Gal. 3. 10.</p>
+</div>
+<div class="footnote-definition" id="s"><sup class="footnote-definition-label">48</sup>
+<p>Eſa. 55. 1. Ioh. 7. 37. Luk. 1. 53.</p>
+</div>
+<div class="footnote-definition" id="t"><sup class="footnote-definition-label">19</sup>
+<p>Mat. 5. 4.</p>
+</div>
+<div class="footnote-definition" id="u"><sup class="footnote-definition-label">20</sup>
+<p>Heb. 4. 6.</p>
+</div>
+<div class="footnote-definition" id="x"><sup class="footnote-definition-label">21</sup>
+<p>Luk. 15. 18, 19. Math. 15. 22, 23. Act. 8. 23.</p>
+</div>
+<div class="footnote-definition" id="y"><sup class="footnote-definition-label">22</sup>
+<p>Mat. 7. 7. Eſa. 65. 24. Iob. 33. 26.</p>
+</div>
+<div class="footnote-definition" id="z"><sup class="footnote-definition-label">23</sup>
+<p>Rom. 1. 15. Luke. 17. 5.</p>
+</div>
+<div class="footnote-definition" id="aa"><sup class="footnote-definition-label">24</sup>
+<p>Eſa. 42. 3. Mat. 17. 20. Luke. 17. 5.</p>
+</div>
+<div class="footnote-definition" id="ab"><sup class="footnote-definition-label">25</sup>
+<p>Rom. 8. 23, 26. Gal. 4. 6. Mat. 5. 5. </p>
+</div>
+<div class="footnote-definition" id="ac"><sup class="footnote-definition-label">26</sup>
+<p>Rom. 8. 9. Eph. 3. 17.</p>
+</div>
+<div class="footnote-definition" id="ad"><sup class="footnote-definition-label">27</sup>
+<p>Rom. 8. 38, 39. Can. 8 6 7.</p>
+</div>
+<div class="footnote-definition" id="ae"><sup class="footnote-definition-label">28</sup>
+<p>2 Tim. 4. 7, 8. Pſal. 23. 6. with 1, 2, 3, 4. verſ.</p>
+</div>
+<div class="footnote-definition" id="af"><sup class="footnote-definition-label">29</sup>
+<p>Rom. 4. 20, 21.</p>
+</div>
+<div class="footnote-definition" id="ag"><sup class="footnote-definition-label">30</sup>
+<p>1 Cor. 1. 30. Act. 5. 9. [transcriber's note: likely intended Act 15. 9. ] Rom. 4. 3.</p>
+</div>
+<div class="footnote-definition" id="ah"><sup class="footnote-definition-label">31</sup>
+<p>Rom. 8. 33</p>
+</div>
+<div class="footnote-definition" id="ai"><sup class="footnote-definition-label">32</sup>
+<p>Col. 1. 22. 1 Pet. 2. 24. 1 Ioh. 1. 7.</p>
+</div>
+<div class="footnote-definition" id="ak"><sup class="footnote-definition-label">33</sup>
+<p>2 Cor. 5. 31. [transcriber's note: likely intended 2 Cor. 5. 21.]</p>
+</div>
+<div class="footnote-definition" id="al"><sup class="footnote-definition-label">34</sup>
+<p>Rom. 4. 17. Apoc. 22. 17. (?)</p>
+</div>
+<div class="footnote-definition" id="am"><sup class="footnote-definition-label">35</sup>
+<p>Pſ. 143. 2. Eſa. 64. 6. Iob. 9. 3.</p>
+</div>
+<div class="footnote-definition" id="an"><sup class="footnote-definition-label">36</sup>
+<p>Rom. 8. 10. (?) 2 Ioh. 3. 9. [transcriber's note: likely intended 1 Ioh. 3. 9.]</p>
+</div>
+<div class="footnote-definition" id="ao"><sup class="footnote-definition-label">37</sup>
+<p>Rom. 6. 4. 1 Pet. 4. 1, 2.</p>
+</div>
+<div class="footnote-definition" id="ap"><sup class="footnote-definition-label">38</sup>
+<p>Rom. 6. 5, 6. Phil 3. 10.</p>
+</div>
+<div class="footnote-definition" id="aq"><sup class="footnote-definition-label">39</sup>
+<p>1 Theſſ 5:23</p>
+</div>
+<div class="footnote-definition" id="ar"><sup class="footnote-definition-label">40</sup>
+<p>Rom. 8. 23. 2 Cor. 5. 2, 3.</p>
+</div>
+<div class="footnote-definition" id="as"><sup class="footnote-definition-label">41</sup>
+<p>Pſ. 119. 113. &amp; 40. 9. &amp; 101. 3. Rom. 7. 22.</p>
+</div>
+<div class="footnote-definition" id="at"><sup class="footnote-definition-label">42</sup>
+<p>Pſ. 119. 57, 113.</p>
+</div>
+<div class="footnote-definition" id="au"><sup class="footnote-definition-label">43</sup>
+<p>Rom. 5. 3, 4. 1 Cor. 1. 5.</p>
+</div>
+<div class="footnote-definition" id="ax"><sup class="footnote-definition-label">44</sup>
+<p>2 Cor. 7. 8, 9. Mat. 26. 75.</p>
+</div>
+<div class="footnote-definition" id="ay"><sup class="footnote-definition-label">45</sup>
+<p>1 Pet. 2. 19.</p>
+</div>
+<div class="footnote-definition" id="az"><sup class="footnote-definition-label">46</sup>
+<p>2 Cor. 7. 11.</p>
+</div>
+<div class="footnote-definition" id="ba"><sup class="footnote-definition-label">47</sup>
+<p>2 Cor. 7. 11.</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-fifth-principle-expounded"><a class="header" href="#the-fifth-principle-expounded">The fifth Principle expounded.</a></h1>
+<p><em>Q.</em> What outward meanes muſt wee vſe to obtaine faith, and all the bleſsings of God which come by faith?<br />
+<em>A.</em> The <em>preaching</em> <sup class="footnote-reference"><a href="#a">1</a></sup> of Gods word, and the adminiſtration of the <em>Sacraments,</em> and prayer.</p>
+<p><em>Q.</em> Where is the word of God to bee found?<br />
+<em>A.</em> The whole word of God, needfull to ſaluation, is ſet down in the holy Scriptures.</p>
+<p><em>Q.</em> How know you that the Scriptures are the word of God, and not mens policies?<br />
+<em>A.</em> I am aſſured of it: firſt <sup class="footnote-reference"><a href="#b">2</a></sup> becauſe the holy Ghoſt perſwadeth my conſcience that it is ſo. Secondly, I ſee it by experience: for the preaching of the <sup class="footnote-reference"><a href="#c">3</a></sup> Scriptures haue the power of God in them to <em>humble a man,</em> when they are preached, and to caſt him downe to hell, and afterward to <em>reſtore</em> and raiſe him vp againe.</p>
+<p><em>Q.</em> What is the vſe of the word of God preached?<br />
+<em>A.</em> Firſt, it <sup class="footnote-reference"><a href="#d">4</a></sup> <em>breedeth</em>, and then it increaſeth faith in them which are choſen to ſaluation: but vnto them that periſh, it is by reaſon of their corruption, <em>an occaſion</em> of their further damnation.</p>
+<p><em>Q.</em> How muſt we heare Gods word, that it may be effectuall to our ſaluation?<br />
+<em>A.</em> We <sup class="footnote-reference"><a href="#e">5</a></sup> muſt come vnto it with hunger-bitten hearts, hauing an appetite to the word; we muſt marke it with attention, receiue it by faith, ſubmit our ſelues vnto it with feare and trembling, euen then when our faults are reprooued: Laſtly, we muſt hide it in the corners of our hearts, that we may frame our liues and conuerſations by it.</p>
+<p><em>Q.</em> What is a Sacrament?<br />
+<em>A.</em> A <sup class="footnote-reference"><a href="#f">6</a></sup> <em>ſigne</em> to repreſent, a <em>ſeale</em> to confirme, an <em>inſtrument</em> to conuey Chriſt and all his benefits to them that do beleeue in him.</p>
+<p><em>Q.</em> Why muſt a Sacrament repreſent the mercies of God before our eyes?<br />
+<em>A.</em> Becauſe we are dull to conceiue and to remember them.</p>
+<p><em>Q.</em> Why do the Sacraments ſeale vnto vs the mercies of God?<br />
+<em>A.</em> Because we are full of vnbeleefe, and doubting of them.</p>
+<p><em>Q.</em> Why is the Sacrament the inſtrument of the ſpirit to conuey the mercies of God into our hearts?<br />
+<em>A.</em> Becauſe wee are like <em>Thomas,</em> wee will not beleeue till we feele them in ſome meaſure in our hearts.</p>
+<p><em>Q.</em> How many Sacraments are there?<br />
+<em>A.</em> Two <sup class="footnote-reference"><a href="#g">7</a></sup> and no more: <em>Baptiſme,</em> by which we haue our <em>admiſſion</em> into the true Church of God, and the <em>Lords Supper,</em> by which we are nouriſhed and <em>preſerued</em> in the true Church after our admiſsion.</p>
+<p><em>Q.</em> What is done in Baptiſme?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#h">8</a></sup> In the aſſembly of the Church the <em>couenant of grace</em> betweene God and the party baptized, is ſolemnely confirmed and ſealed.</p>
+<p><em>Q.</em> In this couenant, what doth God promiſe to the party baptized?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#i">9</a></sup> Chriſt, with all bleſsings that come by him.</p>
+<p><em>Q.</em> To what condition is the party baptized bound?<br />
+<em>A.</em> To <sup class="footnote-reference"><a href="#k">10</a></sup> receiue Christ, &amp; to repent his ſin.</p>
+<p><em>Q.</em> What meaneth the <em>sprinkling</em> or <em>dipping in water?</em><br />
+<em>A.</em> It <sup class="footnote-reference"><a href="#l">11</a></sup> ſeales vnto vs remiſsion of ſins, and ſanctification by the obedience and ſprinkling of the blood of Chriſt.</p>
+<p><em>Q.</em> How commeth it to paſſe, that many after their baptiſme for a long time feele not the effect and fruite of it, and ſome neuer?<br />
+<em>A.</em> The fault is not in God, who keepes his couenants, but the fault is in themſelues, in that they doe not keepe the condition of the couenant, to receiue Chriſt by faith, and to repent of all their ſinnes.</p>
+<p><em>Q.</em> When ſhall a man then ſee the effect of his baptiſme?<br />
+<em>A.</em> At <sup class="footnote-reference"><a href="#m">12</a></sup> what time ſoeuer hee doth receiue Chriſt by faith, though it bee many yeares after, he ſhall then feele the power of God to regenerate him, and to worke all things in him, which he offered in baptiſme?</p>
+<p><em>Q.</em> How if a man neuer keepe the condition to which he bound himſelfe in baptiſme?<br />
+<em>A.</em> His damnation <sup class="footnote-reference"><a href="#n">13</a></sup> ſhall bee the greater, becauſe he breaketh his vow made to God.</p>
+<p><em>Q.</em> What is done in the Lords Supper?<br />
+<em>A.</em> The former couenant ſolemnly ratified in baptiſme, is renued <sup class="footnote-reference"><a href="#o">14</a></sup> in the Lords Supper, betweene the Lord himſelfe, * the receiuer?</p>
+<p><em>Q.</em> Who is the receiuer?<br />
+<em>A.</em> Euery one <sup class="footnote-reference"><a href="#p">15</a></sup> that hath beene baptized, and after his baptiſme hath truly beleeued in Chriſt, and repented of his ſinnes from his heart.</p>
+<p><em>Q.</em> What meaneth the bread and wine, the eating of the bread and drinking of the wine?<br />
+<em>A.</em> Theſe outward actions <sup class="footnote-reference"><a href="#r">16</a></sup> are a ſecond ſeale, ſet by the Lords own hand vnto his couenant. And they doe giue euery receiuer to vnderſtand, that as God doth bleſſe the bread and wine, to preſerue &amp; ſtrengthen the body of the receiuer: ſo Chriſt apprehended and receiued by faith, ſhall nouriſh him, and preſerue both body and ſoule vnto eternall life.</p>
+<p><em>Q.</em> What ſhall a true receiuer feele in himſelfe after the receiuing of the Sacrament?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#s">17</a></sup> The increaſe of his faith in Chriſt, the increaſe of ſanctification, a greater meaſure of dying to ſin, a greater care to liue in newneſſe of life.</p>
+<p><em>Q.</em> What if a man after the receiuing of the ſacramét, neuer find any ſuch thing in himſelf?<br />
+<em>A.</em> He may well ſuſpect himſelfe whether he did euer repent or not: and therupon is to vſe means to come to ſound faith &amp; repentance.</p>
+<p><em>Q.</em> What is another meanes of increaſing faith?<br />
+<em>A.</em> Prayer.</p>
+<p><em>Q.</em> What is prayer?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#t">18</a></sup> A familiar ſpeech with God in the name of Chriſt, <sup class="footnote-reference"><a href="#u">19</a></sup> in which either we craue things needfull, or giue thankes for things receiued.</p>
+<p><em>Q.</em> In asking things needful, what is required?<br />
+<em>A.</em> Two things, an earneſt deſire, and faith.</p>
+<p><em>Q.</em> <sup class="footnote-reference"><a href="#v">20</a></sup> What things muſt a Chriſtian mans heart deſire?<br />
+<em>A.</em> Sixe things eſpecially.</p>
+<p><em>Q.</em> What are they?<br />
+<em>A.</em> 1. <sup class="footnote-reference"><a href="#w">21</a></sup> That he may glorifie God. 2. That <sup class="footnote-reference"><a href="#x">22</a></sup> God may reigne in his heart, and not ſinne: 3. That <sup class="footnote-reference"><a href="#y">23</a></sup> he may doe Gods will, and not the luſts of his fleſh: 4. <sup class="footnote-reference"><a href="#z">24</a></sup> That he may relie himſelfe on Gods prouidence for all the meanes of this temporall life: 5. <sup class="footnote-reference"><a href="#aa">25</a></sup> That he may be iuſtified, and be at peace with God: 6. <sup class="footnote-reference"><a href="#ab">26</a></sup> That by the power of God hee may bee ſtrengthened againſt all temptations.</p>
+<p><em>Q.</em> What is faith?<br />
+<em>A.</em> A <sup class="footnote-reference"><a href="#ac">27</a></sup> perſwaſion, that thoſe things which we truly deſire, God will grant them for Chriſts ſake.</p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Prou. 29. 18. Rom. 10. 14. Math. 28. 19, 20. 1 Tim. 3. 16.</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>Eph. 1. 13.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Heb. 4. 12. 1 Cor. 14. 25.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>Rom. 1. 17. 2 Cor. 2. 16. Heb. 4. 2.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>Iam. 1. 19. Act. 16. 14. Heb. 4. 2. Eſay. 66. 2. Luk. 2. 51. Pſa. 119. 11.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>Rom. 4. 11. Gen. 17. 12. Gal. 3. 10.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>1 Cor. 10. 1, 2, 3.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>Act. 2. 38. Tit. 3. 5. Act. 22. 16. Mat. 28. 19.</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>Gal. 3. 27. 1 Pet. 3. 21.</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>Mar. 16. 16. </p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>1 Pet. 1. 2.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>Heb. 10. 20. 1 Pet. 3. 21.</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>Deut. 23. 21, 22. Eccleſ. 3. 4.</p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>1 Cor. 11. 23, 24. &amp; 12. 13.</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>1 Cor. 11. 28, 31. Mat. 5. 23, 24. Eſa. 66. 2, 3.</p>
+</div>
+<div class="footnote-definition" id="r"><sup class="footnote-definition-label">16</sup>
+<p>1 Cor. 10. 17, 19.</p>
+</div>
+<div class="footnote-definition" id="s"><sup class="footnote-definition-label">17</sup>
+<p>1 Cor. 10. 16, 17. &amp; 11. 24.</p>
+</div>
+<div class="footnote-definition" id="t"><sup class="footnote-definition-label">18</sup>
+<p>1 Ioh. 5. 4.</p>
+</div>
+<div class="footnote-definition" id="u"><sup class="footnote-definition-label">19</sup>
+<p>1 Tim. 2. 1. Phil. 4. 6.</p>
+</div>
+<div class="footnote-definition" id="v"><sup class="footnote-definition-label">20</sup>
+<p>Mar. 11. 24.</p>
+</div>
+<div class="footnote-definition" id="w"><sup class="footnote-definition-label">21</sup>
+<p>Petitió I.</p>
+</div>
+<div class="footnote-definition" id="x"><sup class="footnote-definition-label">22</sup>
+<p>II.</p>
+</div>
+<div class="footnote-definition" id="y"><sup class="footnote-definition-label">23</sup>
+<p>III.</p>
+</div>
+<div class="footnote-definition" id="z"><sup class="footnote-definition-label">24</sup>
+<p>IV.</p>
+</div>
+<div class="footnote-definition" id="aa"><sup class="footnote-definition-label">25</sup>
+<p>V.</p>
+</div>
+<div class="footnote-definition" id="ab"><sup class="footnote-definition-label">26</sup>
+<p>VI.</p>
+</div>
+<div class="footnote-definition" id="ac"><sup class="footnote-definition-label">27</sup>
+<p>Amen.</p>
+</div>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-ſixt-principle-expounded"><a class="header" href="#the-ſixt-principle-expounded">The ſixt Principle expounded.</a></h1>
+<p><em>Q.</em> After that a man hath led a ſhort life in this world, what followeth then?<br />
+<em>A.</em> Death, which is the parting aſunder of body and ſoule.</p>
+<p><em>Q.</em> Why do wicked men &amp; vnbeleeuers dy?<br />
+<em>A.</em> That their bodies may goe to the earth. and their <sup class="footnote-reference"><a href="#a">1</a></sup> ſoules may be caſt into hell fire.</p>
+<p><em>Q.</em> Why do the godly die, ſeeing Chriſt by death hath ouercome death?<br />
+<em>A.</em> They die for this end, that <sup class="footnote-reference"><a href="#b">2</a></sup> their bodies may reſt for a while in the earth, &amp; their ſoules may enter into heauen immediately.</p>
+<p><em>Q.</em> What followeth after death?<br />
+<em>A.</em> The day of iudgement.</p>
+<p><em>Q.</em> What ſigne is there to know this day from other daies?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#c">3</a></sup> Heauen and earth ſhall be conſumed with fire immediately before the comming of the iudge.</p>
+<p><em>Q.</em> Who ſhall be iudge?<br />
+<em>A.</em> Ieſus Chriſt the Sonne of God.</p>
+<p><em>Q.</em> What ſhal be the cóming to iudgement?<br />
+<em>A.</em> Hee ſhall come <sup class="footnote-reference"><a href="#d">4</a></sup> in the cloudes in great maieſtie and glorie, with infinite company of Angels.</p>
+<p><em>Q.</em> How ſhall a man be cited to iudgement?<br />
+<em>A.</em> At the <sup class="footnote-reference"><a href="#e">5</a></sup> ſound of a trumpet, the liuing ſhall be changed in the twinckling of an eye, and the dead ſhall riſe againe euerie one with <sup class="footnote-reference"><a href="#f">6</a></sup> his owne bodie: and all ſhall be gathered together before Chriſt; and after this, the good ſhall be ſeuered fró the bad, <sup class="footnote-reference"><a href="#g">7</a></sup> theſe ſtáding on the left hand of Chriſt, the other on the right.</p>
+<p><em>Q.</em> How will Chriſt trie and examine euery mans cauſe?<br />
+<em>A.</em> The <sup class="footnote-reference"><a href="#h">8</a></sup> bookes of euery mans doings ſhall be laid open, mens conſciences ſhall be made either to accuſe them, or excuſe them, and euery man ſhall be tried by the workes which he did in his life time, becauſe they are open and manifeſt ſignes <sup class="footnote-reference"><a href="#i">9</a></sup> of faith or vnbeliefe.</p>
+<p><em>Q.</em> What ſentence will he giue?<br />
+<em>A.</em> Hee will giue <sup class="footnote-reference"><a href="#k">10</a></sup> ſentence of ſaluation to the elect and godly, but he will pronounce ſentence of damnation againſt vnbeleeuers and reprobates.</p>
+<p><em>Q.</em> What ſtate ſhall the godly be in after the day of iudgement?<br />
+<em>A.</em> They ſhall <sup class="footnote-reference"><a href="#l">11</a></sup> continue for euer in the higheſt heauen in the preſence of God, hauing fellowſhip with Chriſt Ieſus, and reigning with him for euer.</p>
+<p><em>Q.</em> What ſtate ſhall the wicked be in after the day of iudgement?<br />
+<em>A.</em> In eternall perdition and deſtruction in hell fire.</p>
+<p><em>Q.</em> What is that?<br />
+<em>A.</em> It <sup class="footnote-reference"><a href="#m">12</a></sup> ſtands in three things eſpecially: Firſt, a perpetuall ſeparation from Gods comfortable preſence. Secondly, fellowſhip with the diuell and his angels. Thirdly, an horrible pang and torment both of body and ſoule, ariſing of the feeling of the whole wrath of God, powred forth on the wicked for euer world without end; and if the paine of one tooth for one day be ſo great, endleſſe ſhall be the paine of the whole man, body and ſoule for euer.</p>
+<h1 id="finis"><a class="header" href="#finis">FINIS.</a></h1>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Luke 16. 22, 23.</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>Luke 23. 42. Act. 7. 60. 1 Theſ. 4. 3. Heb. 2. 14 1 Cor. 15. 51.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>2 Pet. 3. 11, 12.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>1 Theſſ 4. 16, 17.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>Math. 25. 31.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>Iob. 19. 25.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>Math. 25. 32, 33.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>Reu. 20. 21. Dan. 7. 20.</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>Ioh. 3. 18. and 5. 24.</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>Math. 25. 34, 41.</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>Math. 25. 34. Apoc. 21. 2, 3, 4, 5.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>2 Theſſ. 1. 9. Eſa. 66. 2, 4. Apoc. 21. 8.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </body>
+</html>

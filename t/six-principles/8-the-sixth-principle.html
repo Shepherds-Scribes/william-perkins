@@ -1,0 +1,239 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js rust">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The ſixth Principle. - Six Principles (Transcribed)</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="themes/themes.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "coal" : "rust";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html"><strong aria-hidden="true">1.</strong> Title</a></li><li class="chapter-item expanded "><a href="2-to-all-ignorant-people.html"><strong aria-hidden="true">2.</strong> TO ALL IGNORANT PEOPLE that deſire to be inſtructed.</a></li><li class="chapter-item expanded affix "><li class="part-title">The foundation of Chriſtian Religion gathered into ſixe Principles</li><li class="chapter-item expanded "><a href="3-the-first-principle.html"><strong aria-hidden="true">3.</strong> The firſt Principle.</a></li><li class="chapter-item expanded "><a href="4-the-second-principle.html"><strong aria-hidden="true">4.</strong> The ſecond Principle.</a></li><li class="chapter-item expanded "><a href="5-the-third-principle.html"><strong aria-hidden="true">5.</strong> The third Principle.</a></li><li class="chapter-item expanded "><a href="6-the-fourth-principle.html"><strong aria-hidden="true">6.</strong> The fourth Principle.</a></li><li class="chapter-item expanded "><a href="7-the-fifth-principle.html"><strong aria-hidden="true">7.</strong> The fifth Principle.</a></li><li class="chapter-item expanded "><a href="8-the-sixth-principle.html" class="active"><strong aria-hidden="true">8.</strong> The ſixth Principle.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Expoſition of the Principles</li><li class="chapter-item expanded "><a href="9-the-first-principle-expounded.html"><strong aria-hidden="true">9.</strong> The firſt Principle expounded.</a></li><li class="chapter-item expanded "><a href="10-the-second-principle-expounded.html"><strong aria-hidden="true">10.</strong> The ſecond Principle expounded.</a></li><li class="chapter-item expanded "><a href="11-the-third-principle-expounded.html"><strong aria-hidden="true">11.</strong> The third Principle expounded.</a></li><li class="chapter-item expanded "><a href="12-the-fourth-principle-expounded.html"><strong aria-hidden="true">12.</strong> The fourth Principle expounded.</a></li><li class="chapter-item expanded "><a href="13-the-fifth-principle-expounded.html"><strong aria-hidden="true">13.</strong> The fifth Principle expounded.</a></li><li class="chapter-item expanded "><a href="14-the-sixth-principle-expounded.html"><strong aria-hidden="true">14.</strong> The ſixth Principle expounded.</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Six Principles (Transcribed)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins/edit/master/.//8-the-sixth-principle.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-ſixth-principle"><a class="header" href="#the-ſixth-principle">The ſixth Principle.</a></h1>
+<p><em>Q.</em> What is the eſtate of all men after death?
+<em>A.</em> All men ſhall riſe againe with their owne bodies, to the laſt iudgement, which beeing ended, the godly ſhall poſſeſſe the kingdome of heauen: but vnbeleeuers and rebrobates ſhall bee in hell, tormented with the diuell and his angels for euer.</p>
+<ol>
+<li>All men ſhall riſe againe with their owne bodies.</li>
+</ol>
+<blockquote>
+<p>Ioh 5. 28. Maruell not at this, for the houre ſhall come, in the which all that are in the graues ſhall heare his voice.<br />
+Verſe. 29. And they ſhall come forth that haue done good, vnto the reſurrection of life: but they that haue done euill, vnto the reſurrection of condemnation.</p>
+</blockquote>
+<ol start="2">
+<li>To the laſt iudgement.</li>
+</ol>
+<blockquote>
+<p>Eccl. 12. 14. For God will bring euery worke vnto iudgement, with euery ſecret thing, whether it bee good or euill.<br />
+Mat. 12. 36. But I ſay vnto you, that of euery idle word that men ſhall ſpeake, they ſhall giue an account thereof, at the day of iudgement.</p>
+</blockquote>
+<ol start="3">
+<li>Which beeing ended the godly.</li>
+</ol>
+<blockquote>
+<p>2 Pet. 2. 7. And deliuered iuſt Lot, vexed with the vncleane conuerſation of the wicked.<br />
+Ezech. 9. 4. And the Lord ſaid vnto him: goe through the middeſt of the Citie, euen through the middeſt of Ieruſalem, &amp; ſet a marke vpon the forehead of them that mourne, and crie for all the abbominations that bee done in the middeſt thereof.</p>
+</blockquote>
+<ol start="4">
+<li>Shall poſſeſſe the kingdome of God.</li>
+</ol>
+<blockquote>
+<p>Mat. 25. 34. Then ſhall the king ſay to them on his right hand, Come yee bleſſed of my Father, inherit yee the kingdome prepared for you from the beginning of the world.</p>
+</blockquote>
+<ol start="5">
+<li>But vnbeleeuers and rebrobates ſhall bee in hell, tormented with the diuell and his angels.</li>
+</ol>
+<blockquote>
+<p>Verſe. 41. Then ſhall hee ſay vnto them on the left hand, Depart from mee yee cursed into euerlaſting fire, which is prepared for the diuell &amp; his angels.</p>
+</blockquote>
+<p>The Scriptures for proofe were onely quoted by the Author, to mooue thee to ſearch them: the words themſelues I haue expreſſed at the earneſt requeſt of many, that thou maieſt more eaſily learne them: if yet thou wilt bee ignorant, thy malice is euident; if thou gaineſt knowledg, giue God the glorie in doing of his will. <em>Thine</em> T.S.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="7-the-fifth-principle.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="9-the-first-principle-expounded.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="7-the-fifth-principle.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="9-the-first-principle-expounded.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

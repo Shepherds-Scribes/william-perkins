@@ -1,0 +1,436 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js rust">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The fourth Principle expounded. - Six Principles (Transcribed)</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="themes/themes.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "coal" : "rust";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html"><strong aria-hidden="true">1.</strong> Title</a></li><li class="chapter-item expanded "><a href="2-to-all-ignorant-people.html"><strong aria-hidden="true">2.</strong> TO ALL IGNORANT PEOPLE that deſire to be inſtructed.</a></li><li class="chapter-item expanded affix "><li class="part-title">The foundation of Chriſtian Religion gathered into ſixe Principles</li><li class="chapter-item expanded "><a href="3-the-first-principle.html"><strong aria-hidden="true">3.</strong> The firſt Principle.</a></li><li class="chapter-item expanded "><a href="4-the-second-principle.html"><strong aria-hidden="true">4.</strong> The ſecond Principle.</a></li><li class="chapter-item expanded "><a href="5-the-third-principle.html"><strong aria-hidden="true">5.</strong> The third Principle.</a></li><li class="chapter-item expanded "><a href="6-the-fourth-principle.html"><strong aria-hidden="true">6.</strong> The fourth Principle.</a></li><li class="chapter-item expanded "><a href="7-the-fifth-principle.html"><strong aria-hidden="true">7.</strong> The fifth Principle.</a></li><li class="chapter-item expanded "><a href="8-the-sixth-principle.html"><strong aria-hidden="true">8.</strong> The ſixth Principle.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Expoſition of the Principles</li><li class="chapter-item expanded "><a href="9-the-first-principle-expounded.html"><strong aria-hidden="true">9.</strong> The firſt Principle expounded.</a></li><li class="chapter-item expanded "><a href="10-the-second-principle-expounded.html"><strong aria-hidden="true">10.</strong> The ſecond Principle expounded.</a></li><li class="chapter-item expanded "><a href="11-the-third-principle-expounded.html"><strong aria-hidden="true">11.</strong> The third Principle expounded.</a></li><li class="chapter-item expanded "><a href="12-the-fourth-principle-expounded.html" class="active"><strong aria-hidden="true">12.</strong> The fourth Principle expounded.</a></li><li class="chapter-item expanded "><a href="13-the-fifth-principle-expounded.html"><strong aria-hidden="true">13.</strong> The fifth Principle expounded.</a></li><li class="chapter-item expanded "><a href="14-the-sixth-principle-expounded.html"><strong aria-hidden="true">14.</strong> The ſixth Principle expounded.</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Six Principles (Transcribed)</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins/edit/master/.//12-the-fourth-principle-expounded.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-fourth-principle-expounded"><a class="header" href="#the-fourth-principle-expounded">The fourth principle expounded.</a></h1>
+<p><em>Q.</em> What is faith?<br />
+<em>A.</em> Faith is a <sup class="footnote-reference"><a href="#a">1</a></sup> wonderfull grace of God, by which a man doth apprehend and applie Chriſt, and all his benefits vnto himſelfe.</p>
+<p><em>Q.</em> How doth a man apply Chriſt vnto himſelfe, ſeeing wee are on earth, and Chriſt in heauen?<br />
+<em>A.</em> This <sup class="footnote-reference"><a href="#b">2</a></sup> applying is done by <em>aſſurance,</em> when a man is verily perſwaded by the holy ſpirit, of Gods fauour towards himſelfe <em>particularly,</em> &amp; of the forgiuenes of his <em>owne</em> ſinnes.</p>
+<p><em>Q.</em> How doth God bring men truly to beleeue in Chriſt?<br />
+<em>A.</em> Firſt, hee prepareth their hearts, that they might be capable of faith: and then hee worketh faith in them.</p>
+<p><em>Q.</em> How doth God prepare mens hearts?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#c">3</a></sup> By bruiſing them, as if one would breake an hard ſtone to powder: and this is done by <em>humbling</em> them.</p>
+<p><em>Q.</em> How doth God humble a man?<br />
+<em>A.</em> By working in him a ſight of his ſins, and a ſorrow for them.</p>
+<p><em>Q.</em> How is this ſight of ſinne wrought?<br />
+<em>A.</em> By the <sup class="footnote-reference"><a href="#d">4</a></sup> morall law: the ſumme whereof is the ten commandements.</p>
+<p><em>Q.</em> What ſinnes may I finde in my ſelfe by them?<br />
+<em>A.</em> Tenne.</p>
+<p><em>Q.</em> What is the firſt?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#e">5</a></sup> To make ſomething thy God, which is not God, by fearing it, louing it, and ſo truſting in it more then in the true God.</p>
+<p><em>Q.</em> What is the ſecond?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#f">6</a></sup> To worſhip falſe gods, or the true God in a falſe manner.</p>
+<p><em>Q.</em> What is the third?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#g">7</a></sup> To diſhonour God in abuſing his titles, words, and workes.</p>
+<p><em>Q.</em> What is the fourth?<br />
+<em>A.</em> To <sup class="footnote-reference"><a href="#h">8</a></sup> breake the Sabbath, in doing the works of their calling, &amp; of the fleſh; and in leauing vndone the workes of the ſpirit.</p>
+<p><em>Q.</em> What be the ſixe latter?<br />
+<em>A.</em> To doe any thing that may hinder thy neighbours <sup class="footnote-reference"><a href="#i">9</a></sup> dignity, <sup class="footnote-reference"><a href="#k">10</a></sup> life, <sup class="footnote-reference"><a href="#l">11</a></sup> chaſtity, <sup class="footnote-reference"><a href="#m">12</a></sup> wealth, <sup class="footnote-reference"><a href="#n">13</a></sup> good name, <sup class="footnote-reference"><a href="#o">14</a></sup> though it be but in the ſecret thoughts and motions of the heart vnto which thou giueſt no liking nor conſent.</p>
+<p><em>Q.</em> What is ſorrow for ſinne?<br />
+<em>A.</em> It is <sup class="footnote-reference"><a href="#p">15</a></sup> when a mans conſcience is touched with a liuely feeling of Gods diſpleaſure for any of theſe ſinnes: <sup class="footnote-reference"><a href="#q">16</a></sup> in ſuch wiſe, that hee vtterly deſpaires of ſaluation, in regard of an ything in himſelfe, acknowledging that he hath deſerued ſhame and confuſion eternally.</p>
+<p><em>Q.</em> How doth God worke this ſorrow?<br />
+<em>A.</em> By the terrible curſe of the law.</p>
+<p><em>Q.</em> What is that?<br />
+<em>A.</em> Hee <sup class="footnote-reference"><a href="#r">17</a></sup> which breakes but one of the commandements of God, though it be but once in all his lifetime, and that onely in one thought, is ſubiect to, and in danger of eternall damnation thereby.</p>
+<p><em>Q.</em> When mens hearts are thus prepared, how doth God ingraft faith in them?<br />
+<em>A.</em> By working certaine inward motions in the heart, which are the ſeedes of faith, out of which it breedeth.</p>
+<p><em>Q.</em> What is the firſt of them?<br />
+<em>A.</em> When a man humbled vnder the burden of his ſinnes, doth <sup class="footnote-reference"><a href="#ſ">18</a></sup> acknowledge and feele that he ſtands in great neede of Chriſt.</p>
+<p><em>Q.</em> What is the ſecond?<br />
+<em>A.</em> An <sup class="footnote-reference"><a href="#t">19</a></sup> hungring deſire &amp; a longing to be made partaker of Chriſt &amp; all his merits.</p>
+<p><em>Q.</em> What is the third?<br />
+<em>A.</em> A <sup class="footnote-reference"><a href="#u">20</a></sup> flying to the throne of grace, from the ſentence of the law pricking the conſcience.</p>
+<p><em>Q.</em> How is it done?<br />
+<em>A.</em> By <sup class="footnote-reference"><a href="#x">21</a></sup> praying, with ſending vp loud cries for Gods fauour in Chriſt, in the pardoning of ſinne; and with feruent perſeuerance herein, till the deſire of the heart be granted.</p>
+<p><em>Q.</em> What followeth after this?<br />
+<em>A.</em> God then <sup class="footnote-reference"><a href="#y">22</a></sup> according to his mercifull promiſe, lets the poore ſinner feele the aſſurrance of his loue wherewith he loueth him in Chriſt, which aſſurance is a liuely faith.</p>
+<p><em>Q.</em> Are there diuers degrees and meaſures of true faith?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#z">23</a></sup> Yea.</p>
+<p><em>Q.</em> What is the leaſt meaſure of true faith that any man can haue?<br />
+<em>A.</em> When a man of an humble ſpirit, by reaſon of the <sup class="footnote-reference"><a href="#aa">24</a></sup> littleneſſe of his faith, doth not yet <em>feele</em> the aſſurance of the forgiueneſſe of his ſinnes, and yet he is perſwaded that they are pardonable; and therefore deſireth that they ſhould be pardoned, and with his heart praieth to God to pardon them.</p>
+<p><em>Q.</em> How doe you know that ſuch a man hath faith?<br />
+<em>A.</em> Theſe <sup class="footnote-reference"><a href="#ab">25</a></sup> <em>deſires</em> and <em>praiers</em> are teſtimonies of the Spirit, whoſe propertie it is to ſtirre vp a <em>longing</em> and a <em>luſting</em> after heauenly things with <em>ſighes</em> and <em>groanes</em> for Gods fauour and mercie in Chriſt. <sup class="footnote-reference"><a href="#ac">26</a></sup> Now where the Spirit of Chriſt is, there is Chriſt dwelling; and where Chriſt dwelleth, there is true faith, how weake ſoeuer it be.</p>
+<p><em>Q.</em> What is the greateſt meaſure of faith?<br />
+<em>A.</em> When a man daily increaſing in faith comes to be <sup class="footnote-reference"><a href="#ad">27</a></sup> <em>fully perſwaded</em> of Gods loue in Chriſt towards himſelfe <em>particularly</em>, and of the foriueneſſe of his owne ſinnes.</p>
+<p><em>Q.</em> When ſhall a Chriſtian heart come to this full aſſurance?<br />
+<em>A.</em> Not <sup class="footnote-reference"><a href="#ae">28</a></sup> at the firſt, but in ſome continuance of time, when he hath beene well practiſed <em>in repentance;</em> and hath had diuers <em>experiences</em> of Gods loue vnto him in Chriſt: then after them will appeare in his heart the fulnes of perſwaſion: which is the <em>ripeneſſe</em> <sup class="footnote-reference"><a href="#af">29</a></sup> and ſtrength of faith.</p>
+<p><em>Q.</em> What benefits doth a man receiue by faith in Chriſt?<br />
+<em>A.</em> Hereby <sup class="footnote-reference"><a href="#ag">30</a></sup> hee is <em>iuſtified</em> before God, and ſanctified.</p>
+<p><em>Q.</em> What is this, to be <em>iuſtified</em> before God?<br />
+<em>A.</em> It <sup class="footnote-reference"><a href="#ah">31</a></sup> comprehendeth two things: the firſt, to be cleared from the <em>guiltineſſe and puniſhment</em> of ſinne; the ſecond, to be accepted as perfectly righteous before God.</p>
+<p><em>Q.</em> How is a man cleared from the guiltineſſe and puniſhment of his ſinnes?<br />
+<em>A.</em> By Chriſts <sup class="footnote-reference"><a href="#ai">32</a></sup> ſufferings and death vpon the croſſe.</p>
+<p><em>Q.</em> How is he accepted for righteous before God?<br />
+<em>A.</em> By the <sup class="footnote-reference"><a href="#ak">33</a></sup> righteouſneſſe of Chriſt <em>imputed</em> to him.</p>
+<p><em>Q.</em> What profit cóes by being thus iuſtified?<br />
+<em>A.</em> Hereby <sup class="footnote-reference"><a href="#al">34</a></sup> and by no other meanes in the world, the beleeuer ſhall bee <em>accepted</em> before Gods iudgement ſeate, as <em>worthy</em> of eternall life by the <em>merits</em> of the ſame righteouſneſſe of Chriſt.</p>
+<p><em>Q.</em> Doe not good workes then make vs <em>worthy</em> of eternall life?<br />
+<em>A.</em> No: For God, who is perfect righteouſnes it ſelfe, will find in the beſt workes we doe, more matter of damnation then of ſaluation: and therefore <sup class="footnote-reference"><a href="#am">35</a></sup> we muſt rather condemne our ſelues for our good workes, then looke to be iuſtified before God thereby.</p>
+<p><em>Q.</em> How may a man know that he is iuſtified before God?<br />
+<em>A.</em> Hee neede not aſcend into heauen to ſearch the ſecret councell of God: <sup class="footnote-reference"><a href="#an">36</a></sup> but rather deſcend into his owne heart to ſearch whether <em>he be ſanctified</em> or not.</p>
+<p><em>Q.</em> What is it to be ſanctified?<br />
+<em>A.</em> It comprehendeth two things: the firſt, to be purged from the corruption of his own nature, the ſecond, to be indued with inward righteouſneſſe.</p>
+<p><em>Q.</em> How is the <em>corruption</em> of ſinne purged?<br />
+<em>A.</em> By the <sup class="footnote-reference"><a href="#ao">37</a></sup> <em>merits</em> and <em>power</em> of Chriſts death, which being by faith applyed is as a <em>coraſiue</em> to abate, conſume, and weaken the power of all ſinne.</p>
+<p><em>Q.</em> How is a man indued with inherent righteouſneſſe?<br />
+<em>A.</em> Through the <sup class="footnote-reference"><a href="#ap">38</a></sup> vertue of Chriſts reſurrection: which being applyed by faith, is as a <em>reſtoratiue</em> to reuiue a man that is dead in ſinne, to newneſſe of life.</p>
+<p><em>Q.</em> In what part of man is ſanctification wrought?<br />
+<em>A.</em> In <sup class="footnote-reference"><a href="#aq">39</a></sup> euery part of body and ſoule.</p>
+<p><em>Q.</em> In what time is it wrought?<br />
+<em>A.</em> It is <sup class="footnote-reference"><a href="#ar">40</a></sup> begun in this life, in which the faithfull receiue onely the <em>firſt fruits</em> of the Spirit, and it is not finiſhed before the end of this life.</p>
+<p><em>Q.</em> What graces of the Spirit doe vſually ſhew themſelues in the heart of a man ſanctified?<br />
+<em>A.</em> The <em>hatred</em> <sup class="footnote-reference"><a href="#as">41</a></sup> of sinne, and the loue of righteouſneſſe.</p>
+<p><em>Q.</em> What proceedes of them?<br />
+<em>A.</em> <em>Repentance,</em> which is <sup class="footnote-reference"><a href="#at">42</a></sup> a ſetled purpoſe in the heart, with a careful endeauour to leaue all his ſinnes, and to liue a Chriſtian life, according to all Gods commandements.</p>
+<p><em>Q.</em> What goeth with repentance?<br />
+<em>A.</em> A continuall fighting and ſtrugling againſt the aſſaults of a mans owne fleſh, againſt the motions of the diuell, and the inticements of the world.</p>
+<p><em>Q.</em> What followeth after a man hath gotten the victory in any temptation or affliction?<br />
+<em>A.</em> <sup class="footnote-reference"><a href="#au">43</a></sup> Experience of Gods loue in Chriſt, and ſo increaſe of peace of conſcience, and ioy in the holy Ghoſt.</p>
+<p><em>Q.</em> What followeth if in any temptation he be ouercome and through infirmity fall?<br />
+<em>A.</em> After a while <sup class="footnote-reference"><a href="#ax">44</a></sup> there will ariſe a <em>godly sorrow,</em> which is, when a man is grieued for no other cauſe in the world, but for this onely, that by his ſin he hath diſpleaſed God, who hath been vnto him a moſt mercifull and louing Father.</p>
+<p><em>Q.</em> What ſigne is there of this ſorrow?<br />
+<em>A.</em> The true ſigne <sup class="footnote-reference"><a href="#ay">45</a></sup> of it is this, when a man can bee grieued for the very <em>diſobedience of God</em> in his euill word or deede, though he ſhould neuer be puniſhed, and though there were neither heauen nor hell.</p>
+<p><em>Q.</em> What followes after this ſorrow?<br />
+<em>A.</em> Repentance <sup class="footnote-reference"><a href="#az">46</a></sup> <em>renewed afreſh.</em></p>
+<p><em>Q.</em> By what ſignes will this repentance appeare?<br />
+<em>A.</em> By <sup class="footnote-reference"><a href="#ba">47</a></sup> ſeuen. 1. A care to leaue the ſinne into which hee is fallen. 2. An vtter condemning of himſelfe for it, with a crauing of pardon. 3. A great anger againſt himſelfe for his careleſneſſe. 4. A feare leſt he ſhould fall into the ſame ſinne againe. 5. A deſire euer after to pleaſe God. 6. A zeale of the ſame. 7. Reuenge vpon himſelfe for his former offence.</p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Ioh. 2. 2. (?) 1 Ioh. 1. 12. and 6. 35 [transcriber's note: likely intended John rather than 1 John] Gal 3. 7. Col. 2. 12.</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>2 Cor. 1. 21, 22. Rom. 8. 16.</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Eze. 11. 19. Hoſ. 6. 1, 2.</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>Ro. 3. 20. &amp; 7. 7, 8.</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>Com. I.</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>II.</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>III.</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>IIII.</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>V.</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>VI.</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>VII.</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>VIIII.</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>X.</p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>X.</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>Act. 2. 37, 28.</p>
+</div>
+<div class="footnote-definition" id="q"><sup class="footnote-definition-label">16</sup>
+<p>1 Tim. 1. 15. Luk. 15. 21. Ezra. 9. 6, 7.</p>
+</div>
+<div class="footnote-definition" id="r"><sup class="footnote-definition-label">17</sup>
+<p>Gal. 3. 10.</p>
+</div>
+<div class="footnote-definition" id="s"><sup class="footnote-definition-label">48</sup>
+<p>Eſa. 55. 1. Ioh. 7. 37. Luk. 1. 53.</p>
+</div>
+<div class="footnote-definition" id="t"><sup class="footnote-definition-label">19</sup>
+<p>Mat. 5. 4.</p>
+</div>
+<div class="footnote-definition" id="u"><sup class="footnote-definition-label">20</sup>
+<p>Heb. 4. 6.</p>
+</div>
+<div class="footnote-definition" id="x"><sup class="footnote-definition-label">21</sup>
+<p>Luk. 15. 18, 19. Math. 15. 22, 23. Act. 8. 23.</p>
+</div>
+<div class="footnote-definition" id="y"><sup class="footnote-definition-label">22</sup>
+<p>Mat. 7. 7. Eſa. 65. 24. Iob. 33. 26.</p>
+</div>
+<div class="footnote-definition" id="z"><sup class="footnote-definition-label">23</sup>
+<p>Rom. 1. 15. Luke. 17. 5.</p>
+</div>
+<div class="footnote-definition" id="aa"><sup class="footnote-definition-label">24</sup>
+<p>Eſa. 42. 3. Mat. 17. 20. Luke. 17. 5.</p>
+</div>
+<div class="footnote-definition" id="ab"><sup class="footnote-definition-label">25</sup>
+<p>Rom. 8. 23, 26. Gal. 4. 6. Mat. 5. 5. </p>
+</div>
+<div class="footnote-definition" id="ac"><sup class="footnote-definition-label">26</sup>
+<p>Rom. 8. 9. Eph. 3. 17.</p>
+</div>
+<div class="footnote-definition" id="ad"><sup class="footnote-definition-label">27</sup>
+<p>Rom. 8. 38, 39. Can. 8 6 7.</p>
+</div>
+<div class="footnote-definition" id="ae"><sup class="footnote-definition-label">28</sup>
+<p>2 Tim. 4. 7, 8. Pſal. 23. 6. with 1, 2, 3, 4. verſ.</p>
+</div>
+<div class="footnote-definition" id="af"><sup class="footnote-definition-label">29</sup>
+<p>Rom. 4. 20, 21.</p>
+</div>
+<div class="footnote-definition" id="ag"><sup class="footnote-definition-label">30</sup>
+<p>1 Cor. 1. 30. Act. 5. 9. [transcriber's note: likely intended Act 15. 9. ] Rom. 4. 3.</p>
+</div>
+<div class="footnote-definition" id="ah"><sup class="footnote-definition-label">31</sup>
+<p>Rom. 8. 33</p>
+</div>
+<div class="footnote-definition" id="ai"><sup class="footnote-definition-label">32</sup>
+<p>Col. 1. 22. 1 Pet. 2. 24. 1 Ioh. 1. 7.</p>
+</div>
+<div class="footnote-definition" id="ak"><sup class="footnote-definition-label">33</sup>
+<p>2 Cor. 5. 31. [transcriber's note: likely intended 2 Cor. 5. 21.]</p>
+</div>
+<div class="footnote-definition" id="al"><sup class="footnote-definition-label">34</sup>
+<p>Rom. 4. 17. Apoc. 22. 17. (?)</p>
+</div>
+<div class="footnote-definition" id="am"><sup class="footnote-definition-label">35</sup>
+<p>Pſ. 143. 2. Eſa. 64. 6. Iob. 9. 3.</p>
+</div>
+<div class="footnote-definition" id="an"><sup class="footnote-definition-label">36</sup>
+<p>Rom. 8. 10. (?) 2 Ioh. 3. 9. [transcriber's note: likely intended 1 Ioh. 3. 9.]</p>
+</div>
+<div class="footnote-definition" id="ao"><sup class="footnote-definition-label">37</sup>
+<p>Rom. 6. 4. 1 Pet. 4. 1, 2.</p>
+</div>
+<div class="footnote-definition" id="ap"><sup class="footnote-definition-label">38</sup>
+<p>Rom. 6. 5, 6. Phil 3. 10.</p>
+</div>
+<div class="footnote-definition" id="aq"><sup class="footnote-definition-label">39</sup>
+<p>1 Theſſ 5:23</p>
+</div>
+<div class="footnote-definition" id="ar"><sup class="footnote-definition-label">40</sup>
+<p>Rom. 8. 23. 2 Cor. 5. 2, 3.</p>
+</div>
+<div class="footnote-definition" id="as"><sup class="footnote-definition-label">41</sup>
+<p>Pſ. 119. 113. &amp; 40. 9. &amp; 101. 3. Rom. 7. 22.</p>
+</div>
+<div class="footnote-definition" id="at"><sup class="footnote-definition-label">42</sup>
+<p>Pſ. 119. 57, 113.</p>
+</div>
+<div class="footnote-definition" id="au"><sup class="footnote-definition-label">43</sup>
+<p>Rom. 5. 3, 4. 1 Cor. 1. 5.</p>
+</div>
+<div class="footnote-definition" id="ax"><sup class="footnote-definition-label">44</sup>
+<p>2 Cor. 7. 8, 9. Mat. 26. 75.</p>
+</div>
+<div class="footnote-definition" id="ay"><sup class="footnote-definition-label">45</sup>
+<p>1 Pet. 2. 19.</p>
+</div>
+<div class="footnote-definition" id="az"><sup class="footnote-definition-label">46</sup>
+<p>2 Cor. 7. 11.</p>
+</div>
+<div class="footnote-definition" id="ba"><sup class="footnote-definition-label">47</sup>
+<p>2 Cor. 7. 11.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="11-the-third-principle-expounded.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="13-the-fifth-principle-expounded.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="11-the-third-principle-expounded.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="13-the-fifth-principle-expounded.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
