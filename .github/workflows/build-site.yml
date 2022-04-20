@@ -46,7 +46,7 @@ jobs:
     - name: Dependencies
       run: cargo install mdbook
     - name: Build books
-      run: build.sh
+      run: ./build.sh
       working-directory: ./books/
     - name: Publish books
       uses: actions/upload-artifact@v3
