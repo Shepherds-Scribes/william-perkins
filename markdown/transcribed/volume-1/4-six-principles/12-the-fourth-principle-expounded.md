@@ -138,4 +138,50 @@
 *Q.* By what ſignes will this repentance appeare?
 *A.* By [^ba] ſeuen. 1. A care to leaue the ſinne into which hee is fallen. 2. An vtter condemning of himſelfe for it, with a crauing of pardon. 3. A great anger againſt himſelfe for his careleſneſſe. 4. A feare leſt he ſhould fall into the ſame ſinne againe. 5. A deſire euer after to pleaſe God. 6. A zeale of the ſame. 7. Reuenge vpon himſelfe for his former offence.
 
-[^a]: Ioh. 2. 2. (?) 1 Ioh. 1. 12. and 6. 35 [transcriber's note: likely intended to be John rather than 1 John] Gal 3. 7. Col. 2. 12.
+[^a]: Ioh. 2. 2. (?) 1 Ioh. 1. 12. and 6. 35 [transcriber's note: likely intended John rather than 1 John] Gal 3. 7. Col. 2. 12.
+[^b]: 2. Cor. 1. 21, 22. Rom. 8. 16.
+[^c]: Eze. 11. 19. Hoſ. 6. 1, 2.
+[^d]: Ro. 3. 20. & 7. 7, 8.
+[^e]: Com. I.
+[^f]: II.
+[^g]: III.
+[^h]: IIII.
+[^i]: V.
+[^k]: VI.
+[^l]: VII.
+[^m]: VIIII.
+[^n]: X.
+[^o]: X.
+[^p]: Act. 2. 37, 28.
+[^q]: 1 Tim. 1. 15. Luk. 15. 21. Ezra. 9. 6, 7.
+[^r]: Gal. 3. 10.
+[^s]: Eſa. 55. 1. Ioh. 7. 37. Luk. 1. 53.
+[^t]: Mat. 5. 4.
+[^u]: Heb. 4. 6.
+[^x]: Luk. 15. 18, 19. Math. 15. 22, 23. Act. 8. 23.
+[^y]: Mat. 7. 7. Eſa. 65. 24. Iob. 33. 26.
+[^z]: Rom. 1. 15. Luke. 17. 5.
+[^aa]: Eſa. 42. 3. Mat. 17. 20. Luke. 17. 5.
+[^ab]: Rom. 8. 23, 26. Gal. 4. 6. Mat. 5. 5. 
+[^ac]: Rom. 8. 9. Eph. 3. 17.
+[^ad]: Rom. 8. 38, 39. Can. 8 6 7.
+[^ae]: 2 Tim. 4. 7, 8. Pſal. 23. 6. with 1, 2, 3, 4. verſ.
+[^af]: Rom. 4. 20, 21.
+[^ag]: 1 Cor. 1. 30. Act. 5. 9. [transcriber's note: likely intended Act 15. 9. ] Rom. 4. 3.
+[^ah]: Rom. 8. 33
+[^ai]: Col. 1. 22. 1 Pet. 2. 24. 1 Ioh. 1. 7.
+[^ak]: 2 Cor. 5. 31. [transcriber's note: likely intended 2 Cor. 5. 21.]
+[^al]: Rom. 4. 17. Apoc. 22. 17. (?)
+[^am]: Pſ. 143. 2. Eſa. 64. 6. Iob. 9. 3.
+[^an]: Rom. 8. 10. (?) 2 Ioh. 3. 9. [transcriber's note: likely intended 1 Ioh. 3. 9.]
+[^ao]: Rom. 6. 4. 1 Pet. 4. 1, 2.
+[^ap]: Rom. 6. 5, 6. Phil 3. 10.
+[^aq]: 1 Theſſ 5:23
+[^ar]: Rom. 8. 23. 2 Cor. 5. 2, 3.
+[^as]: Pſ. 119. 113. & 40. 9. & 101. 3. Rom. 7. 22.
+[^at]: Pſ. 119. 57, 113.
+[^au]: Rom. 5. 3, 4. 1 Cor. 1. 5.
+[^ax]: 2 Cor. 7. 8, 9. Mat. 26. 75.
+[^ay]: 1 Pet. 2. 19.
+[^az]: 2 Cor. 7. 11.
+[^ba]: 2 Cor. 7. 11.
