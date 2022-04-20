@@ -42,9 +42,9 @@ jobs:
       with:
         # cargo cache files are stored in `~/.cargo` on Linux/macOS
         path: ~/.cargo
-        key: ${{ runner.os }}-build-${{ env.cache-name }}
+        key: ${{ env.cache-name }}-mdbook-0.4.18
     - name: Dependencies
-      run: cargo install mdbook
+      run: cargo install mdbook --version 0.4.18
     - name: Build books
       run: ./build.sh
       working-directory: ./books/
