@@ -1,233 +1,233 @@
-# The fourth principle expounded.
+# The Fourth Principle Expounded.
 
 *Q.* What is faith?  
-*A.* Faith is a [^a] wonderfull grace of God, by which a man doth apprehend and applie Chriſt, and all his benefits vnto himſelfe.
+*A.* Faith is a [^a] wonderful grace of God, by which a man doth apprehend and apply Christ, and all his benefits unto himself.
 
-*Q.* How doth a man apply Chriſt vnto himſelfe, ſeeing wee are on earth, and Chriſt in heauen?  
-*A.* This [^b] applying is done by *aſſurance,* when a man is verily perſwaded by the holy ſpirit, of Gods fauour towards himſelfe *particularly,* & of the forgiuenes of his *owne* ſinnes.
+*Q.* How doth a man apply Christ unto himself, seeing we are on earth, and Christ in heaven?  
+*A.* This [^b] applying is done by assurance, when a man is verily persuaded by the Holy Spirit, of God's favour towards himself particularly and of the forgiveness of his own sins.
 
-*Q.* How doth God bring men truly to beleeue in Chriſt?  
-*A.* Firſt, hee prepareth their hearts, that they might be capable of faith: and then hee worketh faith in them.
+*Q.* How doth God bring men truly to believe in Christ?  
+*A.* First, he prepareth their hearts, that they might be capable of faith: and then he worketh faith in them.
 
 *Q.* How doth God prepare mens hearts?  
-*A.* [^c] By bruiſing them, as if one would breake an hard ſtone to powder: and this is done by *humbling* them.
+*A.* [^c] By bruising them, as if one would break an hard stone to powder: and this is done by humbling them.
 
 *Q.* How doth God humble a man?  
-*A.* By working in him a ſight of his ſins, and a ſorrow for them.
+*A.* By working in him a sight of his sins, and a sorrow for them.
 
-*Q.* How is this ſight of ſinne wrought?  
-*A.* By the [^d] morall law: the ſumme whereof is the ten commandements.
+*Q.* How is this sight of sin wrought?  
+*A.* By the [^d] moral law: the sum whereof is the Ten Commandments.
 
-*Q.* What ſinnes may I finde in my ſelfe by them?  
-*A.* Tenne.
+*Q.* What sins may I find in my self by them?  
+*A.* Ten.
 
-*Q.* What is the firſt?  
-*A.* [^e] To make ſomething thy God, which is not God, by fearing it, louing it, and ſo truſting in it more then in the true God.
+*Q.* What is the first?  
+*A.* [^e] To make something thy God, which is not God: by fearing it, loving it, and so trusting in it more then in the true God.
 
-*Q.* What is the ſecond?  
-*A.* [^f] To worſhip falſe gods, or the true God in a falſe manner.
+*Q.* What is the second?  
+*A.* [^f] To worship false gods, or the true God in a false manner.
 
 *Q.* What is the third?  
-*A.* [^g] To diſhonour God in abuſing his titles, words, and workes.
+*A.* [^g] To dishonour God in abusing his titles, words, and works.
 
 *Q.* What is the fourth?  
-*A.* To [^h] breake the Sabbath, in doing the works of their calling, & of the fleſh; and in leauing vndone the workes of the ſpirit.
+*A.* To [^h] break the Sabbath, in doing the works of their calling and of the flesh; and in leaving undone the works of the spirit.
 
-*Q.* What be the ſixe latter?  
-*A.* To doe any thing that may hinder thy neighbours [^i] dignity, [^k] life, [^l] chaſtity, [^m] wealth, [^n] good name, [^o] though it be but in the ſecret thoughts and motions of the heart vnto which thou giueſt no liking nor conſent.
+*Q.* What be the six latter?  
+*A.* To do any thing that may hinder thy neighbour's [^i] dignity, [^k] life, [^l] chastity, [^m] wealth, [^n] good name, [^o] though it be but in the secret thoughts and motions of the heart unto which thou givest no liking nor consent.
 
-*Q.* What is ſorrow for ſinne?  
-*A.* It is [^p] when a mans conſcience is touched with a liuely feeling of Gods diſpleaſure for any of theſe ſinnes: [^q] in ſuch wiſe, that hee vtterly deſpaires of ſaluation, in regard of an ything in himſelfe, acknowledging that he hath deſerued ſhame and confuſion eternally.
+*Q.* What is sorrow for sin?  
+*A.* It is [^p] when a man's conscience is touched with a lively feeling of God's displeasure for any of these sins: [^q] in such wise, that he utterly despairs of salvation, in regard of anything in himself, acknowledging that he hath deserved shame and confusion eternally.
 
-*Q.* How doth God worke this ſorrow?  
-*A.* By the terrible curſe of the law.
+*Q.* How doth God work this sorrow?  
+*A.* By the terrible curse of the law.
 
 *Q.* What is that?  
-*A.* Hee [^r] which breakes but one of the commandements of God, though it be but once in all his lifetime, and that onely in one thought, is ſubiect to, and in danger of eternall damnation thereby.
+*A.* He [^r] which breaks but one of the commandments of God, though it be but once in all his lifetime, and that only in one thought, is subject to and in danger of eternal damnation thereby.
 
-*Q.* When mens hearts are thus prepared, how doth God ingraft faith in them?  
-*A.* By working certaine inward motions in the heart, which are the ſeedes of faith, out of which it breedeth.
+*Q.* When men's hearts are thus prepared, how doth God ingraft faith in them?  
+*A.* By working certain inward motions in the heart, which are the seeds of faith, out of which it breedeth.
 
-*Q.* What is the firſt of them?  
-*A.* When a man humbled vnder the burden of his ſinnes, doth [^ſ] acknowledge and feele that he ſtands in great neede of Chriſt.
+*Q.* What is the first of them?  
+*A.* When a man humbled under the burden of his sins doth [^s] acknowledge and feel that he stands in great need of Christ.
 
-*Q.* What is the ſecond?  
-*A.* An [^t] hungring deſire & a longing to be made partaker of Chriſt & all his merits.
+*Q.* What is the second?  
+*A.* An [^t] hungering desire and a longing to be made partaker of Christ and all his merits.
 
 *Q.* What is the third?  
-*A.* A [^u] flying to the throne of grace, from the ſentence of the law pricking the conſcience.
+*A.* A [^u] flying to the throne of grace from the sentence of the law pricking the conscience.
 
 *Q.* How is it done?  
-*A.* By [^x] praying, with ſending vp loud cries for Gods fauour in Chriſt, in the pardoning of ſinne; and with feruent perſeuerance herein, till the deſire of the heart be granted.
+*A.* By [^x] praying, with sending up loud cries for God's favour in Christ, in the pardoning of sin; and with fervent perseverance herein, till the desire of the heart be granted.
 
 *Q.* What followeth after this?  
-*A.* God then [^y] according to his mercifull promiſe, lets the poore ſinner feele the aſſurrance of his loue wherewith he loueth him in Chriſt, which aſſurance is a liuely faith.
+*A.* God then [^y] according to his merciful promise, lets the poor sinner feel the assurance of his love wherewith he loveth him in Christ, which assurance is a lively faith.
 
-*Q.* Are there diuers degrees and meaſures of true faith?  
+*Q.* Are there divers degrees and measures of true faith?  
 *A.* [^z] Yea.
 
-*Q.* What is the leaſt meaſure of true faith that any man can haue?  
-*A.* When a man of an humble ſpirit, by reaſon of the [^aa] littleneſſe of his faith, doth not yet *feele* the aſſurance of the forgiueneſſe of his ſinnes, and yet he is perſwaded that they are pardonable; and therefore deſireth that they ſhould be pardoned, and with his heart praieth to God to pardon them.
+*Q.* What is the least measure of true faith that any man can have?  
+*A.* When a man of an humble spirit, by reason of the [^aa] littleness of his faith, doth not yet *feel* the assurance of the forgiveness of his sins, and yet he is persuaded that they are pardonable; and therefore desireth that they should be pardoned, and with his heart prayeth to God to pardon them.
 
-*Q.* How doe you know that ſuch a man hath faith?  
-*A.* Theſe [^ab] *deſires* and *praiers* are teſtimonies of the Spirit, whoſe propertie it is to ſtirre vp a *longing* and a *luſting* after heauenly things with *ſighes* and *groanes* for Gods fauour and mercie in Chriſt. [^ac] Now where the Spirit of Chriſt is, there is Chriſt dwelling; and where Chriſt dwelleth, there is true faith, how weake ſoeuer it be.
+*Q.* How do you know that such a man hath faith?  
+*A.* These [^ab] desires and prayers are testimonies of the Spirit, whose property it is to stir up a longing and a lusting after heavenly things, with sighs and groans for God's favour and mercy in Christ. [^ac] Now where the Spirit of Christ is, there is Christ dwelling; and where Christ dwelleth, there is true faith, how weak soever it be.
 
-*Q.* What is the greateſt meaſure of faith?  
-*A.* When a man daily increaſing in faith comes to be [^ad] *fully perſwaded* of Gods loue in Chriſt towards himſelfe *particularly*, and of the foriueneſſe of his owne ſinnes.
+*Q.* What is the greatest measure of faith?  
+*A.* When a man daily increasing in faith comes to be [^ad] fully persuaded of God's love in Christ towards himself *particularly*, and of the forgiveness of his own sins.
 
-*Q.* When ſhall a Chriſtian heart come to this full aſſurance?  
-*A.* Not [^ae] at the firſt, but in ſome continuance of time, when he hath beene well practiſed *in repentance;* and hath had diuers *experiences* of Gods loue vnto him in Chriſt: then after them will appeare in his heart the fulnes of perſwaſion: which is the *ripeneſſe* [^af] and ſtrength of faith.
+*Q.* When shall a Christian heart come to this full assurance?  
+*A.* Not [^ae] at the first, but in some continuance of time, when he hath been well practised in repentance; and hath had divers experiences of God's love unto him in Christ: then after them will appear in his heart the fullness of persuasion: which is the ripeness [^af] and strength of faith.
 
-*Q.* What benefits doth a man receiue by faith in Chriſt?  
-*A.* Hereby [^ag] hee is *iuſtified* before God, and ſanctified.
+*Q.* What benefits doth a man receive by faith in Christ?  
+*A.* Hereby [^ag] he is justified before God, and sanctified.
 
-*Q.* What is this, to be *iuſtified* before God?  
-*A.* It [^ah] comprehendeth two things: the firſt, to be cleared from the *guiltineſſe and puniſhment* of ſinne; the ſecond, to be accepted as perfectly righteous before God.
+*Q.* What is this, to be justified before God?  
+*A.* It [^ah] comprehendeth two things: the first, to be cleared from the guiltiness and punishment of sin; the second, to be accepted as perfectly righteous before God.
 
-*Q.* How is a man cleared from the guiltineſſe and puniſhment of his ſinnes?  
-*A.* By Chriſts [^ai] ſufferings and death vpon the croſſe.
+*Q.* How is a man cleared from the guiltiness and punishment of his sins?  
+*A.* By Christ's [^ai] sufferings and death upon the cross.
 
 *Q.* How is he accepted for righteous before God?  
-*A.* By the [^ak] righteouſneſſe of Chriſt *imputed* to him.
+*A.* By the [^ak] righteousness of Christ imputed to him.
 
-*Q.* What profit cóes by being thus iuſtified?  
-*A.* Hereby [^al] and by no other meanes in the world, the beleeuer ſhall bee *accepted* before Gods iudgement ſeate, as *worthy* of eternall life by the *merits* of the ſame righteouſneſſe of Chriſt.
+*Q.* What profit comes by being thus justified?  
+*A.* Hereby [^al] and by no other means in the world, the believer shall be accepted before God's judgement seat, as worthy of eternal life by the merits of the same righteousness of Christ.
 
-*Q.* Doe not good workes then make vs *worthy* of eternall life?  
-*A.* No: For God, who is perfect righteouſnes it ſelfe, will find in the beſt workes we doe, more matter of damnation then of ſaluation: and therefore [^am] we muſt rather condemne our ſelues for our good workes, then looke to be iuſtified before God thereby.
+*Q.* Do not good works then make us worthy of eternal life?  
+*A.* No: For God, who is perfect righteousness itself, will find in the best works we do more matter of damnation then of salvation: and therefore [^am] we must rather condemn our selves for our good works, than look to be justified before God thereby.
 
-*Q.* How may a man know that he is iuſtified before God?  
-*A.* Hee neede not aſcend into heauen to ſearch the ſecret councell of God: [^an] but rather deſcend into his owne heart to ſearch whether *he be ſanctified* or not.
+*Q.* How may a man know that he is justified before God?  
+*A.* He need not ascend into heaven to search the secret counsel of God: [^an] but rather descend into his own heart to search whether he be sanctified or not.
 
-*Q.* What is it to be ſanctified?  
-*A.* It comprehendeth two things: the firſt, to be purged from the corruption of his own nature, the ſecond, to be indued with inward righteouſneſſe.
+*Q.* What is it to be sanctified?  
+*A.* It comprehendeth two things: the first, to be purged from the corruption of his own nature; the second, to be indued with inward righteousness.
 
-*Q.* How is the *corruption* of ſinne purged?  
-*A.* By the [^ao] *merits* and *power* of Chriſts death, which being by faith applyed is as a *coraſiue* to abate, conſume, and weaken the power of all ſinne.
+*Q.* How is the corruption of sin purged?  
+*A.* By the [^ao] merits and power of Christ's death, which being by faith applied is as a corrosive to abate, consume, and weaken the power of all sin.
 
-*Q.* How is a man indued with inherent righteouſneſſe?  
-*A.* Through the [^ap] vertue of Chriſts reſurrection: which being applyed by faith, is as a *reſtoratiue* to reuiue a man that is dead in ſinne, to newneſſe of life.
+*Q.* How is a man indued with inherent righteousness?  
+*A.* Through the [^ap] virtue of Christ's resurrection: which being applied by faith, is as a restorative to revive a man that is dead in sin, to newness of life.
 
-*Q.* In what part of man is ſanctification wrought?  
-*A.* In [^aq] euery part of body and ſoule.
+*Q.* In what part of man is sanctification wrought?  
+*A.* In [^aq] every part of body and soul.
 
 *Q.* In what time is it wrought?  
-*A.* It is [^ar] begun in this life, in which the faithfull receiue onely the *firſt fruits* of the Spirit, and it is not finiſhed before the end of this life.
+*A.* It is [^ar] begun in this life, in which the faithful receive only the first fruits of the Spirit, and it is not finished before the end of this life.
 
-*Q.* What graces of the Spirit doe vſually ſhew themſelues in the heart of a man ſanctified?  
-*A.* The *hatred* [^as] of sinne, and the loue of righteouſneſſe.
+*Q.* What graces of the Spirit do usually shew themselves in the heart of a man sanctified?  
+*A.* The hatred [^as] of sin, and the love of righteousness.
 
-*Q.* What proceedes of them?  
-*A.* *Repentance,* which is [^at] a ſetled purpoſe in the heart, with a careful endeauour to leaue all his ſinnes, and to liue a Chriſtian life, according to all Gods commandements.
+*Q.* What proceeds of them?  
+*A.* Repentance, which is [^at] a settled purpose in the heart, with a careful endeavour to leave all his sins, and to live a Christian life, according to all God's commandments.
 
 *Q.* What goeth with repentance?  
-*A.* A continuall fighting and ſtrugling againſt the aſſaults of a mans owne fleſh, againſt the motions of the diuell, and the inticements of the world.
+*A.* A continual fighting and struggling against the assaults of a man's own flesh, against the motions of the devil, and the enticements of the world.
 
 *Q.* What followeth after a man hath gotten the victory in any temptation or affliction?  
-*A.* [^au] Experience of Gods loue in Chriſt, and ſo increaſe of peace of conſcience, and ioy in the holy Ghoſt.
+*A.* [^au] Experience of God's love in Christ, and so increase of peace of conscience, and joy in the holy Ghost.
 
-*Q.* What followeth if in any temptation he be ouercome and through infirmity fall?  
-*A.* After a while [^ax] there will ariſe a *godly sorrow,* which is, when a man is grieued for no other cauſe in the world, but for this onely, that by his ſin he hath diſpleaſed God, who hath been vnto him a moſt mercifull and louing Father.
+*Q.* What followeth if in any temptation he be overcome and through infirmity fall?  
+*A.* After a while [^ax] there will arise a godly sorrow, which is when a man is grieved for no other cause in the world, but for this only, that by his sin he hath displeased God, who hath been unto him a most merciful and loving Father.
 
-*Q.* What ſigne is there of this ſorrow?  
-*A.* The true ſigne [^ay] of it is this, when a man can bee grieued for the very *diſobedience of God* in his euill word or deede, though he ſhould neuer be puniſhed, and though there were neither heauen nor hell.
+*Q.* What sign is there of this sorrow?  
+*A.* The true sign [^ay] of it is this, when a man can be grieved for the very disobedience of God in his evil word or deed, though he should never be punished, and though there were neither heaven nor hell.
 
-*Q.* What followes after this ſorrow?  
-*A.* Repentance [^az] *renewed afreſh.*
+*Q.* What follows after this sorrow?  
+*A.* Repentance [^az] renewed afresh.
 
-*Q.* By what ſignes will this repentance appeare?  
-*A.* By [^ba] ſeuen. 1. A care to leaue the ſinne into which hee is fallen. 2. An vtter condemning of himſelfe for it, with a crauing of pardon. 3. A great anger againſt himſelfe for his careleſneſſe. 4. A feare leſt he ſhould fall into the ſame ſinne againe. 5. A deſire euer after to pleaſe God. 6. A zeale of the ſame. 7. Reuenge vpon himſelfe for his former offence.
+*Q.* By what signs will this repentance appear?  
+*A.* By [^ba] seven. 1. A care to leave the sin into which he is fallen. 2. An utter condemning of himself for it, with a craving of pardon. 3. A great anger against himself for his carelessness. 4. A fear lest he should fall into the same sin again. 5. A desire ever after to please God. 6. A zeal of the same. 7. Revenge upon himself for his former offence.
 
-[^a]: Ioh. 2. 2. (?) 1 Ioh. 1. 12. and 6. 35 [transcriber's note: likely intended John rather than 1 John] Gal 3. 7. Col. 2. 12.
+[^a]: John 2:2 (?); John 1:12; John 6:35; Galatians 3:7; Colossians 2:12
 
-[^b]: 2 Cor. 1. 21, 22. Rom. 8. 16.
+[^b]: 2 Corinthians 1:21,22; Romans 8:16
 
-[^c]: Eze. 11. 19. Hoſ. 6. 1, 2.
+[^c]: Ezekiel 11:19; Hosea 6:1,2
 
-[^d]: Ro. 3. 20. & 7. 7, 8.
+[^d]: Romans 3:20; Romans 7:7,8
 
-[^e]: Com. I.
+[^e]: Commandment I
 
-[^f]: II.
+[^f]: Commandment II
 
-[^g]: III.
+[^g]: Commandment III
 
-[^h]: IIII.
+[^h]: Commandment IV
 
-[^i]: V.
+[^i]: Commandment V
 
-[^k]: VI.
+[^k]: Commandment VI
 
-[^l]: VII.
+[^l]: Commandment VII
 
-[^m]: VIIII.
+[^m]: Commandment IX
 
-[^n]: X.
+[^n]: Commandment X
 
-[^o]: X.
+[^o]: Commandment X
 
-[^p]: Act. 2. 37, 28.
+[^p]: Acts 2:37,38.
 
-[^q]: 1 Tim. 1. 15. Luk. 15. 21. Ezra. 9. 6, 7.
+[^q]: 1 Timothy 1:15; Luke 15:21; Ezra 9:6,7
 
-[^r]: Gal. 3. 10.
+[^r]: Galatians 3:10
 
-[^s]: Eſa. 55. 1. Ioh. 7. 37. Luk. 1. 53.
+[^s]: Isaiah 55:1; John 7:37; Luke 1:53
 
-[^t]: Mat. 5. 4.
+[^t]: Matthew 5:4
 
-[^u]: Heb. 4. 6.
+[^u]: Hebrews 4:6
 
-[^x]: Luk. 15. 18, 19. Math. 15. 22, 23. Act. 8. 23.
+[^x]: Luke 15:18,19; Matthew 15:22,23; Acts 8:23
 
-[^y]: Mat. 7. 7. Eſa. 65. 24. Iob. 33. 26.
+[^y]: Matthew 7:7; Isaiah 65:24; Job 33:26
 
-[^z]: Rom. 1. 15. Luke. 17. 5.
+[^z]: Romans 1:15; Luke 17:5;
 
-[^aa]: Eſa. 42. 3. Mat. 17. 20. Luke. 17. 5.
+[^aa]: Isaiah 42:3; Matthew 17:20; Luke 17:5
 
-[^ab]: Rom. 8. 23, 26. Gal. 4. 6. Mat. 5. 5. 
+[^ab]: Romans 8:23,26; Galatians 4:6; Matthew 5:5 
 
-[^ac]: Rom. 8. 9. Eph. 3. 17.
+[^ac]: Romans 8:9; Ephesians 3:17
 
-[^ad]: Rom. 8. 38, 39. Can. 8 6 7.
+[^ad]: Romans 8:38,39; Can. 8 6 7
 
-[^ae]: 2 Tim. 4. 7, 8. Pſal. 23. 6. with 1, 2, 3, 4. verſ.
+[^ae]: 2 Timothy 4:7,8; Psalm 23:1-4,6
 
-[^af]: Rom. 4. 20, 21.
+[^af]: Romans 4:20,21.
 
-[^ag]: 1 Cor. 1. 30. Act. 5. 9. [transcriber's note: likely intended Act 15. 9. ] Rom. 4. 3.
+[^ag]: 1 Corinthians 1:30; Acts 15:9; Romans 4:3
 
-[^ah]: Rom. 8. 33
+[^ah]: Romans 8:33
 
-[^ai]: Col. 1. 22. 1 Pet. 2. 24. 1 Ioh. 1. 7.
+[^ai]: Colossians 1:22; 1 Peter 2:24; 1 John 1:7
 
-[^ak]: 2 Cor. 5. 31. [transcriber's note: likely intended 2 Cor. 5. 21.]
+[^ak]: 2 Corinthians 5:21
 
-[^al]: Rom. 4. 17. Apoc. 22. 17. (?)
+[^al]: Romans 4:17; Revelation 22:17 (?)
 
-[^am]: Pſ. 143. 2. Eſa. 64. 6. Iob. 9. 3.
+[^am]: Psalm 143:2; Isaiah 64:6; Job 9:3
 
-[^an]: Rom. 8. 10. (?) 2 Ioh. 3. 9. [transcriber's note: likely intended 1 Ioh. 3. 9.]
+[^an]: Romans 8:10 (?); 1 John 3:9
 
-[^ao]: Rom. 6. 4. 1 Pet. 4. 1, 2.
+[^ao]: Romans 6:4; 1 Peter 4:1,2;
 
-[^ap]: Rom. 6. 5, 6. Phil 3. 10.
+[^ap]: Romans 6:5,6; Philippians 3:10
 
-[^aq]: 1 Theſſ 5:23
+[^aq]: 1 Thessalonians 5:23
 
-[^ar]: Rom. 8. 23. 2 Cor. 5. 2, 3.
+[^ar]: Romans 8:23; 2 Corinthians 5:2,3
 
-[^as]: Pſ. 119. 113. & 40. 9. & 101. 3. Rom. 7. 22.
+[^as]: Psalm 119:113; Psalm 40:9; Psalm 101:3; Romans 7:22
 
-[^at]: Pſ. 119. 57, 113.
+[^at]: Psalm 119:57,113
 
-[^au]: Rom. 5. 3, 4. 1 Cor. 1. 5.
+[^au]: Romans 5:3,4; 1 Corinthians 1:5
 
-[^ax]: 2 Cor. 7. 8, 9. Mat. 26. 75.
+[^ax]: 2 Corinthians 7:8,9; Matthew 26:75
 
-[^ay]: 1 Pet. 2. 19.
+[^ay]: 1 Peter 2:19
 
-[^az]: 2 Cor. 7. 11.
+[^az]: 2 Corinthians 7:11
 
-[^ba]: 2 Cor. 7. 11.
+[^ba]: 2 Corinthians 7:11

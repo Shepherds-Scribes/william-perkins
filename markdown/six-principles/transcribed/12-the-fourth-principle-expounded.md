@@ -61,7 +61,7 @@
 *A.* By [^x] praying, with ſending vp loud cries for Gods fauour in Chriſt, in the pardoning of ſinne; and with feruent perſeuerance herein, till the deſire of the heart be granted.
 
 *Q.* What followeth after this?  
-*A.* God then [^y] according to his mercifull promiſe, lets the poore ſinner feele the aſſurrance of his loue wherewith he loueth him in Chriſt, which aſſurance is a liuely faith.
+*A.* God then [^y] according to his mercifull promiſe, lets the poore ſinner feele the aſſurance of his loue wherewith he loueth him in Chriſt, which aſſurance is a liuely faith.
 
 *Q.* Are there diuers degrees and meaſures of true faith?  
 *A.* [^z] Yea.
@@ -73,7 +73,7 @@
 *A.* Theſe [^ab] *deſires* and *praiers* are teſtimonies of the Spirit, whoſe propertie it is to ſtirre vp a *longing* and a *luſting* after heauenly things with *ſighes* and *groanes* for Gods fauour and mercie in Chriſt. [^ac] Now where the Spirit of Chriſt is, there is Chriſt dwelling; and where Chriſt dwelleth, there is true faith, how weake ſoeuer it be.
 
 *Q.* What is the greateſt meaſure of faith?  
-*A.* When a man daily increaſing in faith comes to be [^ad] *fully perſwaded* of Gods loue in Chriſt towards himſelfe *particularly*, and of the foriueneſſe of his owne ſinnes.
+*A.* When a man daily increaſing in faith comes to be [^ad] *fully perſwaded* of Gods loue in Chriſt towards himſelfe *particularly*, and of the forgiueneſſe of his owne ſinnes.
 
 *Q.* When ſhall a Chriſtian heart come to this full aſſurance?  
 *A.* Not [^ae] at the firſt, but in ſome continuance of time, when he hath beene well practiſed *in repentance;* and hath had diuers *experiences* of Gods loue vnto him in Chriſt: then after them will appeare in his heart the fulnes of perſwaſion: which is the *ripeneſſe* [^af] and ſtrength of faith.
@@ -166,7 +166,7 @@
 
 [^o]: X.
 
-[^p]: Act. 2. 37, 28.
+[^p]: Act. 2. 37, 38.
 
 [^q]: 1 Tim. 1. 15. Luk. 15. 21. Ezra. 9. 6, 7.
 
