@@ -51,11 +51,12 @@ ol {
     margin: 2em;
 }
 
-@media (min-width: 768px) { 
-main>ul,
-main>ol {
-    margin: 2em 4em;
-}
+@media (min-width: 768px) {
+
+    main>ul,
+    main>ol {
+        margin: 2em 4em;
+    }
 }
 
 li {
@@ -63,9 +64,10 @@ li {
 }
 
 blockquote {
-    @media (min-width: 768px) { 
+    @media (min-width: 768px) {
         margin-left: 2em;
     }
+
     margin-bottom: 1em;
     border-left: 3px solid #fff;
     padding: 1em;

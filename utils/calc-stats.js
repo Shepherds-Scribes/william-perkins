@@ -6,7 +6,8 @@ const stats = [];
 
 for (const book of books) {
   try {
-    const [folder, version] = book.split('/');
+    const bookToml = fs.readFileSync(`../markdown/${book}/book.toml`).toString();
+    const link = bookToml.match(/site\-url = "\/william\-perkins\/(.+)"/)[1] ?? '';
     const summary = fs.readFileSync(`../markdown/${book}/SUMMARY.md`).toString();
     const name = summary.match(/# (.+)\n/)[1] ?? book;
     const allChapters = summary.match(/\(/g)?.length ?? 0;
@@ -15,14 +16,14 @@ for (const book of books) {
     const progress = (doneChapters === 1) ? 0 : Math.round((doneChapters / allChapters) * 100) // Don't count the title page if it's the only one
     stats.push({
       name,
-      link: `${version === 'revised' ? '' : (version[0] + '/')}${folder}`,
+      link,
       progress,
       status: progress === 0 ? 'Not Started' :
         progress === 100 ? 'Done' :
           'In Progress'
     })
   } catch {
-    console.log('No summary found for book', book);
+    console.log('Error loading book', book);
   }
 }
 
