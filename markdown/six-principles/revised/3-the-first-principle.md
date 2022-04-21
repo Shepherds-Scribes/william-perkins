@@ -1,25 +1,30 @@
-# The firſt Principle.
+# The First Principle.
 
-Queſtion.
+*Q.* What dost thou believe concerning God?  
+*A.* There is one God, Creator and Governor of all things, distinguished into the Father, the Son, and the Holy Ghost.
 
-What doeſt thou beleeue concerning God?
-
-*A.* There is one God, Creator and Gouernour of all things, diſtinguiſhed into the Father, the Son, and the holy Ghoſt.
-
-*Proofes out of the word of God.*
+*Proofs out of the word of God.*
 
 1. There is a God.
-  > Rom. 1. 20. For the inuiſible things of him, that is, his eternall power & Godhead, are ſeene by the creation of the world, being conſidered in his workes, to the intent, that they ſhould be without excuſe.  
-  > Acts. 14. 17. Neuertheleſſe, he left not himſelfe without witnes, in that he did good, and gaue vs raine from heauen, and fruitfull ſeaſons, filling our hearts with food & gladnes.
+  > Romans 1:20  
+  > For the invisible things of him, that is, his eternal power & Godhead, are seen by the creation of the world, being considered in his works, to the intent, that they should be without excuse.  
+  > Acts 14:17  
+  > Nevertheless, he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food & gladness.
 2. This God is one.
-  > 1 Cor. 8. 4. Concerning therefore meate ſacrificed to Idols, wee know that an Idol is nothing in the world: and that there is none other God but one.
+  > 1 Corinthians 8:4  
+  > Concerning therefore meat sacrificed to Idols, we know that an Idol is nothing in the world: and that there is none other God but one.
 3. He is Creator of all things.
-  > Gen. 1. 1. In the beginning God created the heauen and the earth.  
-  > Heb. 11. 3. Through faith wee vnderſtand, that the world was ordained by the word of God: ſo that the things which we ſee, are not made of things which did appeare.
-4. He is gouernour of all things.
-  > Prou. 15. 3. The eyes of the Lord in euery place behold the euill and the good.  
-  > Matth. 10. 30. Yea, & all the haires of your heads are numbred.
-5. Diſtinguiſhed into the Father, the Sonne, and the holy Ghoſt.
-  > Matth. 3. 16. And Ieſus when he was baptized came ſtraight out of the water: and loe, the heauens were opened vnto him, & Iohn ſaw the ſpirit of God deſcending like a Doue and lighting vpon him.  
-  > Verſe 17. And loe a voice came from heauen, ſaying, This is my beloued Sonne, in whom I am well pleaſed.  
-  > 1 Ioh. 5. 7. For there are three which beare record in heauen, the Father, the Word, and the holy Ghoſt: and theſe three are one.
+  > Genesis 1:1  
+  > In the beginning God created the heauen and the earth.  
+  > Hebrews 11:3  
+  > Through faith we understand, that the world was ordained by the word of God: so that the things which we see, are not made of things which did appear.
+4. He is governor of all things.
+  > Proverbs 15:3  
+  > The eyes of the Lord in every place behold the evil and the good.  
+  > Matthew 10:30  
+  > Yea, & all the hairs of your heads are numbered.
+5. Distinguished into the Father, the Son, and the Holy Ghost.
+  > Matthew 3:16-17  
+  > And Jesus when he was baptized came straight out of the water: and lo, the heavens were opened unto him, & John saw the spirit of God descending like a Dove and lighting upon him. And lo a voice came from heaven, saying, This is my beloved Son, in whom I am well pleased.  
+  > 1 John 5:7  
+  > For there are three which bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.

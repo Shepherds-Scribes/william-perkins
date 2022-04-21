@@ -1,48 +1,48 @@
-# TO ALL IGNORANT PEOPLE that deſire to be inſtructed.
+# To all ignorant people that desire to be instructed.
 
-POORE people, your manner is to ſooth vp your ſelues, as though ye were in a moſt happie eſtate: but if the matter come to a iuſt triall, it will fall out farre otherwiſe. For you leade your liues in great ignorance, as may appeare by theſe your common opinions which follow;
+Poor people, your manner is to soothe up yourselves, as though ye were in a most happy state: but if the matter come to a just trial, it will fall out far otherwise. For you lead your lives in great ignorance, as may appear by these your common opinions which follow:
 
-1. That faith is a mans good meaning, and his good ſeruing of God.
-2. That God is ſerued by the rehearſing of the ten commandements, the Lords Prayer, and the Creede.
-3. That ye haue beleeued in Chriſt euer ſince you could remember.
-4. That it is pitie that he ſhould liue which doth any whit doubt of his ſaluation.
-5. That none can tell whether he ſhall be ſaued or no certenly: but that all men muſt be of a good beliefe.
-6. That howſoeuer a man liue, yet if he call vpon God on his death-bed, and ſay, *Lord haue mercy vpon me,* and ſo goe away like a lambe, he is certainely ſaued.
-7. That if any be ſtrangely viſited, he is either taken with a planet, or bewitched.
-8. That a man may lawfully ſweare, when he ſpeakes nothing but the truth, and ſweares by nothing but that which is good, as by his faith, or troth.
-9. That a preacher is a good man no longer then he is in the pulpit. *They thinke all like themſelues.*
-10. That a man may repent when he will, becauſe the Scripture ſaith; *At what time ſoeuer a ſinner doth repent him of his ſinnes, &c.*
-11. That it is an eaſier thing to pleaſe God, then to pleaſe our neighbour.
-12. That ye can keepe the commandements, as well as God will giue you leaue.
-13. That it is the ſafeſt to doe in Religion as moſt doe.
-14. That merry ballads and bookes, as *Scoggin,* *Beuis of Southhampton,* *&c.* are good to driue away the time, and to remooue heart-qualmes.
-15. That ye can ſerue God with all your hearts, and that ye would be ſorrie elſe.
-16. That a man neede not heare ſo many Sermons, except he could follow them better.
-17. That a man which commeth at no Sermons, may as well beleeue, as hee which heares all the Sermons in the world.
-18. That ye know all the Preacher can tell you. For hee can ſay nothing, but that euery man is a ſinner, that we muſt loue our neighbours as our ſelues, that euery man muſt bee ſaued by Chriſt: and all this ye can tell as well as he.
-19. That it was a good world, then the old Religion was, becauſe all things were cheape.
-20. That drinking and bezeling in the ale-houſe or tauerne, is good fellowſhip, and ſhewes a good kinde nature, and maintaines neighbourhood.
-21. That a man may ſweare by the Maſſe, becauſe it is nothing now, and byr Lady, becauſe ſhee is gone out of the Countrey.
-22. That euery man muſt be for himſelfe, and God for vs all.
-23. That a man may make of his owne whatſoeuer he can.
-24. That if a man remember to ſay his prayers euery morning (though hee neuer vnderſtand them) he hath bleſſed himſelfe for all the day following.
-25. That a man prayeth when he ſaith the ten commandements.
-26. That a man eates his Maker in the Sacrament.
-27. That if a man be no adulterer, no thiefe, no murtherer, and doe no man harme, hee is a right honeſt man.
-28. That a man neede not haue any knowledge of religion, becauſe he is not booke-learned.
-29. That one may haue a good meaning, when he ſaith and doth that which is euill.
-30. That a man may goe to wizzards, called wiſe men, for counſell: becauſe God hath prouided a ſalue for euery ſore.
-31. That ye are to be excuſed in all your doings, becauſe the beſt men are ſinners.
-32. That ye haue ſo ſtrong a faith in Chriſt, that no euill company can hurt you.
+1. That faith is a man's good meaning, and his good serving of God.
+2. That God is served by the rehearsing of the Ten Commandments, the Lord's Prayer, and the Creed.
+3. That ye have believed in Christ euer since you could remember.
+4. That it is pity that he should live which doth any whit doubt of his salvation.
+5. That none can tell whether he shall be saved or no certainly: but that all men must be of a good belief.
+6. That howsoever a man live, yet if he call upon God on his death-bed, and say, "Lord have mercy upon me," and so go away like a lamb, he is certainly saved.
+7. That if any be strangely visited, he is either taken with a planet, or bewitched.
+8. That a man may lawfully swear, when he speaks nothing but the truth, and swears by nothing but that which is good, as by his faith, or troth.
+9. That a preacher is a good man no longer than he is in the pulpit. (They think all like themselves.)
+10. That a man may repent when he will, because the Scripture saith "At what time soever a sinner doth repent him of his sins, &c."
+11. That it is an easier thing to please God than to please our neighbour.
+12. That ye can keep the commandments as well as God will give you leave.
+13. That it is the safest to do in Religion as most do.
+14. That merry ballads and books, as "Scoggin," "Bevis of Southhampton," &c. are good to drive away the time, and to remove heart-qualms.
+15. That ye can serve God with all your hearts, and that ye would be sorry else.
+16. That a man need not hear so many Sermons, except he could follow them better.
+17. That a man which cometh at no Sermons, may as well believe, as he which hears all the Sermons in the world.
+18. That ye know all the Preacher can tell you. For he can say nothing, but that every man is a sinner, that we must love our neighbours as ourselves, that every man must be saved by Christ: and all this ye can tell as well as he.
+19. That it was a good world, when the old Religion was, because all things were cheap.
+20. That drinking and bezeling in the ale-house or tavern, is good fellowship, and shews a good kind nature, and maintains neighbourhood.
+21. That a man may swear by the Mass, because it is nothing now, and by the Lady, because she is gone out of the Country.
+22. That every man must be for himself, and God for us all.
+23. That a man may make of his own whatsoever he can.
+24. That if a man remember to say his prayers every morning (though he never understand them) he hath blessed himself for all the day following.
+25. That a man prayeth when he saith the Ten Commandments.
+26. That a man eats his Maker in the Sacrament.
+27. That if a man be no adulterer, no thief, no murderer, and do no man harm, he is a right honest man.
+28. That a man need not have any knowledge of religion, because he is not book-learned.
+29. That one may have a good meaning, when he saith and doth that which is evil.
+30. That a man may go to wizards, called wise men, for counsel: because God hath provided a salve for every sore.
+31. That ye are to be excused in all your doings, because the best men are sinners.
+32. That ye have so strong a faith in Christ, that no evil company can hurt you.
 
-Thoſe and ſuch like ſayings, what argue they but your groſſe ignorance? Now where ignorance raigneth, there raignes ſinne: and where ſinne raignes, there the diuell rules: and where he rules, men are in a damnable caſe.
+Those and such like sayings, what argue they but your gross ignorance? Now where ignorance reigneth, there reigns sin: and where sin reigns, there the devil rules: and where he rules, men are in a damnable case.
 
-Ye will reply unto mee thus: that ye are not ſo bad as I would make you. If need be you can ſay the Creede, the Lords prayer, and the ten Commandements: and therefore ye will be of Gods reliefe, ſay all men what they will, and you defie the diuell from your hearts.
+Ye will reply unto me thus: that ye are not so bad as I would make you. If need be you can say the Creed, the Lord's Prayer, and the Ten Commandments: and therefore ye will be of God's relief, say all men what they will, and you defy the devil from your hearts.
 
-I anſwer againe, that it is not ſufficient to ſay all theſe without booke, vnleſſe ye can underſtand the meaning of the words, and be able to make a right vſe of the Commandements, of the Creed, of the Lords prayer by applying them inwardly to your hearts and conſciences, and outwardly to your liues and conuerſations. This is the very point in which ye faile.
+I answer again, that it is not sufficient to say all these without book, unless ye can understand the meaning of the words, and be able to make a right use of the Commandments, of the Creed, of the Lords Prayer by applying them inwardly to your hearts and consciences, and outwardly to your lives and conversations. This is the very point in which ye fail.
 
-And for an helpe in this your ignorance, to bring you to true knowledge, vnfained faith, and ſound repentance: here I haue ſet downe the principall points of Chriſtian religion in ſixe plaine and eaſie rules: euen ſuch as the ſimpleſt may eaſily learne: and hereunto is adioyned and expoſition of them word by word. If ye doe want other good directions, then vſe this my labour for your inſtruction. In reading of it, firſt learne the ſixe Principles: and when you haue them without booke, and the meaning of them withall, then learne the expoſition alſo: which being well conceiued, and in ſome meaſure felt in the heart, ye ſhall be able to profit by Sermons, whereas now ye cannot, and the ordinary parts of the Catechiſme, namely the ten Commandements, the Creede, the Lords prayer, and the inſtitution of the two Sacraments, ſhall more eaſily be vnderſtood.
+And for an help in this your ignorance, to bring you to true knowledge, unfeigned faith, and sound repentance: here I have set down the principal points of Christian religion in six plain and easy rules: even such as the simplest may easily learn: and hereunto is adjoined and exposition of them word by word. If ye do want other good directions, then use this my labour for your instruction. In reading of it, first learn the six Principles: and when you have them without book, and the meaning of them withal, then learn the exposition also: which being well conceived, and in some measure felt in the heart, ye shall be able to profit by Sermons, whereas now ye cannot, and the ordinary parts of the Catechism, namely the Ten Commandments, the Creed, the Lord's Prayer, and the institution of the two Sacraments, shall more easily be understood.
 
-Thine in Chriſt Ieſus,
+Thine in Christ Jesus,
 
-WILLIAM PERKINS.
+William Perkins.
