@@ -4,7 +4,7 @@ Poor people, your manner is to soothe up yourselves, as though ye were in a most
 
 1. That faith is a man's good meaning, and his good serving of God.
 2. That God is served by the rehearsing of the Ten Commandments, the Lord's Prayer, and the Creed.
-3. That ye have believed in Christ euer since you could remember.
+3. That ye have believed in Christ ever since you could remember.
 4. That it is pity that he should live which doth any whit doubt of his salvation.
 5. That none can tell whether he shall be saved or no certainly: but that all men must be of a good belief.
 6. That howsoever a man live, yet if he call upon God on his death-bed, and say, "Lord have mercy upon me," and so go away like a lamb, he is certainly saved.

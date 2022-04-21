@@ -1,4 +1,25 @@
 {
     "editor.tabSize": 2,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "cSpell.words": [
+        "continueth",
+        "declareth",
+        "gainest",
+        "giveth",
+        "imputeth",
+        "increaseth",
+        "inhabiteth",
+        "keepeth",
+        "LEGATT",
+        "liveth",
+        "neighbour",
+        "neighbourhood",
+        "neighbours",
+        "offence",
+        "prayeth",
+        "reigneth",
+        "ruleth",
+        "sheweth",
+        "worketh"
+    ]
 }

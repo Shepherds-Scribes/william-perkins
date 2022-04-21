@@ -15,7 +15,7 @@
   > Concerning therefore meat sacrificed to Idols, we know that an Idol is nothing in the world: and that there is none other God but one.
 3. He is Creator of all things.
   > Genesis 1:1  
-  > In the beginning God created the heauen and the earth.  
+  > In the beginning God created the heaven and the earth.  
   > Hebrews 11:3  
   > Through faith we understand, that the world was ordained by the word of God: so that the things which we see, are not made of things which did appear.
 4. He is governor of all things.

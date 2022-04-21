@@ -22,7 +22,7 @@
   > Wherefore he is able also perfectly to save them that come unto God by him, seeing he ever liveth to make intercession for them.
 6. Alone by himself.
   > Acts 4:12  
-  > Neither is their salvation in any other: for among men there is giuen none other name under heaven, whereby we must be saved.
+  > Neither is their salvation in any other: for among men there is given none other name under heaven, whereby we must be saved.
 7. Accomplished all things needful for the salvation of mankind.
   > 1 John 2:2  
   > And he is the reconciliation for our sins: and not for ours only, but also for the sins of the whole world.

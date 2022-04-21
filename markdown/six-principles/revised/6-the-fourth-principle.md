@@ -19,10 +19,10 @@
   > John 1:12  
   > But as many as received him, to them he gave power to be the sons of God, to them that believe in his name.  
   > John 6:35  
-  > And Jesus said unto them; I am the bread of life, he that cometh to me, shall not hunger, and he that believeth in me, shall neuer thirst.
+  > And Jesus said unto them; I am the bread of life, he that cometh to me, shall not hunger, and he that believeth in me, shall never thirst.
 4. Is justified before God.
   > Romans 4:3, 6-7  
-  > For what saith the Scripture; Abraham believed God, and it was counted to him for righteousnesse... Even as David declareth the blessedness of the man, unto whom God imputeth rightousness, without works: saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.
+  > For what saith the Scripture; Abraham believed God, and it was counted to him for righteousness... Even as David declareth the blessedness of the man, unto whom God imputeth righteousness, without works: saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.
 5. And sanctified.
   > Acts 15:9  
   > And he put no difference between us and them, after that by faith he had purified their hearts.  
