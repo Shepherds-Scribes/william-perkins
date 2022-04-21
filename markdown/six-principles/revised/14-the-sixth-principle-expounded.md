@@ -1,66 +1,66 @@
-# The ſixt Principle expounded.
+# The Sixth Principle Expounded.
 
-*Q.* After that a man hath led a ſhort life in this world, what followeth then?  
-*A.* Death, which is the parting aſunder of body and ſoule.
+*Q.* After that a man hath led a short life in this world, what followeth then?  
+*A.* Death, which is the parting asunder of body and soul.
 
-*Q.* Why do wicked men & vnbeleeuers dy?  
-*A.* That their bodies may goe to the earth. and their [^a] ſoules may be caſt into hell fire.
+*Q.* Why do wicked men & unbelievers die?  
+*A.* That their bodies may go to the earth, and their [^a] souls may be cast into hell fire.
 
-*Q.* Why do the godly die, ſeeing Chriſt by death hath ouercome death?  
-*A.* They die for this end, that [^b] their bodies may reſt for a while in the earth, & their ſoules may enter into heauen immediately.
+*Q.* Why do the godly die, seeing Christ by death hath overcome death?  
+*A.* They die for this end, that [^b] their bodies may rest for a while in the earth, and their souls may enter into heaven immediately.
 
 *Q.* What followeth after death?  
-*A.* The day of iudgement.
+*A.* The day of judgement.
 
-*Q.* What ſigne is there to know this day from other daies?  
-*A.* [^c] Heauen and earth ſhall be conſumed with fire immediately before the comming of the iudge.
+*Q.* What sign is there to know this day from other days?  
+*A.* [^c] Heaven and earth shall be consumed with fire immediately before the coming of the judge.
 
-*Q.* Who ſhall be iudge?  
-*A.* Ieſus Chriſt the Sonne of God.
+*Q.* Who shall be judge?  
+*A.* Jesus Christ the Son of God.
 
-*Q.* What ſhal be the cóming to iudgement?  
-*A.* Hee ſhall come [^d] in the cloudes in great maieſtie and glorie, with infinite company of Angels.
+*Q.* What shall be the coming to judgement?  
+*A.* He shall come [^d] in the clouds in great majesty and glory, with infinite company of Angels.
 
-*Q.* How ſhall a man be cited to iudgement?  
-*A.* At the [^e] ſound of a trumpet, the liuing ſhall be changed in the twinckling of an eye, and the dead ſhall riſe againe euerie one with [^f] his owne bodie: and all ſhall be gathered together before Chriſt; and after this, the good ſhall be ſeuered fró the bad, [^g] theſe ſtáding on the left hand of Chriſt, the other on the right.
+*Q.* How shall a man be cited to judgement?  
+*A.* At the [^e] sound of a trumpet, the living shall be changed in the twinkling of an eye, and the dead shall rise again every one with [^f] his own body: and all shall be gathered together before Christ; and after this, the good shall be severed from the bad, [^g] these standing on the left hand of Christ, the other on the right.
 
-*Q.* How will Chriſt trie and examine euery mans cauſe?  
-*A.* The [^h] bookes of euery mans doings ſhall be laid open, mens conſciences ſhall be made either to accuſe them, or excuſe them, and euery man ſhall be tried by the workes which he did in his life time, becauſe they are open and manifeſt ſignes [^i] of faith or vnbeliefe.
+*Q.* How will Christ try and examine every man's cause?  
+*A.* The [^h] books of every man's doings shall be laid open, men's consciences shall be made either to accuse them, or excuse them, and every man shall be tried by the works which he did in his life time, because they are open and manifest signs [^i] of faith or unbelief.
 
-*Q.* What ſentence will he giue?  
-*A.* Hee will giue [^k] ſentence of ſaluation to the elect and godly, but he will pronounce ſentence of damnation againſt vnbeleeuers and reprobates.
+*Q.* What sentence will he give?  
+*A.* Hee will give [^k] sentence of salvation to the elect and godly, but he will pronounce sentence of damnation against unbelievers and reprobates.
 
-*Q.* What ſtate ſhall the godly be in after the day of iudgement?  
-*A.* They ſhall [^l] continue for euer in the higheſt heauen in the preſence of God, hauing fellowſhip with Chriſt Ieſus, and reigning with him for euer.
+*Q.* What state shall the godly be in after the day of judgement?  
+*A.* They shall [^l] continue for ever in the highest heaven in the presence of God, having fellowship with Christ Jesus, and reigning with him for ever.
 
-*Q.* What ſtate ſhall the wicked be in after the day of iudgement?  
-*A.* In eternall perdition and deſtruction in hell fire.
+*Q.* What state shall the wicked be in after the day of judgement?  
+*A.* In eternal perdition and destruction in hell fire.
 
 *Q.* What is that?  
-*A.* It [^m] ſtands in three things eſpecially: Firſt, a perpetuall ſeparation from Gods comfortable preſence. Secondly, fellowſhip with the diuell and his angels. Thirdly, an horrible pang and torment both of body and ſoule, ariſing of the feeling of the whole wrath of God, powred forth on the wicked for euer world without end; and if the paine of one tooth for one day be ſo great, endleſſe ſhall be the paine of the whole man, body and ſoule for euer.
+*A.* It [^m] stands in three things especially: First, a perpetual separation from God's comfortable presence. Secondly, fellowship with the devil and his angels. Thirdly, an horrible pang and torment both of body and soul, arising of the feeling of the whole wrath of God, poured forth on the wicked for ever world without end; and if the pain of one tooth for one day be so great, endless shall be the pain of the whole man, body and soul for ever.
 
 # FINIS.
 
-[^a]: Luke 16. 22, 23.
+[^a]: Luke 16:22,23
 
-[^b]: Luke 23. 42. Act. 7. 60. 1 Theſ. 4. 3. Heb. 2. 14 1 Cor. 15. 51.
+[^b]: Luke 23:42; Acts 7:60; 1 Thessalonians 4:3; Hebrews 2:14; 1 Corinthians 15:51
 
-[^c]: 2 Pet. 3. 11, 12.
+[^c]: 2 Peter 3:11,12
 
-[^d]: 1 Theſſ 4. 16, 17.
+[^d]: 1 Thessalonians 4:16,17
 
-[^e]: Math. 25. 31.
+[^e]: Matthew 25:31
 
-[^f]: Iob. 19. 25.
+[^f]: Job 19:25
 
-[^g]: Math. 25. 32, 33.
+[^g]: Matthew 25:32,33
 
-[^h]: Reu. 20. 21. Dan. 7. 20.
+[^h]: Revelation 20:21; Daniel 7:20
 
-[^i]: Ioh. 3. 18. and 5. 24.
+[^i]: John 3:18; John 5:24
 
-[^k]: Math. 25. 34, 41.
+[^k]: Matthew 25:34,41
 
-[^l]: Math. 25. 34. Apoc. 21. 2, 3, 4, 5.
+[^l]: Matthew 25:34; Revelation 21:2-5
 
-[^m]: 2 Theſſ. 1. 9. Eſa. 66. 2, 4. Apoc. 21. 8.
+[^m]: 2 Thessalonians 1:9; Isaiah 66:2,4; Revelation 21:8
