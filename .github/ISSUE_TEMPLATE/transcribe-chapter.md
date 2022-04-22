@@ -8,11 +8,15 @@ assignees: ''
 ---
 
 **Source PDF:** 
-**Starting Page:**
+**Starting Page:** 
 
---- REMOVE BELOW ---
+## Guidelines
 
-Example:
+The Transcription is intended to be as close as possible to the original text, without copying the layout exactly.
 
-**Source PDF:** sources/William-Perkins-Works-vol-1/4-six-principles.pdf
-**Starting Page:** 3
+1. Attempt to preserve the original spelling, case, and punctuation wherever possible.
+  - The long s (`ſ`) should be preserved in the transcript
+2. Crop and preserve original illustrations from the body of the work alongside the transcription, embedding them with Markdown syntax. The publisher's 
+3. Prefer semantic markup rather than copying the layout: given a single header with varying font size, e.g., prefer to represent it as a single header instead of trying to capture the font size variations.
+4. Proofread transcription once the copy is complete.
+  - Check verse references; if you find a mistake, copy the original, but add a note like `[transcriber's note: likely intended Act 15. 9.]`
