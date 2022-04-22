@@ -1,6 +1,6 @@
 # The fifth Principle.
 
-*Q.* What are the ordinary or vſuall meanes for obtaining of faith?
+*Q.* What are the ordinary or vſuall meanes for obtaining of faith?  
 *A.* Faith commeth onely by the preaching of the word, and increaſeth daily by it: as alſo by the adminiſtration of Sacraments and prayer.
 
 1. Faith commeth onely by the preaching of the word, and increaſeth daily by it.

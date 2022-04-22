@@ -52,7 +52,7 @@
 *A.* His damnation [^n] ſhall bee the greater, becauſe he breaketh his vow made to God.
 
 *Q.* What is done in the Lords Supper?  
-*A.* The former couenant ſolemnly ratified in baptiſme, is renued [^o] in the Lords Supper, betweene the Lord himſelfe, * the receiuer?
+*A.* The former couenant ſolemnly ratified in baptiſme, is renued [^o] in the Lords Supper, betweene the Lord himſelfe, & the receiuer?
 
 *Q.* Who is the receiuer?  
 *A.* Euery one [^p] that hath beene baptized, and after his baptiſme hath truly beleeued in Chriſt, and repented of his ſinnes from his heart.

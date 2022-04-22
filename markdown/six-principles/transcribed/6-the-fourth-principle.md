@@ -1,6 +1,6 @@
 # The fourth Principle.
 
-*Q.* But how maiſt thou be made partaker of Chriſt and his benefits.
+*Q.* But how maiſt thou be made partaker of Chriſt and his benefits.  
 *Answ.* A man of a contrite and humble ſpirit, by faith alone apprehending and applying Chriſt with all his merits vnto himſelfe, is iuſtified before God and ſanctified.
 
 1. A man of a contrite and humble ſpirit.

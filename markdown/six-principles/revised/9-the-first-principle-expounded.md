@@ -1,34 +1,34 @@
 # The First Principle Expounded.
 
-*Q.* What is God?  
-*A.* God is [^a] a *spirit,* or a spiritual substance, most wise, most holy, eternal, infinite.
+**Q.** What is God?  
+**A.** God is a spirit, [^a] or a spiritual substance, most wise, most holy, eternal, infinite.
 
-*Q.* How doe you persuade your self that there is a God?  
-*A.* Beside the testimony of the Scriptures, plain reason will shew it.
+**Q.** How do you persuade your self that there is a God?  
+**A.** Beside the testimony of the Scriptures, plain reason will shew it.
 
-*Q.* What is one reason?  
-*A.* When I consider [^b] the wonderful frame of the world, methinks the silly creatures that be in it could never make it: neither could it make it self, and therefore besides all these, the maker of it must needs be God. Even as when a man comes into a strange country, and sees fair and sumptuous buildings, and yet finds no living creatures there besides birds and beasts, he will not imagine that either birds or beasts reared those buildings, but he presently conceives that some men either were or have been there.
+**Q.** What is one reason?  
+**A.** When I consider the wonderful frame of the world, methinks the silly creatures that be in it could never make it: neither could it make itself, and therefore besides all these, the maker of it must needs be God. [^b] Even as when a man comes into a strange country, and sees fair and sumptuous buildings, and yet finds no living creatures there besides birds and beasts, he will not imagine that either birds or beasts reared those buildings, but he presently conceives that some men either were or have been there.
 
-*Q.* What other reason have you?  
-*A.* [^c] A man that commits any sin, as murder, fornication, adultery, blasphemy, &c. albeit he doth so conceal the matter, that no man living know of it, yet oftentimes he hath a griping in his conscience, and feels the very flashing of hellfire; which is a strong reason to shew that there is a God, before whose judgement seat he must answer for his act.
+**Q.** What other reason have you?  
+**A.** A man that commits any sin, as murder, fornication, adultery, blasphemy, &c. albeit he doth so conceal the matter, that no man living know of it, yet oftentimes he hath a griping in his conscience, and feels the very flashing of hellfire; which is a strong reason to shew that there is a God, before whose judgement seat he must answer for his act. [^c]
 
-*Q.* How many Gods are there?  
-*A.* No [^d] more but one.
+**Q.** How many Gods are there?  
+**A.** No more but one. [^d]
 
-*Q.* How do you conceive this one God in your mind?  
-*A.* Not [^e] by framing an image of him in my mind (as ignorant folks do, that think him to be an old man sitting in heaven) but I conceive him by his properties and works.
+**Q.** How do you conceive this one God in your mind?  
+**A.** Not by framing an image of him in my mind (as ignorant folks do, that think him to be an old man sitting in heaven) but I conceive him by his properties and works. [^e]
 
-*Q.* What be his chief properties?  
-*A.* First, he is [^f] *most wise,* understanding all things aright, and knowing the reason of them. Secondly, he is [^g] most *holy,* which appeareth, in that he is *most just* and *merciful* unto his creatures. Thirdly, he is [^h] *eternal,* without either beginning or end of days. Lastly, he is [^i] *infinite,* both because he is present in all places, and because he is of power sufficient to do whatsoever he [^k] *will.*
+**Q.** What be his chief properties?  
+**A.** First, he is most wise, understanding all things aright, and knowing the reason of them. [^f] Secondly, he is most holy, which appeareth, in that he is most just and merciful unto his creatures. [^g] Thirdly, he is eternal, without either beginning or end of days. [^h] Lastly, he is infinite, [^i] both because he is present in all places, and because he is of power sufficient to do whatsoever he will. [^k]
 
-*Q.* What be the works of God?  
-*A.* [^l] The creation of the world, and every thing therein, and the preservation of them, being created by *his special providence.*
+**Q.** What be the works of God?  
+**A.** The creation of the world, and every thing therein, and the preservation of them, being created by his special providence. [^l]
 
-*Q.* How know you that God governeth every particular thing in the world by his *special providence?*  
-*A.* To omit the [^m] Scriptures, I see it by experience: [^n] Meat, Drink and Clothing being void of heat & life, could not preserve the life of man, unless there were a *special providence* of God to give virtue unto them.
+**Q.** How know you that God governeth every particular thing in the world by his special providence?  
+**A.** To omit the Scriptures, [^m] I see it by experience: meat, drink and clothing being void of heat and life, could not preserve the life of man, unless there were a special providence of God to give virtue unto them. [^n]
 
-*Q.* How is this one God distinguished?  
-*A.* [^o] Into the *Father*, which begetteth the Son; into the *Son*, who is begotten of the Father; into the *Holy Ghost,* [^p] who proceedeth from the Father and the Son.
+**Q.** How is this one God distinguished?  
+**A.** Into the Father, which begetteth the Son; [^o] into the Son, who is begotten of the Father; into the Holy Ghost, who proceedeth from the Father and the Son. [^p]
 
 [^a]: John 4:24
 
