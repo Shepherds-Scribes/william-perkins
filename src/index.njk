@@ -20,6 +20,8 @@ tags: home
 
 <div class="transcriptions">
   {% for transcription in transcriptions %}
+  {% if transcription.progress < 100 %}
     {{ transcriptionProgress(transcription.name, transcription.link, transcription.status, transcription.progress) }}
+  {% endif %}
   {% endfor %}
 </div>

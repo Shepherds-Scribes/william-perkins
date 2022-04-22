@@ -10,7 +10,7 @@ title: Volume 1
 
 - [The Printer to the Reader](printers-preface)
 - [Six Principles: The Foundation of Christian Religion](../../six-principles/) ([original transcription](../../t/six-principles/))
-- *A Golden Chain: The Description of Theology*
+- [A Golden Chain: The Description of Theology](../../golden-chain) ([original transcription](../../t/golden-chain))
 - *An Exposition of the Creed of the Apostles*
 - *An Exposition of the Lord's Prayer*
 - *Damnation or Grace*
