@@ -1,6 +1,6 @@
 # The ſixth Principle.
 
-*Q.* What is the eſtate of all men after death?
+*Q.* What is the eſtate of all men after death?  
 *A.* All men ſhall riſe againe with their owne bodies, to the laſt iudgement, which beeing ended, the godly ſhall poſſeſſe the kingdome of heauen: but vnbeleeuers and rebrobates ſhall bee in hell, tormented with the diuell and his angels for euer.
 
 1. All men ſhall riſe againe with their owne bodies.

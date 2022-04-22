@@ -1,29 +1,30 @@
-# The fourth Principle.
+# The Fourth Principle.
 
-*Q.* But how maiſt thou be made partaker of Chriſt and his benefits.
-*Answ.* A man of a contrite and humble ſpirit, by faith alone apprehending and applying Chriſt with all his merits vnto himſelfe, is iuſtified before God and ſanctified.
+**Q.** But how mayest thou be made partaker of Christ and his benefits?  
+**A.** A man of a contrite and humble spirit, by faith alone apprehending and applying Christ with all his merits unto himself, is justified before God and sanctified.
 
-1. A man of a contrite and humble ſpirit.
-  > Eſa. 57. 15. For thus ſaith hee that is high and excellent; Hee that inhabiteth the eternitie, whoſe name is the Holy one, I dwell in the high and holy place, with him alſo that is of a contrite and humble ſpirit; to reuiue the ſpirit of the humble, and to giue life to them that are of a contrite heart.  
-  > Pſal. 51. 17. The ſacrifices of God, are a contrite ſpirit, a contrite and a broken heart, O God, thou wilt not deſpiſe.
+1. A man of a contrite and humble spirit.
+  > *Isaiah 57:15*  
+  > For thus saith he that is high and excellent; He that inhabiteth the eternity, whose name is the Holy one, I dwell in the high and holy place, with him also that is of a contrite and humble spirit; to revive the spirit of the humble, and to give life to them that are of a contrite heart.  
+  > *Psalm 51:17*  
+  > The sacrifices of God, are a contrite spirit, a contrite and a broken heart, O God, thou wilt not despise.
 2. By faith alone.
-  > Mark. 5. 36. As ſoone as Ieſus heard that word ſpoken, hee ſaid vnto the ruler of the Synagogue, Bee not afraid, onely beleeue.  
-  > Num. 21. 19. [^1] So Moſes made a ſerpent of braſſe, and ſet it vp for a ſigne, and when a ſerpent had bitten a man, then he looked to the Serpent of braſſe, and liued.  
-  > Ioh. 3. 14. And as Moſes lift vp the Serpent in the wilderneſſe, ſo muſt the Sonne of man bee lifted vp.  
-  > Verſe 5. [^2] That whoſoeuer beleeueth in him, ſhould not periſh, but haue eternall life.
-3. Apprehending and applying Chriſt with all his merits vnto himſelfe.
-  > Ioh. 1. 12. But as many as receiued him, to them he gaue power to be the ſonnes of God, to them that beleeue in his name.  
-  > Ioh. 6. 35. And Ieſus ſaid vnto them; I am the bread of life, hee that commeth to me, ſhall not hunger, and hee that beleeueth in mee, ſhall neuer thirſt.
-4. Is iuſtified before God.
-  > Rom. 4. 3 For what ſaith the Scripture; Abraham beleeued God, and it was counted to him for righteouſneſſe.  
-  > Verſ. 6. Euen as Dauid declareth the bleſſedneſſe of the man, vnto whom God imputeth rightouſneſſe, without workes: ſaying,  
-  > Verſ. 7. Bleſſed are they whoſe iniquities are forgiuen, and whoſe ſinnes are couered.
-5. And ſanctified.
-  > Acts. 15. 19. [^3] And hee put no difference betweene vs and them, after that by faith hee had purified their hearts.  
-  > 1 Cor. 1. 30. But yee are of him in Chriſt Ieſus, who of God is made vnto vs wiſedome, and righteouſneſſe, and ſanctification, and redemption.
-
-[^1]: Transcriber's note - the verse quoted is Num. 21:9.
-
-[^2]: Transcriber's note - the verse quoted is Joh. 3:15.
-
-[^3]: Transcriber's note - the verse quoted is Acts 15:9.
+  > *Mark 5:36*  
+  > As soon as Jesus heard that word spoken, he said unto the ruler of the Synagogue, Be not afraid, only believe.  
+  > *Numbers 21:9*  
+  > So Moses made a serpent of brass, and set it up for a sign, and when a serpent had bitten a man, then he looked to the Serpent of brass, and lived.  
+  > *John 3:14-15*  
+  > And as Moses lift up the Serpent in the wilderness, so must the Son of man be lifted up. That whosoever believeth in him, should not perish, but have eternal life.
+3. Apprehending and applying Christ with all his merits unto himself.
+  > *John 1:12*  
+  > But as many as received him, to them he gave power to be the sons of God, to them that believe in his name.  
+  > *John 6:35*  
+  > And Jesus said unto them; I am the bread of life, he that cometh to me, shall not hunger, and he that believeth in me, shall never thirst.
+4. Is justified before God.
+  > *Romans 4:3,6-7*  
+  > For what saith the Scripture; Abraham believed God, and it was counted to him for righteousness... Even as David declareth the blessedness of the man, unto whom God imputeth righteousness, without works: saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.
+5. And sanctified.
+  > *Acts 15:9*  
+  > And he put no difference between us and them, after that by faith he had purified their hearts.  
+  > *1 Corinthians 1:30*  
+  > But ye are of him in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption.

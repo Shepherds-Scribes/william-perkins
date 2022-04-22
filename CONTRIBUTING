@@ -8,12 +8,14 @@ The Transcription is intended to be as close as possible to the original text, w
 
 1. Attempt to preserve the original spelling, case, and punctuation wherever possible.
   - The long s (`ſ`) should be preserved in the transcript
-2. Crop and preserve original illustrations alongside the transcription, embedding them with Markdown syntax.
-3. Approximate layout with reasonable Markdown: given a single header with varying font size, e.g., prefer to represent it as a single header instead of trying to capture the font size variations.
+2. Crop and preserve original illustrations from the body of the work alongside the transcription, embedding them with Markdown syntax. The publisher's 
+3. Prefer semantic markup rather than copying the layout: given a single header with varying font size, e.g., prefer to represent it as a single header instead of trying to capture the font size variations.
+4. Proofread transcription once the copy is complete.
+  - Check verse references; if you find a mistake, copy the original, but add a note like `[transcriber's note: likely intended Act 15. 9.]`
 
-## Modern Version
+## Revision
 
-The Modern Version is intended to make reading easier, by updating spelling, punctuation, and formatting; and to respect the author's writing, by preserving intact as much of the original words and sentence structure as possible.
+The revised version is intended to make reading easier, by updating spelling, punctuation, and formatting; and to respect the author's writing, by preserving intact as much of the original words and sentence structure as possible.
 
 1. Use the Transcription draft as the starting point.
 2. Update spelling, where appropriate, to King James English.
@@ -21,5 +23,9 @@ The Modern Version is intended to make reading easier, by updating spelling, pun
   - Permit archaic constructions such as "perisheth"
   - Update spellings such as "humilitie" -> "humility"
 3. Normalize headings to Title Case or Sentence case where appropriate
-4. Adjust punctuation and formatting, if needed, to make the intention clearer.
-5. Do not replace words, paraphrase, etc. unless absolutely necessary.
+4. Correct punctuation, formatting, and typos, if needed.
+5. Move footnotes to the end of the relevant sentence or sentence fragment.
+6. Normalize Scripture references to the format `Book 1:2-3,6; Other Book 3:7`
+  - If the original reference is a typo and the correct reference is clear, use the correct reference.
+  - If the original reference is incorrect and the correct reference is uncertain or unclear, use the original reference, and copy the transcriber's note.
+7. Do not replace words, paraphrase, etc. unless absolutely necessary.

@@ -1,117 +1,117 @@
-# The third principle expounded.
+# The Third Principle Expounded.
 
-*Q.* If damnation bee the reward of ſinne: then is a man of all creatures moſt miſerable: a dogge or a toade when they die, al their miſerie is ended; but when a man dyeth, there is the beginning of his woe.  
-*A.* It were ſo indeed, if there were no means of deliuerance, but GOD hath ſhewed his mercy, in giuing a *Sauiour* to mankind.
+**Q.** If damnation be the reward of sin, then is a man of all creatures most miserable: a dog or a toad when they die, all their misery is ended; but when a man dieth, there is the beginning of his woe.  
+**A.** It were so indeed, if there were no means of deliverance; but GOD hath shewed his mercy, in giving a Saviour to mankind.
 
-*Q.* How is this Sauiour called?  
-*A.* [^a] Ieſus Chriſt.
+**Q.** How is this Saviour called?  
+**A.** Jesus Christ. [^a]
 
-*Q.* What is Ieſus Chriſt?  
-*A.* [^b] The eternall Sonne of God made man in all things, euen [^c] in his *infirmities* like other men, ſaue onely in ſinne.
+**Q.** What is Jesus Christ?  
+**A.** The eternal Son of God made man in all things, [^b] even in his infirmities like other men, save only in sin. [^c]
 
-*Q.* How was he made man void of ſinne?  
-*A.* He was [^d] conceiued in the wombe of a Virgin, and *ſanctified* by the holy Ghoſt at his conception.
+**Q.** How was he made man void of sin?  
+**A.** He was conceived in the womb of a Virgin, and sanctified by the Holy Ghost at his conception. [^d]
 
-*Q.* Why muſt our Sauiour bee both God and man?  
-*A.* He [^e] muſt bee a man, becauſe man had ſinned, and therefore a man muſt die for ſinne, to appeaſe Gods wrath: he muſt be God, to ſuſtaine & vphold the manhood, to ouercome and vanquiſh death.
+**Q.** Why must our Saviour be both God and man?  
+**A.** He must be a man, because man had sinned, and therefore a man must die for sin, to appease God's wrath; he must be God, to sustain & uphold the manhood, to overcome and vanquish death. [^e]
 
-*Q.* What be the offices of Chriſt to make him an al-ſufficient Sauiour?  
-*A.* [^f] He is a Prieſt, a Prophet, a King.
+**Q.** What be the offices of Christ to make him an all-sufficient Saviour?  
+**A.** He is a Priest, a Prophet, a King. [^f]
 
-*Q.* Why is he a Prieſt?  
-*A.* To *worke* the meanes of ſaluation in the behalfe of mankinde.
+**Q.** Why is he a Priest?  
+**A.** To work the means of salvation in the behalf of mankind.
 
-*Q.* How doth hee worke the meanes of ſaluation?  
-*A.* [^g] Firſt, by making *ſatisfaction* to his Father for the ſinne of man: ſecondly by making *interceſſion.*
+**Q.** How doth he work the means of salvation?  
+**A.** First, by making satisfaction to his Father for the sin of man; secondly, by making intercession. [^g]
 
-*Q.* How doth he make ſatisfaction?  
-*A.* By two meanes: and the firſt is by offering a *ſacrifice.*
+**Q.** How doth he make satisfaction?  
+**A.** By two means: and the first is by offering a sacrifice.
 
-*Q.* What is the ſacrifice?  
-*A.* [^h] Chriſt himſelfe, as hee is a man conſiſting of body and ſoule.
+**Q.** What is the sacrifice?  
+**A.** Christ himself, as he is a man consisting of body and soul. [^h]
 
-*Q.* What is the [^i] Altar.  
-*A.* Chriſt as hee is God, is the *Altar* on which he ſacrificed himſelfe.
+**Q.** What is the Altar? [^i]  
+**A.** Christ as he is God, is the Altar on which he sacrificed himself.
 
-*Q.* Who was the Prieſt?  
-*A.* None but [^k] Chriſt, and that as he is both God and man.
+**Q.** Who was the Priest?  
+**A.** None but Christ, and that as he is both God and man. [^k]
 
-*Q.* How oft did he ſacrifice himſelfe?  
-*A.* Neuer but [^l] once.
+**Q.** How oft did he sacrifice himself?  
+**A.** Never but once. [^l]
 
-*Q.* What death did he ſuffer when he ſacrificed himſelfe?  
-*A.* A death vpon the croſſe, peculiar to himſelf alone: for [^m] beſides the ſeparation of body and ſoule, he felt alſo the *pangs of hell,* in that the whole wrath of God due to the ſinne of man, was powred forth vpon him.
+**Q.** What death did he suffer when he sacrificed himself?  
+**A.** A death upon the cross, peculiar to himself alone: for besides the separation of body and soul, he felt also the pangs of hell, in that the whole wrath of God due to the sin of man was poured forth upon him. [^m]
 
-*Q.* What profite commeth by his Sacrifice?  
-*A.* [^n] Gods wrath is appeaſed by it.
+**Q.** What profit cometh by his Sacrifice?  
+**A.** God's wrath is appeased by it. [^n]
 
-*Q.* Could the ſufferings of Chriſt, which was but for a ſhort time, counteruaile euerlaſting damnation, and ſo appeaſe Gods wrath?  
-*A.* Yea; for ſeeing Chriſt ſuffered, [^o] God ſuffered, though not in his Godhead: and that is more then if all men in the world had ſuffered for euer and euer.
+**Q.** Could the sufferings of Christ, which was but for a short time, countervail everlasting damnation, and so appease God's wrath?  
+**A.** Yea; for seeing Christ suffered, God suffered, though not in his Godhead: and that is more then if all men in the world had suffered for ever and ever. [^o]
 
-*Q.* Now tell me the other meanes of *ſatisfaction.*  
-*A.* It is the perfect fulfilling of *the law.*
+**Q.** Now tell me the other means of satisfaction.  
+**A.** It is the perfect fulfilling of the law.
 
-*Q.* How did he fulfill the law?  
-*A.* By [^p] his *perfect righteouſnes:* which conſiſteth of two parts; the firſt, the *integritie and purenes* of his humane nature: the other, [^q] his *obedience* in performing all that the law required.
+**Q.** How did he fulfill the law?  
+**A.** By his perfect righteousness: [^p] which consisteth of two parts; the first, the integrity and pureness of his human nature: the other, his obedience in performing all that the law required. [^q]
 
-*Q.* You haue ſhewed how Chriſt doth make *ſatisfaction,* tell me likewiſe how he doth make *interceſſion?*  
-*A.* He alone doth continually [^r] appeare before his father in heauen, making the faithfull, and all their praiers acceptable vnto him, by applying of the merits of his owne perfect *ſatisfaction* to them.
+**Q.** You have shewed how Christ doth make satisfaction; tell me likewise how he doth make intercession?  
+**A.** He alone doth continually appear before his Father in heaven, [^r] making the faithful and all their prayers acceptable unto him, by applying of the merits of his own perfect satisfaction to them.
 
-*Q.* Why is Chriſt a Prophet?  
-*A.* To [^s] *reueale* vnto his Church the way and meanes of ſaluation, and this he doth outwardly by the miniſterie of his word, and inwardly by the teaching of his ſpirit.
+**Q.** Why is Christ a Prophet?  
+**A.** To reveal unto his Church the way and means of salvation, and this he doth outwardly by the ministry of his word, and inwardly by the teaching of his spirit. [^s]
 
-*Q.* Why is he alſo a *King?*  
-*A.* That [^t] he might *bountifully beſtow* vp on vs, & *conuey* vnto vs al the aforeſaid meanes of ſaluation.
+**Q.** Why is he also a King?  
+**A.** That he might bountifully bestow upon us and convey unto us all the aforesaid means of salvation. [^t]
 
-*Q.* How doth he ſhew himſelfe to be King?  
-*A.* In [^u] that beeing *dead* and *buried,* hee *roſe from the graue,* quickened his dead bodie, *aſcended* into heauen, and now *ſitteth at the right hand* of his Father, with full power and glorie in heauen.
+**Q.** How doth he shew himself to be King?  
+**A.** In that being dead and buried, he rose from the grave, quickened his dead body, ascended into heaven, and now sitteth at the right hand of his Father, with full power and glory in heaven. [^u]
 
-*Q.* How elſe?  
-*A.* In [^v] that hee doth continually inſpire and direct his ſeruants, by the diuine power of his holy ſpirit, according to his holy word.
+**Q.** How else?  
+**A.** In that he doth continually inspire and direct his servants, by the divine power of his holy spirit, according to his holy word. [^v]
 
-*Q.* But to whom will this bleſſed King communicate all theſe meanes of ſaluation?  
-*A.* He [^w] offereth them to many, and they are *ſufficient* to ſaue all mankinde; but all ſhall not bee ſaued thereby, becauſe by faith they will not receiue them.
+**Q.** But to whom will this blessed King communicate all these means of salvation?  
+**A.** He offereth them to many, and they are sufficient to save all mankind; but all shall not be saved thereby, because by faith they will not receive them. [^w]
 
-[^a]: Mar. 8. 29. (?)
+[^a]: Mark 8:29 (?)
 
-[^b]: Heb. 2. 16. Ioh. 1. 14.
+[^b]: Hebrews 2:16; John 1:14
 
-[^c]: Heb. 5. 7. Mar. 13. 32.
+[^c]: Hebrews 5:7; Mark 13:32
 
-[^d]: Mat. 1. 18.
+[^d]: Matthew 1:18
 
-[^e]: 1 Tim. 2. 5, 6.
+[^e]: 1 Timothy 2:5,6
 
-[^f]: Pſ. 45. 7. Luk. 4. 8. Deut. 18. 15, 18. Luk. 1. 33. Pſ. 110. 2.
+[^f]: Psalm 45:7; Luke 4:8; Deuteronomy 18:15,18; Luke 1:33; Psalm 110:2
 
-[^g]: Mat. 20. 8. Heb. 7. 15, 16.
+[^g]: Matthew 20:8; Hebrews 7:15,16
 
-[^h]: Eſa. 53. 10.
+[^h]: Isaiah 53:10
 
-[^i]: Apo. 8. 3.
+[^i]: Revelation 8:3
 
-[^k]: Heb. 5. 5, 6.
+[^k]: Hebrews 5:5,6
 
-[^l]: Heb. 9. 28.
+[^l]: Hebrews 9:28
 
-[^m]: Eſa. 53. 5. Ioh. 12. 27. Reu. 19. 15. Luk. 22. 44.
+[^m]: Isaiah 53:5; John 12:27; Revelation 19:15; Luke 22:44
 
-[^n]: Heb. 9. 26. 
+[^n]: Hebrews 9:26 
 
-[^o]: Act. 20. 28. 2 Cor 5. 15.
+[^o]: Acts 20:28; 2 Corinthians 5:15
 
-[^p]: 1 Cor. 1. 30. Ro. 3. 25. 2 Cor. 5. 21.
+[^p]: 1 Corinthians 1:30; Romans 3:25; 2 Corinthians 5:21
 
-[^q]: Ro. 5. 19. Rom. 4. 8.
+[^q]: Romans 5:19; Romans 4:8
 
-[^r]: Rom. 8. 38. 1 Pet. 2. 5.
+[^r]: Romans 8:38; 1 Peter 2:5
 
-[^ſ]: Ioh. 6. 45. Math. 5. 17.
+[^s]: John 6:45; Matthew 5:17
 
-[^t]: Eſai. 9. 7.
+[^t]: Isaiah 9:7
 
-[^u]: Act. 10. 40. Eph. 4. 8. Act. 1. 9. 
+[^u]: Acts 10:40; Ephesians 4:8; Acts 1:9 
 
-[^v]: Eſai. 9. 7. and 30. 21.
+[^v]: Isaiah 9:7; Isaiah 30:21
 
-[^w]: Mat. 20. 16. Ioh. 1. 11.
+[^w]: Matthew 20:16; John 1:11

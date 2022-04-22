@@ -1,84 +1,84 @@
-# The ſecond Principle expounded.
+# The Second Principle Expounded.
 
-*Q.* Let vs now come to our ſelues, and firſt tell me what is the naturall eſtate of man?  
-*A.* Euery man is by nature [^a] *dead* in ſin as a loathſome carrió, or as a dead corps lieth rotting and ſtinking in the graue, hauing in him the ſeed of all ſinnes.
+**Q.** Let us now come to ourselves, and first tell me: What is the natural estate of man?  
+**A.** Every man is by nature dead in sin as a loathsome carrion, or as a dead corpse lieth rotting and stinking in the grave, having in him the seed of all sin. [^a]
 
-*Q.* What is ſinne?  
-*A.* Any [^b] breach of the of [sic] law of God, if it bee no more but the leaſt want of that which the law requireth.
+**Q.** What is sin?  
+**A.** Any breach of the law of God, if it be no more but the least want of that which the law requireth. [^b]
 
-*Q.* How many ſorts of ſinne are there?  
-*A.* Sinne is either the [^c] corruption of nature, or any euill actions that proceed of it, as fruits thereof.
+**Q.** How many sorts of sin are there?  
+**A.** Sin is either the corruption of nature, or any evil actions that proceed of it, as fruits thereof. [^c]
 
-*Q.* In whom is the corruption of nature?  
-*A.* In all men [^d] none excepted.
+**Q.** In whom is the corruption of nature?  
+**A.** In all men none excepted. [^d]
 
-*Q.* In what part of man is it?  
-*A.* In euery [^e] part both of body and ſoule, like as a leproſie that runneth from the crowne of the head to the ſoale of the foote.
+**Q.** In what part of man is it?  
+**A.** In every part both of body and soul, like as a leprosy that runneth from the crown of the head to the sole of the foot. [^e]
 
-*Q.* Shew me how euery part of man is corrupted with ſinne?  
-*A.* Firſt, in the [^f] minde there is nothing but ignorance and blindnes concerning heauenly matters. Secondly, [^g] the conſcience is defiled, being alwaies either benumbed with ſinne, or elſe turmoyled with inward accuſations and terrors. Thirdly, [^h] the will of man onely willeth and luſteth after euill. Fourthly, the [^i] affections of the heart, as loue, ioy, hope, deſire, &c. are mooued and ſtirred to that which is euill to embrace it, and they are neuer ſtirred vnto that which is good, vnleſſe it bee to eſchew it. Laſtly, the [^k] members of the body are the inſtruments & tooles of the minde for the execution of ſinne.
+**Q.** Shew me how every part of man is corrupted with sin?  
+**A.** First, in the mind there is nothing but ignorance and blindness concerning heavenly matters. [^f] Secondly, the conscience is defiled, being always either benumbed with sin, or else turmoiled with inward accusations and terrors. [^g] Thirdly, the will of man only willeth and lusteth after evil. [^h] Fourthly, the affections of the heart, as love, joy, hope, desire, &c. are moved and stirred to that which is evil to embrace it, and they are never stirred unto that which is good, unless it be to eschew it. [^i] Lastly, the members of the body are the instruments and tools of the mind for the execution of sin. [^k]
 
-*Q.* what bee thoſe euill actions that are the fruits of this corruption?  
-*A.* [^l] Euill thoughts in the minde, which come either by a mans owne conceiuing, or by the ſuggeſtion of the diuell: [^m] euill motions and luſts ſtirring in the heart, and from theſe ariſe euill words and deeds, when any occaſion is giuen.
+**Q.** What be those evil actions that are the fruits of this corruption?  
+**A.** Evil thoughts in the mind, which come either by a man's own conceiving, or by the suggestion of the devil; [^l] evil motions and lusts stirring in the heart; and from these arise evil words and deeds, when any occasion is given. [^m]
 
-*Q.* How commeth it to paſſe that all men are thus defiled with ſinne?  
-*A.* By [^n] *Adam* infidelity and diſobedience, in eating the forbidden fruit: euen as we ſee great perſonages by treaſon do not onely hurt themſelues, but alſo ſtaine their blood, and diſgrace their poſterity.
+**Q.** How cometh it to pass that all men are thus defiled with sin?  
+**A.** By Adam's infidelity and disobedience, in eating the forbidden fruit: [^n] even as we see great personages by treason do not only hurt themselves, but also stain their blood, and disgrace their posterity.
 
-*Q.* What hurt comes to man by his ſin?  
-*A.* [^o] He is continually ſubiect to the curſe of God in his life time, in the end of his life, and after this life.
+**Q.** What hurt comes to man by his sin?  
+**A.** He is continually subject to the curse of God in his life time, in the end of his life, and after this life. [^o]
 
-*Q.* What is the curſe of God in this life?  
-*A.* [^p] In the bodie diſeaſes, aches, paines: in the ſoule, blindnes, hardnes of heart, horror of conſcience, in goods, hinderances, and loſſes: in name ignominie and reproch: laſtly, in the whole man, *bondage* vnder Sathan the prince of darkeneſſe.
+**Q.** What is the curse of God in this life?  
+**A.** In the body, diseases, aches, pains; in the soul, blindness, hardness of heart, horror of conscience; in goods, hinderances, and losses; in name, ignominy and reproach; lastly, in the whole man, bondage under Satan the prince of darkness. [^p]
 
-*Q.* What manner of *bondage is this?*  
-*A.* This *bondage* [^q] is when a man is the ſlaue of the diuell, and hath him to raigne in his heart as his God.
+**Q.** What manner of bondage is this?  
+**A.** This bondage is when a man is the slave of the devil, and hath him to reign in his heart as his God. [^q]
 
-*Q.* How may a man know whether Sathan be his God or not?  
-*A.* Hee may know it by this, if hee giue obedience to him in heart, and expreſſe it in his conuerſation.
+**Q.** How may a man know whether Satan be his God or not?  
+**A.** He may know it by this, if he give obedience to him in heart, and express it in his conversation.
 
-*Q.* And how ſhall a man perceiue this obedience?  
-*A.* If he [^r] take delight in the euill motions that Satan puts into his heart, and doe fulfill the luſts of the diuell.
+**Q.** And how shall a man perceive this obedience?  
+**A.** If he take delight in the evil motions that Satan puts into his heart, and do fulfill the lusts of the devil. [^r]
 
-*Q.* What is the curſe due to man in the end of this life:  
-*A.* [^ſ] Death, which is the ſeparation of bodie and ſoule.
+**Q.** What is the curse due to man in the end of this life?  
+**A.** Death, which is the separation of body and soul. [^s]
 
-*Q.* What is the curſe after this life?  
-*A.* [^t] Eternall damnation in hell fire, wherof euery man is guilty, and is in as great danger of it, as the traytor apprehended is in danger of hanging, drawing and quartering.
+**Q.** What is the curse after this life?  
+**A.** Eternal damnation in hell fire, whereof every man is guilty, and is in as great danger of it as the traitor apprehended is in danger of hanging, drawing and quartering. [^t]
 
-[^a]: Eph. 2. 1. 1 Tim. 5. 6.
+[^a]: Ephesians 2:1; 1 Timothy 5:6
 
-[^b]: 1 Ioh. 3. 4. Rom. 7. 7. Gal. 3. 10.
+[^b]: 1 John 3:4; Romans 7:7; Galatians 3:10
 
-[^c]: Col. 3. 9. Pſ. 51. 5.
+[^c]: Colossians 3:9; Psalm 51:5
 
-[^d]: Rom. 3. 10.
+[^d]: Romans 3:10
 
-[^e]: Gen. 6. 5. 1 Theſſ. 5. 23.
+[^e]: Genesis 6:5; 1 Thessalonians 5:23
 
-[^f]: 1 Cor. 2. 14. Rom. 8. 5.
+[^f]: 1 Corinthians 2:14; Romans 8:5
 
-[^g]: Tit. 1. 15. Eph. 4. 18, 19. Eſa. 57. 20.
+[^g]: Titus 1:15; Ephesians 4:18,19; Isaiah 57:20
 
-[^h]: Phil. 2. 13. Iob. 15. 16. 
+[^h]: Philippians 2:13; Job 15:16
 
-[^i]: Gal. 5. 24.
+[^i]: Galatians 5:24
 
-[^k]: Rom. 6. 19.
+[^k]: Romans 6:19
 
-[^l]: Gen. 6. 5.
+[^l]: Genesis 6:5
 
-[^m]: Ioh. 13. 2. Act. 5. 3. 1 Chr. 21. 1.
+[^m]: John 13:2; Acts 5:3; 1 Chronicles 21:1
 
-[^n]: Rom. 5. 17, 18, 19. Gen. 3.
+[^n]: Romans 5:17,18,19; Genesis 3
 
-[^o]: Gal. 3. 10.
+[^o]: Galatians 3:10
 
-[^p]: Deut. 28. 21, 22, 27, 65, 66, 67.
+[^p]: Deuteronomy 28:21-22,27,65-67.
 
-[^q]: Heb. 2. 14. Eph. 2. 2. 2 Cor 4. 4. Luk. 11. 14.
+[^q]: Hebrews 2:14; Ephesians 2:2; 2 Corinthians 4:4; Luk 11:14
 
-[^r]: Ioh. 8. 44. 1 Ioh. 3. 8.
+[^r]: John 8:44; 1 John 3:8
 
-[^ſ]: Rom. 5. 12.
+[^s]: Romans 5:12
 
-[^t]: Gal. 3. 10. Ro. 3. 19.
+[^t]: Galatians 3:10; Romans 3:19
