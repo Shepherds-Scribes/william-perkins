@@ -1,0 +1,290 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js rust">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Second Principle Expounded. - Six Principles</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="themes/themes.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "coal" : "rust";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html"><strong aria-hidden="true">1.</strong> Title</a></li><li class="chapter-item expanded "><a href="2-to-all-ignorant-people.html"><strong aria-hidden="true">2.</strong> To all ignorant people that desire to be instructed.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Foundation of Christian Religion Gathered Into Six Principles</li><li class="chapter-item expanded "><a href="3-the-first-principle.html"><strong aria-hidden="true">3.</strong> The First Principle.</a></li><li class="chapter-item expanded "><a href="4-the-second-principle.html"><strong aria-hidden="true">4.</strong> The Second Principle.</a></li><li class="chapter-item expanded "><a href="5-the-third-principle.html"><strong aria-hidden="true">5.</strong> The Third Principle.</a></li><li class="chapter-item expanded "><a href="6-the-fourth-principle.html"><strong aria-hidden="true">6.</strong> The Fourth Principle.</a></li><li class="chapter-item expanded "><a href="7-the-fifth-principle.html"><strong aria-hidden="true">7.</strong> The Fifth Principle.</a></li><li class="chapter-item expanded "><a href="8-the-sixth-principle.html"><strong aria-hidden="true">8.</strong> The Sixth Principle.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Exposition of the Principles</li><li class="chapter-item expanded "><a href="9-the-first-principle-expounded.html"><strong aria-hidden="true">9.</strong> The First Principle Expounded.</a></li><li class="chapter-item expanded "><a href="10-the-second-principle-expounded.html" class="active"><strong aria-hidden="true">10.</strong> The Second Principle Expounded.</a></li><li class="chapter-item expanded "><a href="11-the-third-principle-expounded.html"><strong aria-hidden="true">11.</strong> The Third Principle Expounded.</a></li><li class="chapter-item expanded "><a href="12-the-fourth-principle-expounded.html"><strong aria-hidden="true">12.</strong> The Fourth Principle Expounded.</a></li><li class="chapter-item expanded "><a href="13-the-fifth-principle-expounded.html"><strong aria-hidden="true">13.</strong> The Fifth Principle Expounded.</a></li><li class="chapter-item expanded "><a href="14-the-sixth-principle-expounded.html"><strong aria-hidden="true">14.</strong> The Sixth Principle Expounded.</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Six Principles</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins/edit/master/.//10-the-second-principle-expounded.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-second-principle-expounded"><a class="header" href="#the-second-principle-expounded">The Second Principle Expounded.</a></h1>
+<p><strong>Q.</strong> Let us now come to ourselves, and first tell me: What is the natural estate of man?<br />
+<strong>A.</strong> Every man is by nature dead in sin as a loathsome carrion, or as a dead corpse lieth rotting and stinking in the grave, having in him the seed of all sin. <sup class="footnote-reference"><a href="#a">1</a></sup></p>
+<p><strong>Q.</strong> What is sin?<br />
+<strong>A.</strong> Any breach of the law of God, if it be no more but the least want of that which the law requireth. <sup class="footnote-reference"><a href="#b">2</a></sup></p>
+<p><strong>Q.</strong> How many sorts of sin are there?<br />
+<strong>A.</strong> Sin is either the corruption of nature, or any evil actions that proceed of it, as fruits thereof. <sup class="footnote-reference"><a href="#c">3</a></sup></p>
+<p><strong>Q.</strong> In whom is the corruption of nature?<br />
+<strong>A.</strong> In all men none excepted. <sup class="footnote-reference"><a href="#d">4</a></sup></p>
+<p><strong>Q.</strong> In what part of man is it?<br />
+<strong>A.</strong> In every part both of body and soul, like as a leprosy that runneth from the crown of the head to the sole of the foot. <sup class="footnote-reference"><a href="#e">5</a></sup></p>
+<p><strong>Q.</strong> Shew me how every part of man is corrupted with sin?<br />
+<strong>A.</strong> First, in the mind there is nothing but ignorance and blindness concerning heavenly matters. <sup class="footnote-reference"><a href="#f">6</a></sup> Secondly, the conscience is defiled, being always either benumbed with sin, or else turmoiled with inward accusations and terrors. <sup class="footnote-reference"><a href="#g">7</a></sup> Thirdly, the will of man only willeth and lusteth after evil. <sup class="footnote-reference"><a href="#h">8</a></sup> Fourthly, the affections of the heart, as love, joy, hope, desire, &amp;c. are moved and stirred to that which is evil to embrace it, and they are never stirred unto that which is good, unless it be to eschew it. <sup class="footnote-reference"><a href="#i">9</a></sup> Lastly, the members of the body are the instruments and tools of the mind for the execution of sin. <sup class="footnote-reference"><a href="#k">10</a></sup></p>
+<p><strong>Q.</strong> What be those evil actions that are the fruits of this corruption?<br />
+<strong>A.</strong> Evil thoughts in the mind, which come either by a man's own conceiving, or by the suggestion of the devil; <sup class="footnote-reference"><a href="#l">11</a></sup> evil motions and lusts stirring in the heart; and from these arise evil words and deeds, when any occasion is given. <sup class="footnote-reference"><a href="#m">12</a></sup></p>
+<p><strong>Q.</strong> How cometh it to pass that all men are thus defiled with sin?<br />
+<strong>A.</strong> By Adam's infidelity and disobedience, in eating the forbidden fruit: <sup class="footnote-reference"><a href="#n">13</a></sup> even as we see great personages by treason do not only hurt themselves, but also stain their blood, and disgrace their posterity.</p>
+<p><strong>Q.</strong> What hurt comes to man by his sin?<br />
+<strong>A.</strong> He is continually subject to the curse of God in his life time, in the end of his life, and after this life. <sup class="footnote-reference"><a href="#o">14</a></sup></p>
+<p><strong>Q.</strong> What is the curse of God in this life?<br />
+<strong>A.</strong> In the body, diseases, aches, pains; in the soul, blindness, hardness of heart, horror of conscience; in goods, hinderances, and losses; in name, ignominy and reproach; lastly, in the whole man, bondage under Satan the prince of darkness. <sup class="footnote-reference"><a href="#p">15</a></sup></p>
+<p><strong>Q.</strong> What manner of bondage is this?<br />
+<strong>A.</strong> This bondage is when a man is the slave of the devil, and hath him to reign in his heart as his God. <sup class="footnote-reference"><a href="#q">16</a></sup></p>
+<p><strong>Q.</strong> How may a man know whether Satan be his God or not?<br />
+<strong>A.</strong> He may know it by this, if he give obedience to him in heart, and express it in his conversation.</p>
+<p><strong>Q.</strong> And how shall a man perceive this obedience?<br />
+<strong>A.</strong> If he take delight in the evil motions that Satan puts into his heart, and do fulfill the lusts of the devil. <sup class="footnote-reference"><a href="#r">17</a></sup></p>
+<p><strong>Q.</strong> What is the curse due to man in the end of this life?<br />
+<strong>A.</strong> Death, which is the separation of body and soul. <sup class="footnote-reference"><a href="#s">18</a></sup></p>
+<p><strong>Q.</strong> What is the curse after this life?<br />
+<strong>A.</strong> Eternal damnation in hell fire, whereof every man is guilty, and is in as great danger of it as the traitor apprehended is in danger of hanging, drawing and quartering. <sup class="footnote-reference"><a href="#t">19</a></sup></p>
+<div class="footnote-definition" id="a"><sup class="footnote-definition-label">1</sup>
+<p>Ephesians 2:1; 1 Timothy 5:6</p>
+</div>
+<div class="footnote-definition" id="b"><sup class="footnote-definition-label">2</sup>
+<p>1 John 3:4; Romans 7:7; Galatians 3:10</p>
+</div>
+<div class="footnote-definition" id="c"><sup class="footnote-definition-label">3</sup>
+<p>Colossians 3:9; Psalm 51:5</p>
+</div>
+<div class="footnote-definition" id="d"><sup class="footnote-definition-label">4</sup>
+<p>Romans 3:10</p>
+</div>
+<div class="footnote-definition" id="e"><sup class="footnote-definition-label">5</sup>
+<p>Genesis 6:5; 1 Thessalonians 5:23</p>
+</div>
+<div class="footnote-definition" id="f"><sup class="footnote-definition-label">6</sup>
+<p>1 Corinthians 2:14; Romans 8:5</p>
+</div>
+<div class="footnote-definition" id="g"><sup class="footnote-definition-label">7</sup>
+<p>Titus 1:15; Ephesians 4:18,19; Isaiah 57:20</p>
+</div>
+<div class="footnote-definition" id="h"><sup class="footnote-definition-label">8</sup>
+<p>Philippians 2:13; Job 15:16</p>
+</div>
+<div class="footnote-definition" id="i"><sup class="footnote-definition-label">9</sup>
+<p>Galatians 5:24</p>
+</div>
+<div class="footnote-definition" id="k"><sup class="footnote-definition-label">10</sup>
+<p>Romans 6:19</p>
+</div>
+<div class="footnote-definition" id="l"><sup class="footnote-definition-label">11</sup>
+<p>Genesis 6:5</p>
+</div>
+<div class="footnote-definition" id="m"><sup class="footnote-definition-label">12</sup>
+<p>John 13:2; Acts 5:3; 1 Chronicles 21:1</p>
+</div>
+<div class="footnote-definition" id="n"><sup class="footnote-definition-label">13</sup>
+<p>Romans 5:17,18,19; Genesis 3</p>
+</div>
+<div class="footnote-definition" id="o"><sup class="footnote-definition-label">14</sup>
+<p>Galatians 3:10</p>
+</div>
+<div class="footnote-definition" id="p"><sup class="footnote-definition-label">15</sup>
+<p>Deuteronomy 28:21-22,27,65-67.</p>
+</div>
+<div class="footnote-definition" id="q"><sup class="footnote-definition-label">16</sup>
+<p>Hebrews 2:14; Ephesians 2:2; 2 Corinthians 4:4; Luk 11:14</p>
+</div>
+<div class="footnote-definition" id="r"><sup class="footnote-definition-label">17</sup>
+<p>John 8:44; 1 John 3:8</p>
+</div>
+<div class="footnote-definition" id="s"><sup class="footnote-definition-label">18</sup>
+<p>Romans 5:12</p>
+</div>
+<div class="footnote-definition" id="t"><sup class="footnote-definition-label">19</sup>
+<p>Galatians 3:10; Romans 3:19</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="9-the-first-principle-expounded.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="11-the-third-principle-expounded.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="9-the-first-principle-expounded.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="11-the-third-principle-expounded.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
