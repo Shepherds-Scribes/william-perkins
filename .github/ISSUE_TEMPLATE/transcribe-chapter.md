@@ -1,7 +1,7 @@
 ---
 name: Transcribe Chapter
 about: Represents a single chapter (or similar unit of writing) to be transcribed
-title: ''
+title: "[TRANSCRIBE] book_title - chapter_title"
 labels: transcription
 assignees: ''
 

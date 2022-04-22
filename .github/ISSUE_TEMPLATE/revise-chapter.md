@@ -1,7 +1,7 @@
 ---
 name: Revise Chapter
 about: Updating spelling, etc. in a transcribed chapter
-title: ''
+title: "[REVISE] book_title - chapter_title"
 labels: revision
 assignees: ''
 
