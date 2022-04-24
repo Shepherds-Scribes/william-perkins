@@ -1,6 +1,8 @@
 # The Works of William Perkins
 
-[Published site](https://shepherds-scribes.github.io/william-perkins/)
+A [King's Quill](https://kingsquill.org/) project.
+
+[Published site](https://perkins.kingsquill.org/)
 
 <img alt="Portrait of William Perkins by an unknown artist" src="site/src/_assets/william-perkins.jpg" align="right" style="width: 30%;" />
 
