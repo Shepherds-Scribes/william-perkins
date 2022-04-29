@@ -9,17 +9,20 @@ for (const book of books) {
   try {
     const bookToml = require(`../markdown/${book}/book.toml`);
     const summary = fs.readFileSync(`../markdown/${book}/SUMMARY.md`).toString();
-    const name = summary.match(/# (.+)\n/)[1] ?? book;
+    const link = 'https://read.kingsquill.org' + bookToml?.output?.html?.['site-url'];
+    const title = summary.match(/# (.+)\n/)[1] ?? book;
     const allChapters = summary.match(/\]\(/g)?.length ?? 0;
     const blankChapters = summary.match(/\]\(\)/g)?.length ?? 0;
     const doneChapters = (allChapters - blankChapters);
     const progress = (doneChapters === 1) ? 0 : Math.round((doneChapters / allChapters) * 100) // Don't count the title page if it's the only one
     stats.push({
-      name,
-      link: bookToml['site-url'],
-      summary: bookToml.book.summary,
+      title,
+      link,
+      author: bookToml?.book?.authors?.join(', '),
+      summary: bookToml?.book?.summary,
       progress,
       done: progress === 100,
+      transcription: Boolean(link.includes('/t/')),
       status: progress === 0 ? 'Not Started' :
         progress === 100 ? 'Done' :
           'In Progress'
@@ -30,7 +33,7 @@ for (const book of books) {
 }
 
 stats.sort((a, b) => {
-  const result = a.name.localeCompare(b.name);
+  const result = a.title.localeCompare(b.title);
   return result;
 })
 
