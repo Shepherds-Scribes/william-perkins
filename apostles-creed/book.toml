@@ -1,0 +1,19 @@
+[book]
+title = "An Exposition of the Apostles' Creed"
+authors = ["William Perkins"]
+language = "en"
+multilingual = false
+src = "./"
+summary = "Containing the order of the causes of Salvation and Damnation, according to God's word. A view whereof is to be seen in the Table annexed. Hereunto is adjoined the order which Mr. Theodore Beza used in comforting afflicted consciences."
+
+[build]
+build-dir = "../../../dist/apostles-creed"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/glitchassassin/william-perkins"
+edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
+site-url = "/apostles-creed"
+additional-css = ["themes/themes.css"]
+no-section-label = true

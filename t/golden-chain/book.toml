@@ -4,6 +4,7 @@ authors = ["William Perkins"]
 language = "en"
 multilingual = false
 src = "./"
+summary = "Containing the order of the cauſes of Saluation and Damnation, according to Gods word. A view whereof is to be ſeene in the Table annexed. Hereunto is adioyned the order which M. Theodore Beza vſed in comforting afflicted conſciences."
 
 [build]
 build-dir = "../../../dist/t/golden-chain"
