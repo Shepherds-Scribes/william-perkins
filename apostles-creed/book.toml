@@ -4,7 +4,7 @@ authors = ["William Perkins"]
 language = "en"
 multilingual = false
 src = "./"
-summary = "An Exposition of the Symbol, or Creed of the Apostles: According to the Tenor of the Scripture, and the Consent of Orthodox Fathers of the Church."
+summary = "An exposition of the Symbol, or Creed of the Apostles, according to the tenor of the Scripture, and the consent of orthodox Fathers of the Church."
 
 [build]
 build-dir = "../../../dist/apostles-creed"
