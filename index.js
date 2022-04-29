@@ -41,4 +41,4 @@ try {
   fs.mkdirSync('dist');
 } catch { }
 
-fs.writeFileSync('dist/stats.json', JSON.stringify(stats));
+fs.writeFileSync('dist/books.json', JSON.stringify(stats));
