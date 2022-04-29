@@ -13,6 +13,6 @@ default-theme = "rust"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/glitchassassin/william-perkins"
 edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
-site-url = "/william-perkins/t/golden-chain"
+site-url = "/t/golden-chain"
 additional-css = ["themes/themes.css"]
 no-section-label = true
