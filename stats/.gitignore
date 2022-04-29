@@ -1,0 +1,4 @@
+dist
+node_modules
+src/_includes/css
+src/_data/transcriptions.json

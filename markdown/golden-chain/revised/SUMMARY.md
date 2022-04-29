@@ -1,4 +1,4 @@
-# The Golden Chain (Transcription)
+# The Golden Chain
 
 - [Title](1-title.md)
 - [To the Chriſtian Reader.]()

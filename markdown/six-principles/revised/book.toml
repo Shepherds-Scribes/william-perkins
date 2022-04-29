@@ -4,6 +4,7 @@ authors = ["William Perkins"]
 language = "en"
 multilingual = false
 src = "./"
+summary = "\"To bring you to true knowledge, unfeigned faith, and sound repentance, here I have set down the principal points of Christian religion in six plain and easy rules - even such as the simplest may easily learn - and hereunto is adjoined an exposition of them word by word.\" - William Perkins"
 
 [build]
 build-dir = "../../../dist/six-principles"
@@ -13,5 +14,5 @@ default-theme = "rust"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/glitchassassin/william-perkins"
 edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
-site-url = "/william-perkins/six-principles"
+site-url = "/six-principles"
 additional-css = ["themes/themes.css"]

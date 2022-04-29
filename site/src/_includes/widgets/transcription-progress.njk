@@ -1,9 +1,0 @@
-{% macro transcriptionProgress(title, link, status, progress = '0') %}
-  <a href="{{link}}" class="transcription-progress">
-    <h3>{{ title }}</h3>
-    <div class="status">Status: {{ status }}</div>
-    <div class="progress">
-      <span style="width: {{progress}}%;">&nbsp;</span>
-    </div>
-  </a>
-{% endmacro %}
