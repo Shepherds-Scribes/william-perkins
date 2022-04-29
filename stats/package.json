@@ -1,0 +1,16 @@
+{
+  "name": "works-of-william-perkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "toml-require": "^1.2.0"
+  }
+}

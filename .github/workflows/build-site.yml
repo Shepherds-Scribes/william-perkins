@@ -13,7 +13,7 @@ env:
   CARGO_TERM_COLOR: always
 
 jobs:
-  site:
+  stats:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -21,16 +21,16 @@ jobs:
       with:
         node-version: 16.x
         cache: 'npm'
-        cache-dependency-path: ./site/package-lock.json
+        cache-dependency-path: ./stats/package-lock.json
     - run: npm ci
-      working-directory: ./site
+      working-directory: ./stats
     - run: npm run build
-      working-directory: ./site
-    - name: Publish site
+      working-directory: ./stats
+    - name: Publish stats
       uses: actions/upload-artifact@v3
       with:
-        name: site
-        path: dist
+        name: stats
+        path: stats/dist
   books:
     runs-on: ubuntu-latest
     steps:
@@ -56,14 +56,13 @@ jobs:
   publish:
     if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
-    needs: [site, books]
+    needs: [books]
     steps:
     - uses: actions/checkout@v3
     - uses: actions/download-artifact@v3
     - name: Collate
       run: |
         cp -r -T books/ ./dist
-        cp -r -T site/ ./dist
         touch ./dist/.nojekyll
     - name: Publish
       uses: JamesIves/github-pages-deploy-action@v4.3.0
