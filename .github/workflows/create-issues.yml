@@ -16,6 +16,7 @@ jobs:
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PREV_CHAPTER: ${{ steps.filterChapter.outputs.PREV_CHAPTER}}
+          PREV_CHAPTER: ${{ steps.filterChapter.outputs.PREV_CHAPTER }}
+          TRANSCRIPTION: ${{ github.event.issue.html_url }}
         with:
           filename: .github/AUTO_ISSUE_TEMPLATE/revise-chapter.md

@@ -1,13 +1,13 @@
 ---
 name: Revise Chapter
 about: Updating spelling, etc. in a transcribed chapter
-title: "[REVISE] {{ PREV_TITLE }}"
+title: "[REVISE] {{ env.PREV_TITLE }}"
 labels: revision
 assignees: ''
 
 ---
 
-**Transcription:** {{ issue.html_url }}
+**Transcription:** {{ env.TRANSCRIPTION }}
 
 ## Guidelines
 
