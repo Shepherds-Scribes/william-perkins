@@ -1,19 +1,19 @@
 [book]
-title = "An Exposition of the Lord's Prayer (Transcribed)"
+title = "An Exposition of the Lord's Prayer"
 authors = ["William Perkins"]
 language = "en"
 multilingual = false
 src = "./"
-summary = "An expoſition of the Lord's Prayer, in the way of catechizing, ſerving for ignorant people. Hereunto are adioyned the prayers of PAVL, taken out of his Epiſtles."
+summary = "An exposition of the Lord's Prayer, in the way of catechizing, serving for ignorant people. Hereunto are adjoined the prayers of Paul, taken out of his Epistles."
 
 [build]
-build-dir = "../../../dist/t/lords-prayer"
+build-dir = "../../../dist/lords-prayer"
 
 [output.html]
 default-theme = "rust"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/glitchassassin/william-perkins"
 edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
-site-url = "/t/lords-prayer"
+site-url = "/lords-prayer"
 additional-css = ["themes/themes.css"]
 no-section-label = true
