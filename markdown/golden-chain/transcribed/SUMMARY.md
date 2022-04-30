@@ -1,7 +1,7 @@
 # The Golden Chain (Transcription)
 
 - [Title](1-title.md)
-- [To the Chriſtian Reader.]()
+- [To the Chriſtian Reader.](2-to-the-christian-reader.md)
 - [An Ocular Catechiſme]()
 
 ---
