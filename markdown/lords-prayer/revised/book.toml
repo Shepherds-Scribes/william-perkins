@@ -1,19 +1,19 @@
 [book]
-title = "An Exposition of the Apostles' Creed"
+title = "An Exposition of the Lord's Prayer"
 authors = ["William Perkins"]
 language = "en"
 multilingual = false
 src = "./"
-summary = "An exposition of the Symbol, or Creed of the Apostles, according to the tenor of the Scripture, and the consent of orthodox Fathers of the Church."
+summary = "An exposition of the Lord's Prayer, in the way of catechizing, serving for ignorant people. Hereunto are adjoined the prayers of Paul, taken out of his Epistles."
 
 [build]
-build-dir = "../../../dist/apostles-creed"
+build-dir = "../../../dist/lords-prayer"
 
 [output.html]
 default-theme = "rust"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/glitchassassin/william-perkins"
 edit-url-template = "https://github.com/glitchassassin/william-perkins/edit/master/{path}"
-site-url = "/apostles-creed"
+site-url = "/lords-prayer"
 additional-css = ["themes/themes.css"]
 no-section-label = true

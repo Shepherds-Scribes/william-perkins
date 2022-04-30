@@ -1,4 +1,4 @@
-# An Exposition of the Lord's Prayer (Transcribed)
+# An Exposition of the Lord's Prayer
 
 - [Title](1-title.md)
 - [To the Right Honourable Edward, Lord Russell, Earl of Bedford: Grace and Peace be Multiplied.]()

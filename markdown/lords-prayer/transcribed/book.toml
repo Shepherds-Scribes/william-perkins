@@ -4,7 +4,7 @@ authors = ["William Perkins"]
 language = "en"
 multilingual = false
 src = "./"
-summary = ""
+summary = "An expoſition of the Lord's Prayer, in the way of catechizing, ſerving for ignorant people. Hereunto are adioyned the prayers of PAVL, taken out of his Epiſtles."
 
 [build]
 build-dir = "../../../dist/t/lords-prayer"
