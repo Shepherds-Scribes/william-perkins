@@ -10,7 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: filterChapter
-        run: echo "::set-output name=PREV_CHAPTER::${{ github.event.issue.title }}" | sed "s/\[.+\] //g"
+        run: |
+          echo "::debug::${{ github.event.issue.title }}" | sed "s/\[.*\] //g"
+          echo "::set-output name=PREV_CHAPTER::${{ github.event.issue.title }}" | sed "s/\[.*\] //g"
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
