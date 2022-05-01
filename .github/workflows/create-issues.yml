@@ -10,14 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: filterChapter
-        run: |
-          echo "::echo::on"
-          echo "::debug::$(echo "${{ github.event.issue.title }}" | sed "s/\[.*\] //g")"
-          echo "::set-output name=PREV_CHAPTER::$(echo "${{ github.event.issue.title }}" | sed "s/\[.*\] //g")"
+        run: echo "::set-output name=PREV_TITLE::$(echo "${{ github.event.issue.title }}" | sed "s/\[.*\] //g")"
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PREV_CHAPTER: ${{ steps.filterChapter.outputs.PREV_CHAPTER }}
+          PREV_TITLE: ${{ steps.filterChapter.outputs.PREV_TITLE }}
           TRANSCRIPTION: ${{ github.event.issue.html_url }}
         with:
           filename: .github/AUTO_ISSUE_TEMPLATE/revise-chapter.md
