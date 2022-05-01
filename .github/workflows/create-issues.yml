@@ -11,8 +11,9 @@ jobs:
       - uses: actions/checkout@v3
       - id: filterChapter
         run: |
-          echo "::debug::$(echo \"${{ github.event.issue.title }}\" | sed \"s/\\[.*\\] //g\")"
-          echo "::set-output name=PREV_CHAPTER::$(echo \"${{ github.event.issue.title }}\" | sed \"s/\\[.*\\] //g\")"
+          echo "::echo::on"
+          echo "::debug::$(echo "${{ github.event.issue.title }}" | sed "s/\[.*\] //g")"
+          echo "::set-output name=PREV_CHAPTER::$(echo "${{ github.event.issue.title }}" | sed "s/\[.*\] //g")"
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
