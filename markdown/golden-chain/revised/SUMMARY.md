@@ -1,12 +1,12 @@
 # The Golden Chain
 
 - [Title](1-title.md)
-- [To the Christian Reader]()
+- [To the Christian Reader](2-to-the-christian-reader.md)
 - [An Ocular Catechism]()
 
 ---
 
-- [I. Of the Body of Scripture, and Theology]()
+- [I. Of the Body of Scripture, and Theology](4-body-of-scripture-theology.md)
 - [II. Of God, and the Nature of God]()
 - [III. Of the Life of God]()
 - [IV. Of God's Glory and Blessedness]()
