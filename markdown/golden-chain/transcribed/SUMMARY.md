@@ -7,7 +7,7 @@
 ---
 
 - [I. Of the body of Scripture, and Theology.](4-body-of-scripture-theology.md)
-- [II. Of God, and the nature of God.]()
+- [II. Of God, and the nature of God.](5-god-nature-of-god.md)
 - [III. Of the life of God.]()
 - [IV. Of Gods glorie, and bleſſedneſſe.]()
 - [V. Concerning the perſons of the Godhead.]()
