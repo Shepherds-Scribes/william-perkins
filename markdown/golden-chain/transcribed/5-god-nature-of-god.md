@@ -2,11 +2,11 @@
 
 THat there is a God, it is euident, 1. by the courſe of nature: 2. by the nature of the ſoule of man: 3. by the diſtinction of things honeſt and diſhoneſt: 4. by the terror of conſcience: 5. by the regiment of ciuill ſocieties: 6. the order of all cauſes hauing euer recourſe to ſome former beginning: 7. the determination of all things to their ſeuerall ends: 8. the conſent of all men well in their wits.
 
-God is Iehouah Elohim, Exod. 6. 2, 3. *And Elohim ſpake vnto Moſes, and ſaid vnto him, I am Iehouah: and I appeared vnto Abraham, to Iſaac, and to Iacob, by the name of God Almighty, but by my name* Iehouah, *was I not knowne vnto them.* Exod. 3. 13. *If they ſay vnto me, what is his name? What ſhall I ſay vnto them? And God anſwered Moſes,* I am that I am: *Alſo he ſaid, thus ſhalt thou ſay vnto the children of Iſrael,* I am *hath ſent me vnto you. And God ſpake further to Moſes, Thus halt thou ſay vnto the children of Iſrael,* Iehouah Elohim, &c. *hath ſent me vnto you.* In theſe words, the firſt title of God, declareth his Nature, the ſecond his Perſons.
+God is Iehouah Elohim, Exod. 6. 2, 3. *And Elohim ſpake vnto Moſes, and ſaid vnto him, I am Iehouah: and I appeared vnto Abraham, to Iſaac, and to Iacob, by the name of God Almighty, but by my name* Iehouah, *was I not knowne vnto them.* Exod. 3. 13. *If they ſay vnto me, what is his name? What ſhall I ſay vnto them? And God anſwered Moſes,* I am that I am: *Alſo he ſaid, thus ſhalt thou ſay vnto the children of Iſrael,* I am *hath ſent me vnto you. And God ſpake further to Moſes, Thus ſhalt thou ſay vnto the children of Iſrael,* Iehouah Elohim, &c. *hath ſent me vnto you.* [^1] In theſe words, the firſt title of God, declareth his Nature, the ſecond his Perſons.
 
 The nature of God, is his moſt liuely and moſt perfect eſſence.
 
-The perfection of the nature of God, is the abſolute conſtitution thereof, whereby it is wholly complete within it ſelfe, Exod. 3. 13. *I am that I am,* Act. 17. 24. *God that made the world, and all things that are therin, ſeeing that he is the Lord of heauen and earth, dwelleth not in temples made with hands, neyther is worſhipped with mens hands,* as though hee needed any thing; *ſeeing he giueth to all life and breath, and all things.*
+The perfection of the nature of God, is the abſolute conſtitution thereof, whereby it is wholly complete within it ſelfe, Exod. 3. 13. *I am that I am,* [^2] Act. 17. 24. *God that made the world, and all things that are therin, ſeeing that he is the Lord of heauen and earth, dwelleth not in temples made with hands, neyther is worſhipped with mens hands,* as though hee needed any thing; *ſeeing he giueth to all life and breath, and all things.* [^3]
 
 The perfection of his Nature, is either Simpleneſſe, or the Infiniteneſſe thereof.
 
@@ -24,6 +24,11 @@ Gods eternity, is that by which he is without beginning and ending. Pſal. 90. 2
 
 Gods exceeding greatnes, is that by which his incomprehenſible nature is euery where preſent, both within & without the world. Pſ. 145. 3. *Great is the Lord & worthy to be praiſed and his greatneſſe is incomprehenſible.* 1. King. 8. 27. *Is it true indeede that God will dwell on the earth? Behold the heauens, and the heauens of heauens are not able to containe thee: how much leſſe is this houſe that I haue built?* Ier. 23. 24. *Doe not I fill the heauen and earth, ſaith the Lord?* Hence it is plaine.
 
-Firſt that he is onely one, and that indiuiſible, not many, Eph. 4. 5. *One Lord, one faith, one baptiſme, one God and Father of all,* Deut. 4. 35. *Vnto thee it was ſhewed, that thou mighteſt know that the Lord he is God, and that there is none but he alone.* 1. Cor. 8. 4. *We know that an idol is nothing in the world, and that there is none other God but one:* and there can be but one thing infinite in nature.
+Firſt, that he is onely one, and that indiuiſible, not many, Eph. 4. 5. *One Lord, one faith, one baptiſme, one God and Father of all,* Deut. 4. 35. *Vnto thee it was ſhewed, that thou mighteſt know that the Lord he is God, and that there is none but he alone.* 1. Cor. 8. 4. *We know that an idol is nothing in the world, and that there is none other God but one:* and there can be but one thing infinite in nature.
 
-Secondly, that God is the knower of the heart. For nothing is hidden from that nature, which is within all things, and without all things, which is included in nothing, nor excluded from any thing. Becauſe. 1. *King.* 8. 39. *The Lord ſearcheth all hearts, and vnderſtandeth euery worke of the minde.* Pſal. 139. 1, 2. *Thou knoweſt my ſitting downe, and my riſing vp, thou vnderſtandeſt my cogitation afarre off.*
+Secondly, that God is the knower of the heart. For nothing is hidden from that nature, which is within all things, and without all things, which is included in nothing, nor excluded from any thing. Becauſe. 1. *King.* 8. 39. *The Lord ſearcheth all hearts, and vnderſtandeth euery worke of the minde.* Pſal. 139. 1, 2. *Thou knoweſt my ſitting downe, and my riſing vp, thou vnderſtandeſt my cogitation afarre off.* [^4]
+
+[^1]: Transcriber's note: All three verses were quoted, but original reference only cited verse 13.
+[^2]: Transcriber's note: Likely intended to be Ex. 3. 14.
+[^3]: Transcriber's note: Both verses were quoted, but original reference only cited verse 24.
+[^4]: Transcriber's note: Original reference included verse 1, but only verse 2 was quoted.
