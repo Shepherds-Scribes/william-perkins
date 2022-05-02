@@ -1,0 +1,7 @@
+# Of the life of God.
+
+HItherto we hau ſpoken of the perfection of Gods nature: Now followeth the life of GOD, by which the Diuine Nature is in perpetuall action, liuing, and moouing in it ſelfe. Pſal. 42. 2. *My ſoule thirſteth for God, euen for the liuing God, when ſhall I come and appeare before the preſence of God?* Heb. 3. 12. *See there be not at any time in any of you an euill heart to depart from the liuing God.*
+
+The diuine Nature, is eſpecially in perpetuall operation by three attributes, the which doe manifeſt the operation of God towards his creatures. Theſe are his Wiſedome, Will, and Omnipotencie.
+
+The wiſedome or knowledge of God, is that by the which God doth, not by certaine notions abſtracted from the things themſelues, but by his owne eſſence: nor ſucceſsiuely and by diſcourſe of reaſon, but by one eternall and immutable act of vnderſtanding, diſtinctly and perfectly know himſelfe, and all other things, though infinite, whether they haue bin or not. Math. 11. 27. *No man knoweth the Sonne but the Father, nor the Father but the Sonne, and he to whom the Sonne will reueale him.* Heb. 4. 13. *There is nothing created, which is not manifeſt in his fight: but all things are naked and open to his eyes, with whom we haue to do,* Pſal. 147:5. *His wiſedome is infinite.
