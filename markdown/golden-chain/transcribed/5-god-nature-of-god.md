@@ -29,6 +29,9 @@ Firſt, that he is onely one, and that indiuiſible, not many, Eph. 4. 5. *One L
 Secondly, that God is the knower of the heart. For nothing is hidden from that nature, which is within all things, and without all things, which is included in nothing, nor excluded from any thing. Becauſe. 1. *King.* 8. 39. *The Lord ſearcheth all hearts, and vnderſtandeth euery worke of the minde.* Pſal. 139. 1, 2. *Thou knoweſt my ſitting downe, and my riſing vp, thou vnderſtandeſt my cogitation afarre off.* [^4]
 
 [^1]: Transcriber's note: All three verses were quoted, but original reference only cited verse 13.
+
 [^2]: Transcriber's note: Likely intended to be Ex. 3. 14.
+
 [^3]: Transcriber's note: Both verses were quoted, but original reference only cited verse 24.
+
 [^4]: Transcriber's note: Original reference included verse 1, but only verse 2 was quoted.

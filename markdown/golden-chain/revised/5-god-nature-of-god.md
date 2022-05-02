@@ -117,6 +117,9 @@ Secondly, that God is the knower of the heart. For nothing is hidden from that n
 > Thou knowest my sitting down, and my rising up, thou understandest my cogitation afar off.
 
 [^1]: Transcriber's note: All three verses were quoted, but original reference only cited verse 13.
+
 [^2]: Transcriber's note: Original reference was Exodus 3:13.
+
 [^3]: Transcriber's note: Both verses were quoted, but original reference only cited verse 24.
+
 [^4]: Transcriber's note: Original reference included verse 1, but only verse 2 was quoted.
