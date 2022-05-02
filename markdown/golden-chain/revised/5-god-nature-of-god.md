@@ -33,7 +33,7 @@ The perfection of the nature of God, is the absolute constitution thereof, where
 
 The perfection of his nature, is either simpleness, or the infiniteness thereof.
 
-The Simpleness of his nature, is that by which he is void of all logical relation in arguments. He hath not in him subject or adjunct.
+The simpleness of his nature, is that by which he is void of all logical relation in arguments. He hath not in him subject or adjunct.
 
 > John 5:26  
 > As the Father hath life in himself, so hath he given to the Son to have life in himself...
@@ -44,7 +44,7 @@ The Simpleness of his nature, is that by which he is void of all logical relatio
 > 1 John 1:5,7 
 > God is *light,* and in him is no darkness... But if we walk in the light, as he is light...
 
-Hence it is manifest that to have Life, and to be Life: to be in Light, and to be Light, in God are all one. Neither is God subject to generality, or speciality; whole, or parts; matter or that which is made of matter: for so there should be in God divers things, and one more perfect than another. Therefore, whatsoever is in God, is his essence, and all that he is, he is by essence. The saying of Augustine in his 6th book and 4th chapter of the Trinity, is fit to prove this: "In God," saith he, "to be, and to be just or mighty, are all one: but in the mind of man, it is not all one to be, and to be mighty, or just: for the mind may be destitute of these virtues, and yet a mind."
+Hence it is manifest that to have life, and to be life: to be in light, and to be light, in God are all one. Neither is God subject to generality, or speciality; whole, or parts; matter or that which is made of matter: for so there should be in God divers things, and one more perfect than another. Therefore, whatsoever is in God, is his essence, and all that he is, he is by essence. The saying of Augustine in his 6th book and 4th chapter of the Trinity, is fit to prove this: "In God," saith he, "to be, and to be just or mighty, are all one: but in the mind of man, it is not all one to be, and to be mighty, or just: for the mind may be destitute of these virtues, and yet a mind."
 
 Hence it is manifest that the nature of God is immutable and spiritual.
 
@@ -108,7 +108,7 @@ First, that he is only one, and that indivisible, not many:
 
 And there can be but one thing infinite in nature.
 
-Secondly, that God is the knower of the heart. For nothing is hidden from that nature, which is within all things, and without all things, which is included in nothing, nor excluded from any thing. Because: 
+Secondly, that God is the knower of the heart. For nothing is hidden from that nature, which is within all things, and without all things, which is included in nothing, nor excluded from anything. Because: 
 
 > 1 Kings 8:39  
 > The Lord searcheth all hearts, and understandeth every work of the mind.
