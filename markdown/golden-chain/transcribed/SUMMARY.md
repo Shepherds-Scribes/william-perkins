@@ -10,7 +10,7 @@
 - [II. Of God, and the nature of God.](5-god-nature-of-god.md)
 - [III. Of the life of God.](6-life-of-god.md)
 - [IV. Of Gods glorie, and bleſſedneſſe.](7-gods-glory-blessedness.md)
-- [V. Concerning the perſons of the Godhead.]()
+- [V. Concerning the perſons of the Godhead.](8-concerning-persons-godhead.md)
 - [VI. Of Gods workes, and his decree.]()
 - [VII. Of Predeſtination and Creation.]()
 - [VIII. Of Angels.]()
