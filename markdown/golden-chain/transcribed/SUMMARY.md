@@ -11,7 +11,7 @@
 - [III. Of the life of God.](6-life-of-god.md)
 - [IV. Of Gods glorie, and bleſſedneſſe.](7-gods-glory-blessedness.md)
 - [V. Concerning the perſons of the Godhead.](8-concerning-persons-godhead.md)
-- [VI. Of Gods workes, and his decree.]()
+- [VI. Of Gods workes, and his decree.](9-gods-works-his-decree.md)
 - [VII. Of Predeſtination and Creation.]()
 - [VIII. Of Angels.]()
 - [IX. Of man, and the eſtate of Innocencie.]()
