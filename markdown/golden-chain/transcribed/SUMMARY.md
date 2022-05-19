@@ -12,7 +12,7 @@
 - [IV. Of Gods glorie, and bleſſedneſſe.](7-gods-glory-blessedness.md)
 - [V. Concerning the perſons of the Godhead.](8-concerning-persons-godhead.md)
 - [VI. Of Gods workes, and his decree.](9-gods-works-his-decree.md)
-- [VII. Of Predeſtination and Creation.]()
+- [VII. Of Predeſtination and Creation.](10-predestination-creation.md)
 - [VIII. Of Angels.]()
 - [IX. Of man, and the eſtate of Innocencie.]()
 - [X. Of Sinne, and the fall of Angels.]()
