@@ -1,0 +1,15 @@
+# Of Angels.
+
+THe Angels each of them being created in the beginning, were ſetled in an vpright eſtate. In whome theſe things are to be noted: Firſt, their nature. Angels are ſpirituall and incorporall eſſences. Heb. 2. 16. *For he in no ſort tooke the Angels, but he tooke the ſeede of Abraham.* Heb. 1. 7. *And of the Angels, he ſaith, He maketh the ſpirits his meſſengers, and his Miniſters a flame of fire.*
+
+Secondly, their qualities. Firſt, they are wiſe, 2. Sam. 14. 17. *My Lord the king is euen as an Angel of God in hearing good and bad.* 2. They are of great might. 2. Theſſ. 1. 7. *When the Lord Ieſus ſhall ſhew himſelfe from heauen with his mighty Angels.* 2. Sam. 24. 17. *Dauid ſaw the Angel that ſmote the people.* 2. King. 19. 35. *The ſame night the Angel of the Lord went out and ſmote in the campe of Aſhur, an hundreth, foureſcore, and fiue thouſand.* 3. They are ſwift and of great agilitie, Eſa. 6. 6. *Then flew one of the Seraphins vnto mee with an hot cole in his hand.* Dan. 9. 21. *The man Gabriel whom I had ſeene before in a viſion, came flying and touched mee.* This is the reaſon why the Cherubins in the Tabernacle were painted with wings.
+
+Thirdly, they are innumerable. Gen. 32. 1. *Now Iacob went fourth on his iourney; and the Angels of God met him.* Dan. 7. 10. *Thouſand thouſands miniſtred vnto him, and tenne thouſand thouſands ſtood before him.* Matth. 26. 53. *Thinkeſt thou I cannot pray to my Father, and he will giue me more than twelue legions of angels?* Heb. 12. 22. *To the companie of innumerable angels.*
+
+Fourthly, they are in the higheſt heauen, where they euer attend vpon God, and haue ſocietie with him. Math. 18. 10. *In heauen their Angels alwaies behold the face of my Father which is in heauen.* Pſal. 68. 17. *The chariots of God are twentie thouſand thouſand Angels, and the Lord is among them.* Mark. 12. 25. *But are as Angels in heauen.*
+
+Fiftly, their degree. That there are degrees of Angels, it is moſt plaine. Col. 1. 16. *By him were all things created, which are in heauen, and in earth, things viſible and inuiſible: whether they be thrones, or dominions, or principalities, or powers.* Rom. 8. 38. *Neither angels, nor principalities, nor powers, &c.* 1. Theſſ. 4. 16. *The Lord ſhall deſcend with the voice of the Archangell, and with the trumpet of God.* But it is not for vs to ſearch who, or how many be of each order; neither ought we curiouſly to inquire how they are diſtinguiſhed, whether in eſſence, gifts, or offices, Col. 2. 18. *Let no man at his pleaſure beare rule ouer you by humbleneſſe of minde, and worſhipping of Angels, aduancing himſelfe in thoſe things which he neuer ſaw.*
+
+Sixtly, their office. Their office is partly to magnifie God, & partly to performe his commandements. Pſal. 103. 20, 21. *Praiſe the Lord, ye his Angels that excell in ſtrength, that doe his commandement in obeying the voice of his word. Praiſe the Lord, all ye his hoſtes, ye his ſeruants that doe his pleaſure.*
+
+Seauenthly: the eſtabliſhing of ſome Angels in that integritie, in which they were created.

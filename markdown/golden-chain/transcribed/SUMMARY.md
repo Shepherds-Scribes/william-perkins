@@ -13,7 +13,7 @@
 - [V. Concerning the perſons of the Godhead.](8-concerning-persons-godhead.md)
 - [VI. Of Gods workes, and his decree.](9-gods-works-his-decree.md)
 - [VII. Of Predeſtination and Creation.](10-predestination-creation.md)
-- [VIII. Of Angels.]()
+- [VIII. Of Angels.](11-angels.md)
 - [IX. Of man, and the eſtate of Innocencie.]()
 - [X. Of Sinne, and the fall of Angels.]()
 - [XI. Of mans fall and diſobedience.]()
