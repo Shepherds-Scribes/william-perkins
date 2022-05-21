@@ -2,7 +2,7 @@
 
 A [King's Quill](https://kingsquill.org/) project.
 
-[Published site](https://perkins.kingsquill.org/)
+[Published site](https://kingsquill.org/authors/william-perkins/)
 
 <img alt="Portrait of William Perkins by an unknown artist" src="site/src/_assets/william-perkins.jpg" align="right" style="width: 30%;" />
 
