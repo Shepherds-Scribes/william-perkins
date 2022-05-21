@@ -31,7 +31,7 @@ The foreknowledge of God is that by which he most assuredly foreseeth all things
 > Romans 8:29  
 > Those which he knew before, he also predestinated to be made like to the image of his Son.
 
-This is not properly spoken of God, but by reason of men to whom things are past or to come.
+This is not properly spoken of God, but by reason of men, to whom things are past or to come.
 
 The counsel of God is that by the which he doth most rightly perceive the best reason of all things that are done. 
 
@@ -112,10 +112,10 @@ God's mercy is that by which he freely assisteth all his creatures in their mise
 
 God's justice is that by which he in all things willeth that which is just.
 
-> Psalm 11:7
+> Psalm 11:7  
 > The just Lord loveth justice.
 
-> Psalm 5:4
+> Psalm 5:4  
 > For thou art not a God that loveth wickedness.
 
 God's justice is in word or deed.
@@ -172,7 +172,7 @@ God's anger is that by which he willeth the punishment of the creature offending
 > John 3:36  
 > He that obeyeth not the Son, shall not see life, but the wrath of God abideth on him.
 
-Thus much concerning the will of GOD; now followeth his omnipotence.
+Thus much concerning the will of God; now followeth his omnipotence.
 
 God's omnipotence is that by which he is most able to perform every work. 
 

@@ -3,7 +3,7 @@
 The persons are they which, subsisting in one Godhead, are distinguished by incommunicable properties. 
 
 > 1 John 5:7  
-> There are three that bear record in heaven, the Father, the Word, and the holy Ghost, and these three are one.  
+> There are three that bear record in heaven, the Father, the Word, and the Holy Ghost, and these three are one.  
 
 > Genesis 19:24  
 > Then Jehovah rained upon Sodom, and upon Gomorrah, brimstone, and fire from Jehovah in heaven.
@@ -58,7 +58,7 @@ The incommunicable property of the Father is to be unbegotten, to be a Father, a
 > Romans 11:36  
 > For of him, and through him, and for him, are all things.
 
-The other two persons have the Godhead, or the whole divine essence, of the Father by communication: namely, the Son and the holy Ghost.
+The other two persons have the Godhead, or the whole divine essence, of the Father by communication: namely, the Son and the Holy Ghost.
 
 The Son is the second person, begotten of the Father from all eternity. 
 
@@ -89,7 +89,7 @@ This sending taketh not away the equality of essence, and power, but declareth t
 > Philippians 2:6  
 > Who being in the form of God, thought it no robbery to be equal with God.
 
-For this cause also he is "the WORD of the Father," not a vanishing, but essential word, because as a word is, as it were, begotten of the mind, so is the Son begotten of the Father; and also, because he bringeth glad tidings from the bosom of his Father. \[See\] Nazianzen in his *Oration of the Son,* and Basil in his preface before John's Gospel.
+For this cause also he is "the Word of the Father," not a vanishing, but essential word, because as a word is, as it were, begotten of the mind, so is the Son begotten of the Father; and also, because he bringeth glad tidings from the bosom of his Father. See Nazianzen in his *Oration of the Son,* and Basil in his preface before John's Gospel.
 
 The property of the Son is to be begotten.
 

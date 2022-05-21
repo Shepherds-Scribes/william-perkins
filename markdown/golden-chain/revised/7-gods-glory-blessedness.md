@@ -23,7 +23,7 @@ By this we see, that God only can know himself perfectly.
 
 Notwithstanding there is a certain manifestation of God's glory: partly more obscure, partly more apparent.
 
-The more obscure manifestation is the vision of God's majesty in this life, by the eyes of the mind through the help of things perceived by outward senses. 
+The more obscure manifestation is the vision of God's majesty in this life, by the eyes of the mind, through the help of things perceived by outward senses. 
 
 > Isaiah 6:1  
 > I saw the Lord sitting upon an high throne, and lifted up, and the lower parts thereof filled the Temple.

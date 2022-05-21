@@ -1,15 +1,83 @@
 # Of Angels.
 
-THe Angels each of them being created in the beginning, were ſetled in an vpright eſtate. In whome theſe things are to be noted: Firſt, their nature. Angels are ſpirituall and incorporall eſſences. Heb. 2. 16. *For he in no ſort tooke the Angels, but he tooke the ſeede of Abraham.* Heb. 1. 7. *And of the Angels, he ſaith, He maketh the ſpirits his meſſengers, and his Miniſters a flame of fire.*
+The Angels, each of them being created in the beginning, were settled in an upright state. In whom these things are to be noted: First, their nature. Angels are spiritual and incorporeal essences. 
 
-Secondly, their qualities. Firſt, they are wiſe, 2. Sam. 14. 17. *My Lord the king is euen as an Angel of God in hearing good and bad.* 2. They are of great might. 2. Theſſ. 1. 7. *When the Lord Ieſus ſhall ſhew himſelfe from heauen with his mighty Angels.* 2. Sam. 24. 17. *Dauid ſaw the Angel that ſmote the people.* 2. King. 19. 35. *The ſame night the Angel of the Lord went out and ſmote in the campe of Aſhur, an hundreth, foureſcore, and fiue thouſand.* 3. They are ſwift and of great agilitie, Eſa. 6. 6. *Then flew one of the Seraphins vnto mee with an hot cole in his hand.* Dan. 9. 21. *The man Gabriel whom I had ſeene before in a viſion, came flying and touched mee.* This is the reaſon why the Cherubins in the Tabernacle were painted with wings.
+> Hebrews 2:16  
+> For he in no sort took the Angels, but he took the seed of Abraham.
 
-Thirdly, they are innumerable. Gen. 32. 1. *Now Iacob went fourth on his iourney; and the Angels of God met him.* Dan. 7. 10. *Thouſand thouſands miniſtred vnto him, and tenne thouſand thouſands ſtood before him.* Matth. 26. 53. *Thinkeſt thou I cannot pray to my Father, and he will giue me more than twelue legions of angels?* Heb. 12. 22. *To the companie of innumerable angels.*
+> Hebrews 1:7  
+> And of the Angels, he saith, He maketh the spirits his messengers, and his Ministers a flame of fire.
 
-Fourthly, they are in the higheſt heauen, where they euer attend vpon God, and haue ſocietie with him. Math. 18. 10. *In heauen their Angels alwaies behold the face of my Father which is in heauen.* Pſal. 68. 17. *The chariots of God are twentie thouſand thouſand Angels, and the Lord is among them.* Mark. 12. 25. *But are as Angels in heauen.*
+Secondly, their qualities. First, they are wise: 
 
-Fiftly, their degree. That there are degrees of Angels, it is moſt plaine. Col. 1. 16. *By him were all things created, which are in heauen, and in earth, things viſible and inuiſible: whether they be thrones, or dominions, or principalities, or powers.* Rom. 8. 38. *Neither angels, nor principalities, nor powers, &c.* 1. Theſſ. 4. 16. *The Lord ſhall deſcend with the voice of the Archangell, and with the trumpet of God.* But it is not for vs to ſearch who, or how many be of each order; neither ought we curiouſly to inquire how they are diſtinguiſhed, whether in eſſence, gifts, or offices, Col. 2. 18. *Let no man at his pleaſure beare rule ouer you by humbleneſſe of minde, and worſhipping of Angels, aduancing himſelfe in thoſe things which he neuer ſaw.*
+> 2 Samuel 14:17  
+> My Lord the king is even as an Angel of God in hearing good and bad.
 
-Sixtly, their office. Their office is partly to magnifie God, & partly to performe his commandements. Pſal. 103. 20, 21. *Praiſe the Lord, ye his Angels that excell in ſtrength, that doe his commandement in obeying the voice of his word. Praiſe the Lord, all ye his hoſtes, ye his ſeruants that doe his pleaſure.*
+They are of great might: 
 
-Seauenthly: the eſtabliſhing of ſome Angels in that integritie, in which they were created.
+> 2 Thessalonians 1:7  
+> When the Lord Jesus shall shew himself from heaven with his mighty Angels.
+
+> 2 Samuel 24:17 
+> David saw the Angel that smote the people.
+
+> 2 Kings 19:35  
+> The same night the Angel of the Lord went out and smote in the camp of Ashur, an hundred, fourscore, and five thousand.
+
+They are swift and of great agility: 
+
+> Isaiah 6:6  
+> Then flew one of the Seraphims unto me with an hot coal in his hand.
+
+> Daniel 9:21  
+> The man Gabriel whom I had seen before in a vision, came flying and touched me.
+
+This is the reason why the Cherubims in the Tabernacle were painted with wings.
+
+They are innumerable: 
+
+> Genesis 32:1  
+> Now Jacob went forth on his journey; and the Angels of God met him.
+
+> Daniel 7:10  
+> Thousand thousands ministered unto him, and ten thousand thousands stood before him.
+
+> Matthew 26:53  
+> Thinkest thou I cannot pray to my Father, and he will give me more than twelve legions of angels?
+
+> Hebrews 12:22  
+> To the company of innumerable angels.
+
+They are in the highest heaven, where they ever attend upon God, and have society with him:
+
+> Matthew 18:10  
+> In heaven their Angels always behold the face of my Father which is in heaven.
+
+> Psalm 68:17  
+> The chariots of God are twenty thousand thousand Angels, and the Lord is among them.
+
+> Mark 12:25  
+> But are as Angels in heaven.
+
+That there are degrees of Angels, it is most plain:
+
+> Colossians 1:16  
+> By him were all things created, which are in heaven, and in earth, things visible and invisible: whether they be thrones, or dominions, or principalities, or powers.
+
+> Romans 8:38  
+> Neither angels, nor principalities, nor powers...
+
+> 1 Thessalonians 4:16  
+> The Lord shall descend with the voice of the Archangel, and with the trumpet of God.
+
+But it is not for us to search who, or how many be of each order; neither ought we curiously to inquire how they are distinguished, whether in essence, gifts, or offices:
+
+> Colossians 2:18  
+Let no man at his pleasure bear rule over you by humbleness of mind, and worshipping of Angels, advancing himself in those things which he never saw.
+
+Their office is partly to magnify God, and partly to perform his commandments:
+
+> Psalm 103:20,21  
+> Praise the Lord, ye his Angels that excel in strength, that do his commandment in obeying the voice of his word. Praise the Lord, all ye his hosts, ye his servants that do his pleasure.
+
+Finally, the establishing of some Angels in that integrity in which they were created.
