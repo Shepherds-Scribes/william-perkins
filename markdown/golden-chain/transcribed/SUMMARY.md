@@ -17,7 +17,7 @@
 - [IX. Of man, and the eſtate of Innocencie.](12-man-state-innocence.md)
 - [X. Of Sinne, and the fall of Angels.](13-sin-fall-angels.md)
 - [XI. Of mans fall and diſobedience.](14-mans-fall-disobedience.md)
-- [XII. Of Originall ſinne.]()
+- [XII. Of Originall ſinne.](15-original-sin.md)
 - [XIII. Of actuall ſinne.]()
 - [XIV. Of the common puniſhment of ſinne.]()
 - [XV. Of Election, and of Ieſus Chriſt the foundation thereof.]()

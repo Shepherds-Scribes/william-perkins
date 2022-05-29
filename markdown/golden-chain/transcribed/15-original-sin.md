@@ -1,0 +1,55 @@
+# Of Originall ſinne.
+
+OVt of the former transgreſsion ariſeth another, namely Originall ſinne, which is corruption ingendred in our firſt conception, whereby euery facultie of ſoule and body is prone and diſpoſed to euill. Pſal. 51. 5. *I was borne in iniquity, and in ſin hath my mother conceiued me.* Gen. 6. 5. Tit. 3. 3. *We our ſelues were in times paſt unwiſe, diſobedient, deceiued: ſeruing the luſts and diuers pleaſures, liuing in malitiouſnes and enuy, hatefull, and hating one another.* Heb. 12. 1. *Let vs caſt away euery thing that preſſeth down, and the ſin that hangeth ſo faſt on.*
+
+By this we ſee, that ſin is not a corruption of mans ſubſtance, but onely of faculties: otherwiſe neither could mens ſoules be immortall, nor Chriſt take vpon him mans nature.
+
+All *Adams* poſterity is equally partaker of this corruption: the reaſon why it ſheweth not it ſelfe equally in all, is becauſe ſome haue the ſpirit of ſanctification, ſome the ſpirit onely to bridle corruption, ſome neither.
+
+The propagation of ſinne, from the parents to the children, is eyther becauſe the ſoule is infected by the contagion of the body, as a good ointment by a fuſtie veſſell; or becauſe God, in the very moment of creation and infuſion of ſoules into infants, doth vtterly forſake them. For as *Adam* receiued the image of God, both for himſelfe and others: ſo did he loſe it for himſelfe and others.
+
+But whereas the propagation of ſinne is as a common fire in a towne, men are not ſo much to ſearch how it came, as to bee carefull how to extinguiſh it.
+
+That wee may the better know Originall ſinne in the ſeuerall faculties of mans nature, three circumſtances muſt be conſidered.
+
+1\. How much of Gods image wee yet retaine. 2. How much ſinne man receiued from *Adam.* 3. The increaſe thereof afterward.
+
+I. In the minde. The remnant of Gods image, is certaine notions concerning good & euill: as, that there is a God, and that the ſame God puniſheth tranſgreſsions: that there is an euerlaſting life: that wee muſt reuerence our ſuperiours, and not harme our neighbours. But euen theſe notions, they are both general and corrupt, and haue none other vſe, but to bereaue man of all excuſe before Gods iudgement ſeate. Rom. 1. 19, 20. *That which may be knowne concerning God, is manifeſt in them: for God hath ſhewed it vnto them. For the inuiſible things of him, that is, his eternall power and Godhead, are ſeene by the creation of the world, being conſidered in his workes, to the intent they ſhould be without excuſe.*
+
+Mens mindes receiued from *Adam*: I. Ignorance, namely a want, or rather a depriuation of knowledge in the things of God, whether they concerne his ſincere worſhip, or eternall happineſſe. 1. Cor. 2. 14. *The naturall man perceiueth not the things of the ſpirit of God, for they are fooliſhneſſe vnto him, neither can hee know them, becauſe they are ſpiritually diſcerned.* Rom. 8. 7. *The wiſedome of the fleſh is enmity to God, for it is not ſubiect to the law of God, neither indeede can be.*
+
+II. Impotency, whereby the minde of it ſelfe is vnable to vnderſtand ſpirituall things, though they be taught. Luk. 24. 45. *Then opened he their vnderſtanding, that they might vnderſtand the Scriptures.* 2. Cor. 3. 5. *Not that we are ſufficient of our ſelues, to thinke anything as of our ſelues: but our ſufficiency is of God.*
+
+III. Vanity, in that the minde thinketh falſhood truth, and truth falſhood. Epheſ. 4. 17. *Walke no more as other Gentiles, in the vanity of your vnderſtanding.* 1. Cor. 1. 21. *It pleaſed God by the fooliſhneſſe of preaching, to ſaue thoſe which beleeue.* 23. *We preach Chriſt crucified, to the Iewes a ſtumbling blocke, but to the Grecians fooliſhneſſe.* Prou. 14. 12. *There is a way which ſeemeth good in the eyes of men, but the end thereof is death.*
+
+IV. A naturall inclination onely to conceiue and deuiſe the thing which is euill. Gen. 6. 5. *The Lord ſaw that the wickendes of men was great vpon earth, and all the imaginations of the thoughts of the heart were onely euill continually,* Ierem. 4. 22. *They are wiſe to doe euill, but to doe well they haue no knowledge.*
+
+Hence it is apparent, that the originall, and as I may ſay, the matter of al hereſies, is naturally ingrafted in mans nature. This is worthy the obſeruation of ſtudents in diuinity.
+
+The increaſe of ſinne in the vnderſtanding, is 1. a reprobate ſenſe, when GOD withdraweth the light of nature. *Iohn* 12. 40. *Hee hath blinded their eyes, and hardned their hearts, leſt they ſhould ſee with their eies, and vnderſtand with their hearts, and I ſhould heale them, and they be conuerted.* Rom. 1. 28. *As they regarded not to know God, ſo God deliuered them vp vnto a reprobate minde, to doe thoſe things which are not conuenient.* 2. The ſpirit of ſlumber. Rom. 11. 8. *God hath giuen them the ſpirit of ſlumber, &c.* 3. A ſpiritual drunkennes. Eſa. 29. 9. *They are drunken, but not with wine, they ſtagger, but not with ſtrong drinke.* 4. Strong illuſions. 2. Theſſ. 2. 11. *God ſhall ſend them ſtrong illuſions, and they ſhall beleeue lies.*
+
+The remnant of Gods image in the conſcience, is an obſeruing and watchfull power, like the eye of a keeper, reſerued in man partly to reprooue, partly to repreſſe the vnbrideled courſe of his affections. Roman. 2. 15. *Which ſhew the effect of the law written in their hearts, their conſcience alſo bearing witnes, and their thoughts accuſing one another, or excuſing.*
+
+That which the conſcience hath receiued of *Adam,* is the impurenes thereof. Tit. 1. 15. *To them that are defiled and vnbeleeuing nothing is pure, but euen their mindes and conſciences are defiled.* This impurity hath three effects: the firſt, is to excuſe ſinne; as if a man ſerue God outwardly, hee will excuſe and cloake his inward impiety. Mark. 10. 19, 20. *Thou knoweſt the commandements, Thou ſhalt not, &c. Then he anſwered, and ſaid, Maſter all theſe things haue I obſerued from my youth.* Againe, it excuſeth intents not warranted in Gods word. 1. *Chr.* 13. 9. *When they came to the threſhing floore of Chidon, Vzza put forth his hand to hold the Arke, for the oxen did ſhake it.*
+
+The ſecond, is to accuſe and terrifie for doing good. This wee may ſee in ſuperſtitious idolaters, who are grieued when they omit to performe counterfeit and idolatrous worſhip to their gods. Coloſſ. 2. 21, 22. *Touch not, taſte not, handle not, which all periſh with vſing, and are after the commaundements and doctrines of men.* Eſay. 29. 13. *And their feare toward mee was taught them by the precepts of men.*
+
+The third, is to accuſe add terrifie for ſinne, Gen. 50. 15. *When Ioſephs brethren ſaw that their father was dead, they ſaid, It may bee that Ioſeph will hate vs, & wil pay vs againe all the euill which we did vnto him.* Ioh. 8. 9. *And when they heard it, being accuſed by their own conſciences, they went out one by one.* 1. Ioh. 3. 20. *If our heart códemne vs, God is greater then our heart.* Though the conſcience ſhall accuſe a man truly, yet that will not argue any holineſſe in it: which appeareth, in that *Adam* in his innocency had a good, yet no accuſing conſcience.
+
+Impureneſſe increaſed in the conſcience, is firſt ſuch a ſenſles numnes, as that it can hardly accuſe man of ſinne. Eph. 4. 19. *Who being paſt feeling haue giuen themſelues to wantonneſſe, to worke all vncleanneſſe, euen with greedineſſe.* 1. Tim. 4. 2. *Hauing their conſciences burned with an hot yron.* This ſenſleſneſſe ſpringeth from a cuſtome in ſinning. 1. Sam. 25. 37. *Then in the morning when the wine was gone out of Nabal, his wife told him thoſe words, and his heart died within him, and he was like a ſtone.*
+
+II. Some grieuous horror, and terrour of the conſcience. Gen. 4. 14. *Behold thou haſt caſt me this day from the earth, & from thy face ſhall I be hid.* and ver. 13. *My puniſhment is greater then I can beare.* The Symptomes of this diſeaſe, are blaſphemies, trembling of body, fearefull dreames. Act. 24. 26. [^1] *And as he diſputed of righteouſnes, and temperance, and the iudgment to come, Felix trembled, &c.* Dan. 5. 6. *Then the Kings countenance was changed, and his thoughts troubled him, ſo that the ioynts of his loynes were looſed, and his knees ſmote one againſt the other.*
+
+In the will, the remnant of Gods image, is a free choiſe. Firſt, in euery natural action, belonging to each liuing creature, as to nouriſh, to engender, to mooue, to perceiue. Secondly, in euery humane actió, that is, ſuch as belong to all men; and therefore man hath free-will in outward actions, whether they concerne manners, a family, or the common-wealth, albeit, both in the choice and refuſall of them, it bee very weake. Rom. 2. 14. *The Gentiles which haue not the law, by nature do thoſe things which are of the law.*
+
+The will receiued. I. An impotencie, whereby it cannot will, or ſo much as luſt after that, which is indeede good; that is, which may pleaſe, and bee acceptable to God. 1. Cor. 2. 14. *The naturall man perceiueth not the things of the ſpirit of God, for they are fooliſhneſſe vnto him: neither can hee know them, becauſe they are ſpiritually diſcerned,* Rom. 5. 6. *Chriſt, when we were yet of no ſtrength, at his time died for the vngodly.* 2. Tim. 2. 26. Phil. 2. 13. *It is God which worketh in you both the will and the deede, euen of his good pleaſure.*
+
+II. An inward rebellion, whereby it vtterly abhorreth that which is good, deſiring and willing that alone which is euill.
+
+By this it appeareth, that the will is no agent, but a meere patient in the firſt acte of conuerſion to God; and that by it ſelfe it can neither beginne that conuerſion, or any other inward and ſound obedience due to Gods law.
+
+That which the affections receiue, is a diſorder, by which they therefore are not well affected, becauſe they eſchew that which is good, add purſue that which is euill. Galat. 5. 24. *They that are Chriſts, haue crucified the fleſh with the affections and luſts thereof.* Rom. 1. 26. *Therefore God gaue them ouer to filthy luſts.* 1. Kin. 22. 8. *The king of Iſrael ſaid vnto Jehoſaphat Yet is there one of whom thou maieſt take counſell, but him I hate, &c.* and 21. 4. *Therefore Achab came home to his houſe diſcontented and angry for the word which Nabal ſpake vnto him, and he laid himſelfe on his bed, turning away his face leſt he ſhould eate meate.*
+
+That which the body hath receiued, is I. fitneſſe to beginne ſinne. This doth the body in tranſporting all obiects and occaſions of ſinne to the ſoule. Gen. 3. 6. *The woman ſeeing that the tree was good for meat, and pleaſant to the eyes, &c. tooke of the fruit thereof, and did eate.* II. A fitneſſe to execute ſinne, ſo ſoone as the heart hath begunne it. Rom. 6. 13. *Neither giue your members as weapons of iniustice to ſinne.* and verſe 19. *As you haue giuen your members as seruants to vncleanneſſe and iniquity, to commit iniquity, &c.*
+
+[^1]: Transcriber's note: likely intended to be Act. 24. 25.
