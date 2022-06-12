@@ -14,7 +14,7 @@
 - [VI. Of God's Works and His Decree](9-gods-works-his-decree.md)
 - [VII. Of Predestination and Creation](10-predestination-creation.md)
 - [VIII. Of Angels](11-angels.md)
-- [IX. Of Man and the State of Innocence]()
+- [IX. Of Man and the State of Innocence](12-man-state-innocence.md)
 - [X. Of Sin and the Fall of Angels]()
 - [XI. Of Man's Fall and Disobedience]()
 - [XII. Of Original Sin]()
