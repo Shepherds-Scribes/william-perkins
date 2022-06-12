@@ -19,7 +19,7 @@
 - [XI. Of mans fall and diſobedience.](14-mans-fall-disobedience.md)
 - [XII. Of Originall ſinne.](15-original-sin.md)
 - [XIII. Of actuall ſinne.](16-actual-sin.md)
-- [XIV. Of the common puniſhment of ſinne.]()
+- [XIV. Of the common puniſhment of ſinne.](17-common-punishment-sin.md)
 - [XV. Of Election, and of Ieſus Chriſt the foundation thereof.]()
 - [XVI. Of the Vnion of the two natures in Chriſt.]()
 - [XVII. Of the diſtinction of both Natures.]()
