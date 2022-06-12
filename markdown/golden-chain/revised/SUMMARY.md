@@ -15,7 +15,7 @@
 - [VII. Of Predestination and Creation](10-predestination-creation.md)
 - [VIII. Of Angels](11-angels.md)
 - [IX. Of Man and the State of Innocence](12-man-state-innocence.md)
-- [X. Of Sin and the Fall of Angels]()
+- [X. Of Sin and the Fall of Angels](13-sin-fall-angels.md)
 - [XI. Of Man's Fall and Disobedience]()
 - [XII. Of Original Sin]()
 - [XIII. Of Actual Sin]()
