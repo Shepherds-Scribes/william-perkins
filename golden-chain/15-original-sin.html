@@ -1,0 +1,439 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js rust">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>XII. Of Original Sin - The Golden Chain</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="themes/themes.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "coal" : "rust";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html">Title</a></li><li class="chapter-item expanded "><a href="2-to-the-christian-reader.html">To the Christian Reader</a></li><li class="chapter-item expanded "><div>An Ocular Catechism</div></li><li class="spacer"></li><li class="chapter-item expanded "><a href="4-body-of-scripture-theology.html">I. Of the Body of Scripture, and Theology</a></li><li class="chapter-item expanded "><a href="5-god-nature-of-god.html">II. Of God, and the Nature of God</a></li><li class="chapter-item expanded "><a href="6-life-of-god.html">III. Of the Life of God</a></li><li class="chapter-item expanded "><a href="7-gods-glory-blessedness.html">IV. Of God's Glory and Blessedness</a></li><li class="chapter-item expanded "><a href="8-concerning-persons-godhead.html">V. Concerning the Persons of the Godhead</a></li><li class="chapter-item expanded "><a href="9-gods-works-his-decree.html">VI. Of God's Works and His Decree</a></li><li class="chapter-item expanded "><a href="10-predestination-creation.html">VII. Of Predestination and Creation</a></li><li class="chapter-item expanded "><a href="11-angels.html">VIII. Of Angels</a></li><li class="chapter-item expanded "><a href="12-man-state-innocence.html">IX. Of Man and the State of Innocence</a></li><li class="chapter-item expanded "><a href="13-sin-fall-angels.html">X. Of Sin and the Fall of Angels</a></li><li class="chapter-item expanded "><a href="14-mans-fall-disobedience.html">XI. Of Man's Fall and Disobedience</a></li><li class="chapter-item expanded "><a href="15-original-sin.html" class="active">XII. Of Original Sin</a></li><li class="chapter-item expanded "><a href="16-actual-sin.html">XIII. Of Actual Sin</a></li><li class="chapter-item expanded "><a href="17-common-punishment-sin.html">XIV. Of the Common Punishment of Sin</a></li><li class="chapter-item expanded "><div>XV. Of Election, and of Jesus Christ the Foundation Thereof</div></li><li class="chapter-item expanded "><div>XVI. Of the Union of the Two Natures in Christ</div></li><li class="chapter-item expanded "><div>XVII. Of the Distinction of Both Natures</div></li><li class="chapter-item expanded "><div>XVIII. Of Christ's Nativity and Office</div></li><li class="chapter-item expanded "><div>XIX. Concerning the Outward Means of Executing the Decree of Election, and of the Decalogue</div></li><li class="chapter-item expanded "><div>XX. Of the First Commandment</div></li><li class="chapter-item expanded "><div>XXI. Of the Second Commandment</div></li><li class="chapter-item expanded "><div>XXII. Of the Third Commandment</div></li><li class="chapter-item expanded "><div>XXIII. Of the Fourth Commandment</div></li><li class="chapter-item expanded "><div>XXIV. Of the Fifth Commandment</div></li><li class="chapter-item expanded "><div>XXV. Of the Sixth Commandment</div></li><li class="chapter-item expanded "><div>XXVI. Of the Seventh Commandment</div></li><li class="chapter-item expanded "><div>XXVII. Of the Eighth Commandment</div></li><li class="chapter-item expanded "><div>XXVIII. Of the Ninth Commandment</div></li><li class="chapter-item expanded "><div>XXIX. Of the Tenth Commandment</div></li><li class="chapter-item expanded "><div>XXX. Of the Use of the Law</div></li><li class="chapter-item expanded "><div>XXXI. Of the Covenant of Grace</div></li><li class="chapter-item expanded "><div>XXXII. Of the Sacraments</div></li><li class="chapter-item expanded "><div>XXXIII. Of Baptism</div></li><li><ol class="section"><li class="chapter-item expanded "><div>The Sacramental Union of the Parts of Baptism</div></li></ol></li><li class="chapter-item expanded "><div>XXXIV. Of the Lord's Supper</div></li><li><ol class="section"><li class="chapter-item expanded "><div>The Sacramental Relation in the Lord's Supper</div></li></ol></li><li class="chapter-item expanded "><div>XXXV. Of the Degrees of Executing God's Decree of Election</div></li><li class="chapter-item expanded "><div>XXXVI. Concerning the First Degree of the Declaration of God's Love</div></li><li class="chapter-item expanded "><div>XXXVII. Concerning the Second Degree of the Declaration of God's Love</div></li><li class="chapter-item expanded "><div>XXXVIII. Concerning the Third Degree of the Declaration of God's Love</div></li><li class="chapter-item expanded "><div>XXXIX. Of Repentance and the Fruits Thereof</div></li><li class="chapter-item expanded "><div>XL. Of Christian Warfare</div></li><li class="chapter-item expanded "><div>XLI. Of the First Assault</div></li><li class="chapter-item expanded "><div>XLII. Of the Second Assault</div></li><li class="chapter-item expanded "><div>XLIII. Of the Third Assault</div></li><li class="chapter-item expanded "><div>XLIV. Of the Patient Bearing of the Cross</div></li><li class="chapter-item expanded "><div>XLV. Of Calling Upon God</div></li><li class="chapter-item expanded "><div>XLVI. Of Christian Apology and Martyrdom</div></li><li class="chapter-item expanded "><div>XLVII. Of Edification, and Alms Among the Faithful</div></li><li class="chapter-item expanded "><div>XLVIII. Concerning the Fourth Degree of the Declaration of God's love, and of the State of the Elect After This Life</div></li><li class="chapter-item expanded "><div>XLIX. Of the State of the Elect at the Last Day of Judgement</div></li><li class="chapter-item expanded "><div>L. Of the State of the Elect After Judgement</div></li><li class="chapter-item expanded "><div>LI. Concerning the Order of the Causes of Salvation, According to the Doctrine of the Church of Rome</div></li><li><ol class="section"><li class="chapter-item expanded "><div>The Distribution of the Causes of Salvation and Damnation, as the Church of Rome Would Have It</div></li></ol></li><li class="chapter-item expanded "><div>LII. Concerning the Decree of Reprobation</div></li><li class="chapter-item expanded "><div>LIII. Concerning the Execution of the Decree of Reprobation</div></li><li class="chapter-item expanded "><div>LIV. Concerning a New Devised Doctrine of Predestination</div></li><li class="chapter-item expanded "><div>LV. Of the State and Condition of the Reprobates When They are Dead</div></li><li class="chapter-item expanded "><div>LVI. Of the Condemnation of the Reprobates in the Last Judgement</div></li><li class="chapter-item expanded "><div>LVII. Of the State of the Reprobates in Hell</div></li><li class="chapter-item expanded "><div>LVIII. Of the Application of Predestination</div></li><li class="spacer"></li><li class="chapter-item expanded "><div>Comforting Such as are Troubled About Their Predestination</div></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Golden Chain</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/glitchassassin/william-perkins/edit/master/.//15-original-sin.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="of-original-sin"><a class="header" href="#of-original-sin">Of Original Sin</a></h1>
+<p>Out of the former transgression ariseth another, namely original sin, which is corruption engendered in our first conception, whereby every faculty of soul and body is prone and disposed to evil.</p>
+<blockquote>
+<p>Psalm 51:5<br />
+I was born in iniquity, and in sin hath my mother conceived me.</p>
+</blockquote>
+<p>See Genesis 6:5.</p>
+<blockquote>
+<p>Titus 3:3<br />
+We ourselves were in times past unwise, disobedient, deceived: serving the lusts and divers pleasures, living in maliciousness and envy, hateful, and hating one another.</p>
+</blockquote>
+<blockquote>
+<p>Hebrews 12:1<br />
+Let us cast away every thing that presseth down, and the sin that hangeth so fast on.</p>
+</blockquote>
+<p>By this we see that sin is not a corruption of man's substance, but only of faculties: otherwise neither could men's souls be immortal, nor Christ take upon him man's nature.</p>
+<p>All Adam's posterity is equally partaker of this corruption: the reason why it sheweth not itself equally in all is because some have the spirit of sanctification, some the spirit only to bridle corruption, some neither.</p>
+<p>The propagation of sin from the parents to the children is either because the soul is infected by the contagion of the body, as a good ointment by a fusty vessel; or because God, in the very moment of creation and infusion of souls into infants, doth utterly forsake them. For as Adam received the image of God, both for himself and others, so did he lose it for himself and others.</p>
+<p>But whereas the propagation of sin is as a common fire in a town, men are not so much to search how it came, as to be careful how to extinguish it.</p>
+<p>That we may the better know original sin in the several faculties of man's nature, three circumstances must be considered.</p>
+<ol>
+<li>How much of God's image we yet retain.</li>
+<li>How much sin man received from Adam.</li>
+<li>The increase thereof afterward.</li>
+</ol>
+<h2 id="in-the-mind"><a class="header" href="#in-the-mind">In the Mind</a></h2>
+<p>The remnant of God's image is certain notions concerning good &amp; evil: as, that there is a God, and that the same God punisheth transgressions; that there is an everlasting life; that we must reverence our superiors, and not harm our neighbours. But even these notions, they are both general and corrupt, and have none other use, but to bereave man of all excuse before God's judgement seat.</p>
+<blockquote>
+<p>Romans 1:19,20<br />
+That which may be known concerning God, is manifest in them: for God hath shewed it unto them. For the invisible things of him, that is, his eternal power and Godhead, are seen by the creation of the world, being considered in his works, to the intent they should be without excuse.</p>
+</blockquote>
+<p>Men's minds received from Adam:</p>
+<h3 id="i-ignorance"><a class="header" href="#i-ignorance">I. Ignorance</a></h3>
+<p>Namely a want, or rather a deprivation of knowledge in the things of God, whether they concern his sincere worship, or eternal happiness.</p>
+<blockquote>
+<p>1 Corinthians 2:14<br />
+The natural man perceiveth not the things of the spirit of God, for they are foolishness unto him, neither can he know them, because they are spiritually discerned.</p>
+</blockquote>
+<blockquote>
+<p>Romans 8:7<br />
+The wisdom of the flesh is enmity to God, for it is not subject to the law of God, neither indeed can be.</p>
+</blockquote>
+<h3 id="ii-impotency"><a class="header" href="#ii-impotency">II. Impotency</a></h3>
+<p>Whereby the mind of itself is unable to understand spiritual things, though they be taught.</p>
+<blockquote>
+<p>Luke 24:45<br />
+Then opened he their understanding, that they might understand the Scriptures.</p>
+</blockquote>
+<blockquote>
+<p>2 Corinthians 3:5<br />
+Not that we are sufficient of ourselves, to think anything as of ourselves: but our sufficiency is of God.</p>
+</blockquote>
+<h3 id="iii-vanity"><a class="header" href="#iii-vanity">III. Vanity</a></h3>
+<p>In that the mind thinketh falsehood truth, and truth falsehood.</p>
+<blockquote>
+<p>Ephesians 4:17<br />
+Walk no more as other Gentiles, in the vanity of your understanding.</p>
+</blockquote>
+<blockquote>
+<p>1 Corinthians 1:21,23<br />
+It pleased God by the foolishness of preaching, to save those which believe... We preach Christ crucified, to the Jews a stumbling block, but to the Grecians foolishness.</p>
+</blockquote>
+<blockquote>
+<p>Proverbs 14:12<br />
+There is a way which seemeth good in the eyes of men, but the end thereof is death.</p>
+</blockquote>
+<h3 id="iv-a-natural-inclination"><a class="header" href="#iv-a-natural-inclination">IV. A Natural Inclination</a></h3>
+<p>A natural inclination only to conceive and devise the thing which is evil.</p>
+<blockquote>
+<p>Genesis 6:5<br />
+The Lord saw that the wickedness of men was great upon earth, and all the imaginations of the thoughts of the heart were only evil continually...</p>
+</blockquote>
+<blockquote>
+<p>Jeremiah 4:22<br />
+They are wise to do evil, but to do well they have no knowledge.</p>
+</blockquote>
+<p>Hence it is apparent that the original, and as I may say, the matter of all heresies, is naturally ingrafted in man's nature. This is worthy the observation of students in divinity.</p>
+<p>The increase of sin in the understanding is:</p>
+<h3 id="i-a-reprobate-sense"><a class="header" href="#i-a-reprobate-sense">I. A Reprobate Sense</a></h3>
+<p>When God withdraweth the light of nature:</p>
+<blockquote>
+<p>John 12:40<br />
+He hath blinded their eyes, and hardened their hearts, lest they should see with their eyes, and understand with their hearts, and I should heal them, and they be converted.</p>
+</blockquote>
+<blockquote>
+<p>Romans 1:28<br />
+As they regarded not to know God, so God delivered them up unto a reprobate mind, to do those things which are not convenient.</p>
+</blockquote>
+<h3 id="ii-the-spirit-of-slumber"><a class="header" href="#ii-the-spirit-of-slumber">II. The Spirit of Slumber</a></h3>
+<blockquote>
+<p>Romans 11:8<br />
+God hath given them the spirit of slumber... </p>
+</blockquote>
+<h3 id="iii-a-spiritual-drunkenness"><a class="header" href="#iii-a-spiritual-drunkenness">III. A Spiritual Drunkenness</a></h3>
+<blockquote>
+<p>Isaiah 29:9<br />
+They are drunken, but not with wine, they stagger, but not with strong drink.</p>
+</blockquote>
+<h3 id="iv-strong-illusions"><a class="header" href="#iv-strong-illusions">IV. Strong Illusions.</a></h3>
+<blockquote>
+<p>2 Thessalonians 2:11<br />
+God shall send them strong illusions, and they shall believe lies.</p>
+</blockquote>
+<h2 id="in-the-conscience"><a class="header" href="#in-the-conscience">In the Conscience</a></h2>
+<p>The remnant of God's image in the conscience is an observing and watchful power, like the eye of a keeper, reserved in man partly to reprove, partly to repress the unbridled course of his affections.</p>
+<blockquote>
+<p>Romans 2:15<br />
+Which shew the effect of the law written in their hearts, their conscience also bearing witness, and their thoughts accusing one another, or excusing.</p>
+</blockquote>
+<p>That which the conscience hath received of Adam is the impureness thereof.</p>
+<blockquote>
+<p>Titus 1:15<br />
+To them that are defiled and unbelieving nothing is pure, but even their minds and consciences are defiled.</p>
+</blockquote>
+<p>This impurity hath three effects: </p>
+<h3 id="i-to-excuse-sin"><a class="header" href="#i-to-excuse-sin">I. To Excuse Sin</a></h3>
+<p>As, if a man serve God outwardly, he will excuse and cloak his inward impiety.</p>
+<blockquote>
+<p>Mark 10:19,20<br />
+Thou knowest the commandments, Thou shalt not... Then he answered, and said, Master all these things have I observed from my youth.</p>
+</blockquote>
+<p>Again, it excuseth intents not warranted in Gods word.</p>
+<blockquote>
+<p>1 Chronicles 13:9<br />
+When they came to the threshing floor of Chidon, Uzza put forth his hand to hold the Ark, for the oxen did shake it.</p>
+</blockquote>
+<h3 id="ii-to-accuse-and-terrify-for-doing-good"><a class="header" href="#ii-to-accuse-and-terrify-for-doing-good">II. To Accuse and Terrify for Doing Good</a></h3>
+<p>This we may see in superstitious idolaters, who are grieved when they omit to perform counterfeit and idolatrous worship to their gods.</p>
+<blockquote>
+<p>Colossians 2:21,22<br />
+Touch not, taste not, handle not, which all perish with using, and are after the commandments and doctrines of men.</p>
+</blockquote>
+<blockquote>
+<p>Isaiah 29:13<br />
+And their fear toward me was taught them by the precepts of men.</p>
+</blockquote>
+<h3 id="iii-to-accuse-and-terrify-for-sin"><a class="header" href="#iii-to-accuse-and-terrify-for-sin">III. To Accuse and Terrify for Sin</a></h3>
+<blockquote>
+<p>Genesis 50:15<br />
+When Joseph's brethren saw that their father was dead, they said, It may be that Joseph will hate us, and will pay us again all the evil which we did unto him.</p>
+</blockquote>
+<blockquote>
+<p>John 8:9<br />
+And when they heard it, being accused by their own consciences, they went out one by one.</p>
+</blockquote>
+<blockquote>
+<p>1 John 3:20<br />
+If our heart condemn us, God is greater then our heart.</p>
+</blockquote>
+<p>Though the conscience shall accuse a man truly, yet that will not argue any holiness in it: which appeareth, in that Adam in his innocency had a good, yet not accusing conscience.</p>
+<p>Impureness increased in the conscience, is first such a senseless numbness, as that it can hardly accuse man of sin.</p>
+<blockquote>
+<p>Ephesians 4:19<br />
+Who being past feeling have given themselves to wantonness, to work all uncleanness, even with greediness.</p>
+</blockquote>
+<blockquote>
+<p>1 Timothy 4:2<br />
+Having their consciences burned with an hot iron.</p>
+</blockquote>
+<p>This senselessness springeth from a custom in sinning.</p>
+<blockquote>
+<p>1 Samuel 25:37<br />
+Then in the morning when the wine was gone out of Nabal, his wife told him those words, and his heart died within him, and he was like a stone.</p>
+</blockquote>
+<p>Second, some grievous horror, and terror of the conscience.</p>
+<blockquote>
+<p>Genesis 4:13-14<br />
+My punishment is greater then I can bear... Behold thou hast cast me this day from the earth, and from thy face shall I be hid.</p>
+</blockquote>
+<p>The symptoms of this disease are blasphemies, trembling of body, fearful dreams. </p>
+<blockquote>
+<p>Acts 24:25 <sup class="footnote-reference"><a href="#1">1</a></sup><br />
+And as he disputed of righteousness, and temperance, and the judgment to come, Felix trembled...</p>
+</blockquote>
+<blockquote>
+<p>Daniel 5:6<br />
+Then the King's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against the other.</p>
+</blockquote>
+<h2 id="in-the-will"><a class="header" href="#in-the-will">In the Will</a></h2>
+<p>In the will, the remnant of God's image is a free choice. First, in every natural action, belonging to each living creature, as to nourish, to engender, to move, to perceive. Secondly, in every human action, that is, such as belong to all men; and therefore man hath free-will in outward actions, whether they concern manners, a family, or the common-wealth, albeit, both in the choice and refusal of them, it be very weak.</p>
+<blockquote>
+<p>Romans 2:14<br />
+The Gentiles which have not the law, by nature do those things which are of the law.</p>
+</blockquote>
+<p>The will received:</p>
+<h3 id="i-an-impotence"><a class="header" href="#i-an-impotence">I. An Impotence</a></h3>
+<p>Whereby it cannot will, or so much as lust after that, which is indeed good; that is, which may please, and be acceptable to God.</p>
+<blockquote>
+<p>1 Corinthians 2:14<br />
+The natural man perceiveth not the things of the spirit of God, for they are foolishness unto him: neither can he know them, because they are spiritually discerned.</p>
+</blockquote>
+<blockquote>
+<p>Romans 5:6<br />
+Christ, when we were yet of no strength, at his time died for the ungodly.</p>
+</blockquote>
+<p>See 2 Timothy 2:26.</p>
+<blockquote>
+<p>Philippians 2:13<br />
+It is God which worketh in you both the will and the deed, even of his good pleasure.</p>
+</blockquote>
+<h3 id="ii-an-inward-rebellion"><a class="header" href="#ii-an-inward-rebellion">II. An Inward Rebellion</a></h3>
+<p>Whereby it utterly abhorreth that which is good, desiring and willing that alone which is evil.</p>
+<p>By this it appeareth that the will is no agent, but a mere patient in the first act of conversion to God; and that by itself it can neither begin that conversion, or any other inward and sound obedience due to God's law.</p>
+<p>That which the affections receive is a disorder, by which they therefore are not well affected, because they eschew that which is good, and pursue that which is evil.</p>
+<blockquote>
+<p>Galatians 5:24<br />
+They that are Christ's, have crucified the flesh with the affections and lusts thereof.</p>
+</blockquote>
+<blockquote>
+<p>Romans 1:26<br />
+Therefore God gave them over to filthy lusts.</p>
+</blockquote>
+<blockquote>
+<p>1 Kings 22:8<br />
+The king of Israel said unto Jehosaphat Yet is there one of whom thou mayest take counsel, but him I hate... </p>
+</blockquote>
+<blockquote>
+<p>1 Kings 21:4<br />
+Therefore Achab came home to his house discontented and angry for the word which Nabal spake unto him, and he laid himself on his bed, turning away his face lest he should eat meat.</p>
+</blockquote>
+<h2 id="in-the-body"><a class="header" href="#in-the-body">In the Body</a></h2>
+<p>That which the body hath received is: </p>
+<h3 id="i-fitness-to-begin-sin"><a class="header" href="#i-fitness-to-begin-sin">I. Fitness to Begin Sin</a></h3>
+<p>This doth the body in transporting all objects and occasions of sin to the soul.</p>
+<blockquote>
+<p>Genesis 3:6<br />
+The woman seeing that the tree was good for meat, and pleasant to the eyes... took of the fruit thereof, and did eat.</p>
+</blockquote>
+<h3 id="ii-fitness-to-execute-sin"><a class="header" href="#ii-fitness-to-execute-sin">II. Fitness to Execute Sin</a></h3>
+<p>A fitness to execute sin, so soon as the heart hath begun it.</p>
+<blockquote>
+<p>Romans 6:13, 19<br />
+Neither give your members as weapons of injustice to sin... As you have given your members as servants to uncleanness and iniquity, to commit iniquity...</p>
+</blockquote>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>Transcriber's note: Original reference was Acts 24:26.</p>
+</div>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="14-mans-fall-disobedience.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="16-actual-sin.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="14-mans-fall-disobedience.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="16-actual-sin.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
