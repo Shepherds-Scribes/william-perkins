@@ -18,7 +18,7 @@
 - [X. Of Sin and the Fall of Angels](13-sin-fall-angels.md)
 - [XI. Of Man's Fall and Disobedience](14-mans-fall-disobedience.md)
 - [XII. Of Original Sin](15-original-sin.md)
-- [XIII. Of Actual Sin]()
+- [XIII. Of Actual Sin](16-actual-sin.md)
 - [XIV. Of the Common Punishment of Sin]()
 - [XV. Of Election, and of Jesus Christ the Foundation Thereof]()
 - [XVI. Of the Union of the Two Natures in Christ]()
