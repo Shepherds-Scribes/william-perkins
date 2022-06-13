@@ -22,7 +22,7 @@ II. Impotency, whereby the minde of it ſelfe is vnable to vnderſtand ſpiritua
 
 III. Vanity, in that the minde thinketh falſhood truth, and truth falſhood. Epheſ. 4. 17. *Walke no more as other Gentiles, in the vanity of your vnderſtanding.* 1. Cor. 1. 21. *It pleaſed God by the fooliſhneſſe of preaching, to ſaue thoſe which beleeue.* 23. *We preach Chriſt crucified, to the Iewes a ſtumbling blocke, but to the Grecians fooliſhneſſe.* Prou. 14. 12. *There is a way which ſeemeth good in the eyes of men, but the end thereof is death.*
 
-IV. A naturall inclination onely to conceiue and deuiſe the thing which is euill. Gen. 6. 5. *The Lord ſaw that the wickendes of men was great vpon earth, and all the imaginations of the thoughts of the heart were onely euill continually,* Ierem. 4. 22. *They are wiſe to doe euill, but to doe well they haue no knowledge.*
+IV. A naturall inclination onely to conceiue and deuiſe the thing which is euill. Gen. 6. 5. *The Lord ſaw that the wickednes of men was great vpon earth, and all the imaginations of the thoughts of the heart were onely euill continually,* Ierem. 4. 22. *They are wiſe to doe euill, but to doe well they haue no knowledge.*
 
 Hence it is apparent, that the originall, and as I may ſay, the matter of al hereſies, is naturally ingrafted in mans nature. This is worthy the obſeruation of ſtudents in diuinity.
 
