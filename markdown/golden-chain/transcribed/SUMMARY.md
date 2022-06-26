@@ -20,7 +20,7 @@
 - [XII. Of Originall ſinne.](15-original-sin.md)
 - [XIII. Of actuall ſinne.](16-actual-sin.md)
 - [XIV. Of the common puniſhment of ſinne.](17-common-punishment-sin.md)
-- [XV. Of Election, and of Ieſus Chriſt the foundation thereof.]()
+- [XV. Of Election, and of Ieſus Chriſt the foundation thereof.](18-election-jesus-christ-foundation-thereof.md)
 - [XVI. Of the Vnion of the two natures in Chriſt.]()
 - [XVII. Of the diſtinction of both Natures.]()
 - [XVIII. Of Chriſts Natiuitie and Office.]()
