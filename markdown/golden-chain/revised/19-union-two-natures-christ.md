@@ -2,7 +2,7 @@
 
 Now followeth the union of the two natures in Christ, which especially concerneth his mediation, for by this union it cometh to pass that his humanity did suffer death upon the cross, in such sort as he could neither be overcome nor perpetually overwhelmed by it. Three things belong to this uniting of natures.
 
-I. Conception, by which his humane nature was by the wonderful power and operation of God, both immediately, that is, without man's help, and miraculously framed of the substance of the Virgin Mary.
+I. Conception, by which his human nature was by the wonderful power and operation of God, both immediately, that is, without man's help, and miraculously framed of the substance of the Virgin Mary.
 
 > Luke 1:35  
 > The Holy Ghost shall come upon thee, and the power of the most high shall overshadow thee.
