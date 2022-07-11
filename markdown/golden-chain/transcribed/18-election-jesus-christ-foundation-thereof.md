@@ -14,7 +14,7 @@ The foundation is Chriſt Ieſus, called of his Father from all eternitie, to pe
 
 *Queſtion.* How can Chriſt bee ſubordinate vnto Gods election, ſeeing hee together with the Father decree all things?
 
-*A.* Chriſt as he is a Mediator, is not ſuboridnate to the very decree it ſelfe of election but to the execution therof only. 1. Pet. 1. 20. *Chriſt was ordained before the foundation of the world.* Auguſtine in his booke of the Predeſtination of the Saints, cha. 15. *Chriſt was predeſtinate that he might be our head.*
+*A.* Chriſt as he is a Mediator, is not ſubordinate to the very decree it ſelfe of election but to the execution therof only. 1. Pet. 1. 20. *Chriſt was ordained before the foundation of the world.* Auguſtine in his booke of the Predeſtination of the Saints, cha. 15. *Chriſt was predeſtinate that he might be our head.*
 
 In Chriſt, wee muſt eſpecially obſerue two things, his Incarnation, and his Office.
 
