@@ -23,7 +23,7 @@
 - [XV. Of Election, and of Ieſus Chriſt the foundation thereof.](18-election-jesus-christ-foundation-thereof.md)
 - [XVI. Of the Vnion of the two natures in Chriſt.](19-union-two-natures-christ.md)
 - [XVII. Of the diſtinction of both Natures.](20-distinction-both-natures.md)
-- [XVIII. Of Chriſts Natiuitie and Office.]()
+- [XVIII. Of Chriſts Natiuitie and Office.](21-christs-nativity-office.md)
 - [XIX. CONCERNING THE OVTWARD meanes of executing the decree of Election, and of the Decalogue.]()
 - [XX. Of the firſt commandement.]()
 - [XXI. Of the ſecond Commandement.]()
