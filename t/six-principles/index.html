@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -35,13 +34,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "coal" : "rust";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -57,7 +56,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -69,7 +68,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -82,7 +81,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html"><strong aria-hidden="true">1.</strong> Title</a></li><li class="chapter-item expanded "><a href="2-to-all-ignorant-people.html"><strong aria-hidden="true">2.</strong> TO ALL IGNORANT PEOPLE that deſire to be inſtructed.</a></li><li class="chapter-item expanded affix "><li class="part-title">The foundation of Chriſtian Religion gathered into ſixe Principles</li><li class="chapter-item expanded "><a href="3-the-first-principle.html"><strong aria-hidden="true">3.</strong> The firſt Principle.</a></li><li class="chapter-item expanded "><a href="4-the-second-principle.html"><strong aria-hidden="true">4.</strong> The ſecond Principle.</a></li><li class="chapter-item expanded "><a href="5-the-third-principle.html"><strong aria-hidden="true">5.</strong> The third Principle.</a></li><li class="chapter-item expanded "><a href="6-the-fourth-principle.html"><strong aria-hidden="true">6.</strong> The fourth Principle.</a></li><li class="chapter-item expanded "><a href="7-the-fifth-principle.html"><strong aria-hidden="true">7.</strong> The fifth Principle.</a></li><li class="chapter-item expanded "><a href="8-the-sixth-principle.html"><strong aria-hidden="true">8.</strong> The ſixth Principle.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Expoſition of the Principles</li><li class="chapter-item expanded "><a href="9-the-first-principle-expounded.html"><strong aria-hidden="true">9.</strong> The firſt Principle expounded.</a></li><li class="chapter-item expanded "><a href="10-the-second-principle-expounded.html"><strong aria-hidden="true">10.</strong> The ſecond Principle expounded.</a></li><li class="chapter-item expanded "><a href="11-the-third-principle-expounded.html"><strong aria-hidden="true">11.</strong> The third Principle expounded.</a></li><li class="chapter-item expanded "><a href="12-the-fourth-principle-expounded.html"><strong aria-hidden="true">12.</strong> The fourth Principle expounded.</a></li><li class="chapter-item expanded "><a href="13-the-fifth-principle-expounded.html"><strong aria-hidden="true">13.</strong> The fifth Principle expounded.</a></li><li class="chapter-item expanded "><a href="14-the-sixth-principle-expounded.html"><strong aria-hidden="true">14.</strong> The ſixth Principle expounded.</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="1-title.html" class="active"><strong aria-hidden="true">1.</strong> Title</a></li><li class="chapter-item expanded "><a href="2-to-all-ignorant-people.html"><strong aria-hidden="true">2.</strong> TO ALL IGNORANT PEOPLE that deſire to be inſtructed.</a></li><li class="chapter-item expanded affix "><li class="part-title">The foundation of Chriſtian Religion gathered into ſixe Principles</li><li class="chapter-item expanded "><a href="3-the-first-principle.html"><strong aria-hidden="true">3.</strong> The firſt Principle.</a></li><li class="chapter-item expanded "><a href="4-the-second-principle.html"><strong aria-hidden="true">4.</strong> The ſecond Principle.</a></li><li class="chapter-item expanded "><a href="5-the-third-principle.html"><strong aria-hidden="true">5.</strong> The third Principle.</a></li><li class="chapter-item expanded "><a href="6-the-fourth-principle.html"><strong aria-hidden="true">6.</strong> The fourth Principle.</a></li><li class="chapter-item expanded "><a href="7-the-fifth-principle.html"><strong aria-hidden="true">7.</strong> The fifth Principle.</a></li><li class="chapter-item expanded "><a href="8-the-sixth-principle.html"><strong aria-hidden="true">8.</strong> The ſixth Principle.</a></li><li class="chapter-item expanded affix "><li class="part-title">The Expoſition of the Principles</li><li class="chapter-item expanded "><a href="9-the-first-principle-expounded.html"><strong aria-hidden="true">9.</strong> The firſt Principle expounded.</a></li><li class="chapter-item expanded "><a href="10-the-second-principle-expounded.html"><strong aria-hidden="true">10.</strong> The ſecond Principle expounded.</a></li><li class="chapter-item expanded "><a href="11-the-third-principle-expounded.html"><strong aria-hidden="true">11.</strong> The third Principle expounded.</a></li><li class="chapter-item expanded "><a href="12-the-fourth-principle-expounded.html"><strong aria-hidden="true">12.</strong> The fourth Principle expounded.</a></li><li class="chapter-item expanded "><a href="13-the-fifth-principle-expounded.html"><strong aria-hidden="true">13.</strong> The fifth Principle expounded.</a></li><li class="chapter-item expanded "><a href="14-the-sixth-principle-expounded.html"><strong aria-hidden="true">14.</strong> The ſixth Principle expounded.</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -101,7 +100,7 @@
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
                             <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
@@ -139,7 +138,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -185,18 +184,18 @@ Printed by <strong>IOHN LEGATT,</strong><br />
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
 
-        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
 
         <!-- Custom JS scripts -->
 
