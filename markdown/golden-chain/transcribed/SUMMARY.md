@@ -24,7 +24,7 @@
 - [XVI. Of the Vnion of the two natures in Chriſt.](19-union-two-natures-christ.md)
 - [XVII. Of the diſtinction of both Natures.](20-distinction-both-natures.md)
 - [XVIII. Of Chriſts Natiuitie and Office.](21-christs-nativity-office.md)
-- [XIX. CONCERNING THE OVTWARD meanes of executing the decree of Election, and of the Decalogue.]()
+- [XIX. CONCERNING THE OVTWARD meanes of executing the decree of Election, and of the Decalogue.](22-means-election-decalogue.md)
 - [XX. Of the firſt commandement.]()
 - [XXI. Of the ſecond Commandement.]()
 - [XXII. Of the third Commandement.]()
