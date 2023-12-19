@@ -26,11 +26,11 @@ This propoſition is wanting: the aſſumption is in theſe words (*I am Iehouah
 *But I am thy God:*
 *Therefore thou muſt be my people, and take me alone for thy God.*
 
-*Which brought.* The aſſumption or ſecond part of this reaſon, is confirmed by an argument taken from Gods effects, when he deliuered his people out of Egypt, as it were, fró the ſeruitude of a moſt tyranous maſter. This deliuery was not appropriate onely to the Iſraelites, but in ſome ſort belongs to the Church of God in all ages: in that it was a type of a moſt ſurpaſsing deliuery, from the fearefull kingdome of darkeneſſe. 1. Cor. 10. 1, 2. *I would not haue you ignorant, brethren, that all our fathers were vnder the cloud, & all paſſed through the redde ſea, and were all baptized vnto Moſes in the cloud, and in the ſea. Coloſſ. 1. 13. *Who hath deliuered vs from the power of darkeneſſe, and tranſlated vs into the kingdome of his deare Sonne.*
+*Which brought.* The aſſumption or ſecond part of this reaſon, is confirmed by an argument taken from Gods effects, when he deliuered his people out of Egypt, as it were, fró the ſeruitude of a moſt tyranous maſter. This deliuery was not appropriate onely to the Iſraelites, but in ſome ſort belongs to the Church of God in all ages: in that it was a type of a moſt ſurpaſsing deliuery, from the fearefull kingdome of darkeneſſe. 1. Cor. 10. 1, 2. *I would not haue you ignorant, brethren, that all our fathers were vnder the cloud, & all paſſed through the redde ſea, and were all baptized vnto Moſes in the cloud, and in the ſea.* Coloſſ. 1. 13. *Who hath deliuered vs from the power of darkeneſſe, and tranſlated vs into the kingdome of his deare Sonne.*
 
-*Other gods, or ſtrange gods.* They are ſo called, not that they by nature are ſuch, or can bee; but becauſe the corrupt, and more than diueliſh heart of carnall man, eſteemeth ſo of them. Philip. 3. 19. *Whoſe god is their belly.* 2 Corin. 4. 4. *Whoſe minds the god of this world hath bewitched.*
+*Other gods, or ſtrange gods.* They are ſo called, not that they by nature are ſuch, or can bee; but becauſe the corrupt, and more then diueliſh heart of carnall man, eſteemeth ſo of them. Philip. 3. 19. *Whoſe god is their belly.* 2 Corin. 4. 4. *Whoſe minds the god of this world hath bewitched.*
 
-*Before my face.* That is, (figuratiuely) in my fight or preſence, to whome the ſecret imaginations of the heart are knowne: and this is the third reaſon of the firſt commaundement, as if he ſhould ſay: If thou in my preſence reiect me, it is an heinous offence: ſee therefore thou doe it not. After the ſame manner reaſoneth the Lord. Gen. 17. 1. *I am God almighty, therefore walke before me, and be thou vpright.*
+*Before my face.* That is, (figuratiuely) in my ſight or preſence, to whome the ſecret imaginations of the heart are knowne: and this is the third reaſon of the firſt commaundement, as if he ſhould ſay: If thou in my preſence reiect me, it is an heinous offence: ſee therefore thou doe it not. After the ſame manner reaſoneth the Lord. Gen. 17. 1. *I am God almighty, therefore walke before me, and be thou vpright.*
 
 ## The affirmatiue part.
 
@@ -58,7 +58,7 @@ Hence ariſeth the godly mans deſire, to approue himſelfe in al things to his 
 
 Out of theſe three former vertues proceedeth humility, wherby a man acknowledging Gods free bounty, and proſtrating himſelfe before him, doth aſcribe vnto him all prayſe & glory. 1. Cor. 1. 31. *Let him that glorieth, glory in the Lord.* 1. Pet. 5. 5. *Decke your ſelues inwardly with lowlineſſe of mind, for God reſiſteth the proud, and giueth grace to the humble.* ver. 6. *Humble your ſelues therefore vnder the mightie hand of God, that he may exalt you in due time.* 1 Chr. 29. 10. 11. *And Dauid ſaid, Bleſſed be thou O Lord God of Iſrael our father for euer, and thine, O Lord, is greatnes and power, and glory, and victory, and praiſe: for all that is in heauen, and in earth is thing, & c.* & v. 14. *But who am I, and what is my people, that wee ſhould be able to offer willingly on this ſort: for all things come of thee, & of thine own hand we haue giué thee, &c.*
 
-## The netatiue part.
+## The negatiue part.
 
 *Account not that as God, which is by nature no God.*
 
@@ -66,7 +66,7 @@ In this place are theſe ſinnes forbidden:
 
 I. Ignorance of the true God and his will, which is not onely not to know, but alſo to doubt of ſuch things, as God hath reuealed in his word. *Ier.* 4. 22. *My people is fooliſh, they haue not knowne me: they are fooliſh children, and haue not vnderſtanding: they are wiſe to do euill, but to doe well they haue no knowledge.* *Ier.* 9. 3. *They proceede from euill to worſe, and haue not knowne me, ſaith the Lord.*
 
-II. Atheiſme, when the heart denieth eyther God, or his attributes: as, his Iuſtice, Wiſedome, Prouidence, Preſence, Pſal. 14. 1. *The foole hath ſaid in his heart, there is no God.* Epheſ. 2. 12. *Ye had no hope, and were without God in the world.* Mal. 1. 2. *I loue you, ſaith the Lord, yet ye ſay, wherein haue we ſpoken againſt thee?* and cha. 3. 14. *Ye haue ſaid, it is in vaine to ſerue God: and what profit is it, that we haue kept his commandements, and that we walked humbly before the Lord of hoſts?
+II. Atheiſme, when the heart denieth eyther God, or his attributes: as, his Iuſtice, Wiſedome, Prouidence, Preſence, Pſal. 14. 1. *The foole hath ſaid in his heart, there is no God.* Epheſ. 2. 12. *Ye had no hope, and were without God in the world.* Mal. 1. 2. *I loue you, ſaith the Lord, yet ye ſay, wherein haue we ſpoken againſt thee?* and cha. 3. 14. *Ye haue ſaid, it is in vaine to ſerue God: and what profit is it, that we haue kept his commandements, and that we walked humbly before the Lord of hoſts?*
 
 III. Errours concerning God, the perſons of the Deity, or the attributes. Here is to bee reprooued Helleniſme, which is the acknowledging and adoring of a multiplicitie of Gods. *Auguſt.* in his 6. booke of the City of God. chap. 7.
 
